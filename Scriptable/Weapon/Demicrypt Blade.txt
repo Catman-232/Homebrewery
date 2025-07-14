@@ -1,0 +1,31 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType WEAPON
+_itemDescription Whispers of the dead are sealed in this sword.
+_itemIcon _wepIco_27 (UnityEngine.Sprite)
+_itemName Demicrypt Blade
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (7, 13)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 50
+_weaponConditionSlot ConditionSlot
+_weaponDamage 7
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-6) WEAPON_Demicrypt Blade (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _weapon_blade05 (UnityEngine.Mesh)
+weaponTexture meleeWepTex_blade05 (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

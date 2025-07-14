@@ -1,0 +1,32 @@
+_combatElement 1_COMBATELEMENT_Fire (ScriptableCombatElement)
+_damageBonus 0
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType WEAPON
+_itemDescription Hot, hot, hot to the touch!
+_itemIcon _wepIco_68 (UnityEngine.Sprite)
+_itemName Hellsludge Shivs
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (13, 16)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 150
+_weaponConditionSlot ConditionSlot
+_weaponDamage 13
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-14) WEAPON_Hellsludge Shivs (Fist Weapon, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_03 (UnityEngine.Mesh)
+weaponTexture katar03Tex_01 (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

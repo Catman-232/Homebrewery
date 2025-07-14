@@ -1,0 +1,31 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_56 (UnityEngine.Sprite)
+_itemName Mithril Greatsword
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (28, 34)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 730
+_weaponConditionSlot ConditionSlot
+_weaponDamage 28
+_weaponHoldClipIndex 1
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-16) WEAPON_Mithril Greatsword (Great Weapon, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _heavyWeapon_greatsword01_alt00 (UnityEngine.Mesh)
+weaponTexture greatsword01Tex_02 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

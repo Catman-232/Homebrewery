@@ -1,0 +1,33 @@
+_combatElement 1_COMBATELEMENT_Fire (ScriptableCombatElement)
+_damageBonus 9
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_63 (UnityEngine.Sprite)
+_itemName Flamepetal Staff
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (12, 24)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 945
+_weaponConditionSlot ConditionSlot
+_weaponDamage 12
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_fire)_01 (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Flamepetal Staff (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter06 (UnityEngine.Mesh)
+weaponTexture scepter06Tex_00 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

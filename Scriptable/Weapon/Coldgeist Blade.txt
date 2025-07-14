@@ -1,0 +1,32 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription Forged from corrupted frost, formally used by ancient sages.
+_itemIcon _wepIco_45 (UnityEngine.Sprite)
+_itemName Coldgeist Blade
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (19, 23)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 798
+_weaponConditionSlot ConditionSlot
+_weaponDamage 19
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Coldgeist Blade (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _weapon_blade06 (UnityEngine.Mesh)
+weaponTexture blade06Tex_00 (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

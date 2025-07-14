@@ -1,0 +1,33 @@
+_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 20
+_equipType WEAPON
+_itemDescription The mysterious components inside of this gun use energies from Blightwoods.
+_itemIcon _wepIco_74 (UnityEngine.Sprite)
+_itemName Magitek Burstgun
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (20, 27)
+_setWeaponSwingSfx forceshotgun_lv1 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_pickup (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1150
+_weaponConditionSlot ConditionSlot
+_weaponDamage 20
+_weaponHoldClipIndex 1
+_weaponProjectileSet weaponProjectileSet_magitekBurstGun (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-20) WEAPON_Magitek Burstgun (Shotgun, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh gun_00 (UnityEngine.Mesh)
+weaponTexture gun00Tex_00 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

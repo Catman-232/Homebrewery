@@ -1,0 +1,31 @@
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_01 (UnityEngine.Sprite)
+_itemName Iron Sword
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (6, 10)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 70
+_weaponConditionSlot ConditionSlot
+_weaponDamage 6
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-6) WEAPON_Iron Sword (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _weapon_blade03 (UnityEngine.Mesh)
+weaponTexture blade03Tex (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

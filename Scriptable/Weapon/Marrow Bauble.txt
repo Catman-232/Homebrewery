@@ -1,0 +1,33 @@
+_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
+_damageBonus 6
+_destroyOnDrop False
+_equipmentLevel 2
+_equipType WEAPON
+_itemDescription Who's skull is this?
+_itemIcon _wepIco_33 (UnityEngine.Sprite)
+_itemName Marrow Bauble
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (5, 14)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 48
+_weaponConditionSlot ConditionSlot
+_weaponDamage 5
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_shadow) (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-2) WEAPON_Marrow Bauble (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter05 (UnityEngine.Mesh)
+weaponTexture scepter05Tex_00 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

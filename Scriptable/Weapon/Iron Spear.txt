@@ -1,0 +1,31 @@
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_48 (UnityEngine.Sprite)
+_itemName Iron Spear
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (5, 12)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 100
+_weaponConditionSlot ConditionSlot
+_weaponDamage 5
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-6) WEAPON_Iron Spear (Polearm, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_01 (UnityEngine.Mesh)
+weaponTexture polearm01Tex_01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

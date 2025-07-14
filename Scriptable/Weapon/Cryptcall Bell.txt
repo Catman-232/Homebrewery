@@ -1,0 +1,33 @@
+_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription The bell tolls for the dead.
+_itemIcon _wepIco_29 (UnityEngine.Sprite)
+_itemName Cryptcall Bell
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (10, 17)
+_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 62
+_weaponConditionSlot ConditionSlot
+_weaponDamage 10
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_bell_shadow (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-8) WEAPON_Cryptcall Bell (Magic Bell, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _bell_02 (UnityEngine.Mesh)
+weaponTexture bell02Tex (UnityEngine.Texture2D)
+weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)

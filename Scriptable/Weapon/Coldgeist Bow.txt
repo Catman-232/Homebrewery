@@ -1,0 +1,33 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription Ruination of the lost frozen souls.
+_itemIcon _wepIco_46 (UnityEngine.Sprite)
+_itemName Coldgeist Bow
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (20, 26)
+_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 875
+_weaponConditionSlot ConditionSlot
+_weaponDamage 20
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_arrow_water (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Coldgeist Bow (Bow, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh bow_05_alt00 (UnityEngine.Mesh)
+weaponTexture bow05Tex_01 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

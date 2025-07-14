@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Teeming with electricity. Too big of a weapon to use on your own.
+_itemIcon _tradIco_15 (UnityEngine.Sprite)
+_itemName Wizboar Scepter
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 18
+hideFlags None
+name TRADEITEM_Wizboar Scepter

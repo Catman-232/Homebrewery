@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription These are somehow sharp on the ends, which can actually hurt.
+_itemIcon _tradIco_01 (UnityEngine.Sprite)
+_itemName Slime Ears
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 10
+hideFlags None
+name TRADEITEM_Slime Ears

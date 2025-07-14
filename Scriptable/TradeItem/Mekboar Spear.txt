@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription It is unknown how this spear was attached to a boar.
+_itemIcon _tradIco_08 (UnityEngine.Sprite)
+_itemName Mekboar Spear
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 30
+_questTriggerTag 
+_vendorCost 15
+hideFlags None
+name TRADEITEM_Mekboar Spear

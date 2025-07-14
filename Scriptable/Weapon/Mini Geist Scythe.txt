@@ -1,0 +1,31 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType WEAPON
+_itemDescription The only best friend of a Mini Geist. The blade emanates menacingly.
+_itemIcon _wepIco_07 (UnityEngine.Sprite)
+_itemName Mini Geist Scythe
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (9, 15)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 35
+_weaponConditionSlot ConditionSlot
+_weaponDamage 9
+_weaponHoldClipIndex 1
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-4) WEAPON_Mini Geist Scythe (Great Weapon, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _axeHammer_04 (UnityEngine.Mesh)
+weaponTexture miniGeist_tex01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

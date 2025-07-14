@@ -1,0 +1,32 @@
+_combatElement 4_COMBATELEMENT_Earth (ScriptableCombatElement)
+_damageBonus 8
+_destroyOnDrop False
+_equipmentLevel 20
+_equipType WEAPON
+_itemDescription Pow!
+_itemIcon _wepIco_73 (UnityEngine.Sprite)
+_itemName Golemfist Katars
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (20, 31)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1320
+_weaponConditionSlot ConditionSlot
+_weaponDamage 20
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-20) WEAPON_Golemfist Katars (Fist Weapons, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_08 (UnityEngine.Mesh)
+weaponTexture katar08Tex_00 (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

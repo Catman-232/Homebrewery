@@ -1,0 +1,32 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 9
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription Cold to the touch...
+_itemIcon _wepIco_40 (UnityEngine.Sprite)
+_itemName Frostbite Claws
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (13, 25)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 800
+_weaponConditionSlot ConditionSlot
+_weaponDamage 13
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Frostbite Claws (Fist Weapons, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_04 (UnityEngine.Mesh)
+weaponTexture katar05Tex_00 (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

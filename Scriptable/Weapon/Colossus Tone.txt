@@ -1,0 +1,33 @@
+_combatElement 4_COMBATELEMENT_Earth (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 18
+_equipType WEAPON
+_itemDescription Pieces of a Colossus are embedded into this bell.
+_itemIcon _wepIco_71 (UnityEngine.Sprite)
+_itemName Colossus Tone
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (24, 30)
+_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1350
+_weaponConditionSlot ConditionSlot
+_weaponDamage 24
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_bell_colossusTone (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-18) WEAPON_Colossus Tone (Magic Bell, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _bell_05 (UnityEngine.Mesh)
+weaponTexture bell05Tex_01 (UnityEngine.Texture2D)
+weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)

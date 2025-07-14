@@ -1,0 +1,33 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription Used to awaken Geistlords with its spine chilling tone.
+_itemIcon _wepIco_47 (UnityEngine.Sprite)
+_itemName Coldgeist Frostcaller
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (19, 25)
+_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 875
+_weaponConditionSlot ConditionSlot
+_weaponDamage 19
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_bell_coldgeist (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Coldgeist Frostcaller (Magic Bell, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _bell_03 (UnityEngine.Mesh)
+weaponTexture bell03Tex_00 (UnityEngine.Texture2D)
+weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)

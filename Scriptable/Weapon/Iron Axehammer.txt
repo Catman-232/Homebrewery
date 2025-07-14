@@ -1,0 +1,31 @@
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_08 (UnityEngine.Sprite)
+_itemName Iron Axehammer
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (13, 20)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 150
+_weaponConditionSlot ConditionSlot
+_weaponDamage 13
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-6) WEAPON_Iron Axehammer (Hammer, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _axeHammer_03 (UnityEngine.Mesh)
+weaponTexture axeHammer03Tex_01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

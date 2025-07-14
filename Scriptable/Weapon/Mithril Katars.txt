@@ -1,0 +1,31 @@
+_damageBonus 0
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_57 (UnityEngine.Sprite)
+_itemName Mithril Katars
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (14, 17)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 520
+_weaponConditionSlot ConditionSlot
+_weaponDamage 14
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-14) WEAPON_Mithril Katars (Fist Weapons, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_06 (UnityEngine.Mesh)
+weaponTexture katar06Tex_00png (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

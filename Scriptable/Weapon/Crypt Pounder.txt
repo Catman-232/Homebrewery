@@ -1,0 +1,32 @@
+_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
+_damageBonus 7
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription Made with the bones of sinners.
+_itemIcon _wepIco_10 (UnityEngine.Sprite)
+_itemName Crypt Pounder
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (18, 28)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 650
+_weaponConditionSlot ConditionSlot
+_weaponDamage 18
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-8) WEAPON_Crypt Pounder (Hammer, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _axeHammer_02 (UnityEngine.Mesh)
+weaponTexture hammer02Tex (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

@@ -1,0 +1,32 @@
+_damageBonus 5
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_58 (UnityEngine.Sprite)
+_itemName Mithril Scepter
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (12, 20)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 500
+_weaponConditionSlot ConditionSlot
+_weaponDamage 12
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_normal) (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Mithril Scepter (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter02_alt00 (UnityEngine.Mesh)
+weaponTexture scepter02Tex_03 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

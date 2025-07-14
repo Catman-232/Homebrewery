@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription The smile on this fish could drive you insane.
+_itemIcon _tradIco_49 (UnityEngine.Sprite)
+_itemName Smiling Wrellfish
+_itemRarity Common
+_itemSortTag FISH
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 8
+hideFlags None
+name TRADEITEM_Smiling Wrellfish

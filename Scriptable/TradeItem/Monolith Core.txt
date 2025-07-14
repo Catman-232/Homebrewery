@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription The heart of a Monolith. Dark green energy pulsates from within it.
+_itemIcon _tradIco_35 (UnityEngine.Sprite)
+_itemName Monolith Core
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 45
+hideFlags None
+name TRADEITEM_Monolith Core

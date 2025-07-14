@@ -1,0 +1,31 @@
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType WEAPON
+_itemDescription Looks to have a worn out blade, but still sharp enough for it to do some damage.
+_itemIcon _wepIco_03 (UnityEngine.Sprite)
+_itemName Gilded Sword
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (5, 12)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 20
+_weaponConditionSlot ConditionSlot
+_weaponDamage 5
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-4) WEAPON_Gilded Sword (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _mediumMelee_sword02 (UnityEngine.Mesh)
+weaponTexture _sword02Tex_01 (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

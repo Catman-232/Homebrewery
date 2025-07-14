@@ -1,0 +1,32 @@
+_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
+_damageBonus 9
+_destroyOnDrop False
+_equipmentLevel 22
+_equipType WEAPON
+_itemDescription Do not listen to what this blade tells you.
+_itemIcon _wepIco_75 (UnityEngine.Sprite)
+_itemName Deathknight Runeblade
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (40, 52)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 985
+_weaponConditionSlot ConditionSlot
+_weaponDamage 40
+_weaponHoldClipIndex 1
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-22) WEAPON_Deathknight Runeblade (Great Weapon, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _playerDeathKnightSword (UnityEngine.Mesh)
+weaponTexture _deathKnightSwordTex (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

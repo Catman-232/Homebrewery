@@ -1,0 +1,32 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_50 (UnityEngine.Sprite)
+_itemName Iron Bell
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (9, 15)
+_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 185
+_weaponConditionSlot ConditionSlot
+_weaponDamage 9
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_bell_normal (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-8) WEAPON_Iron Bell (Magic Bell, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _bell_01 (UnityEngine.Mesh)
+weaponTexture bell01Tex_02 (UnityEngine.Texture2D)
+weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)

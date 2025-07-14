@@ -1,0 +1,31 @@
+_damageBonus 8
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType WEAPON
+_itemDescription Rotted, deadly Deathgel ears.
+_itemIcon _wepIco_36 (UnityEngine.Sprite)
+_itemName Deathgel Shivs
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (4, 15)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 98
+_weaponConditionSlot ConditionSlot
+_weaponDamage 4
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_03 (UnityEngine.Mesh)
+weaponTexture katar03Tex_01 (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

@@ -1,0 +1,32 @@
+_combatElement 1_COMBATELEMENT_Fire (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 22
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_76 (UnityEngine.Sprite)
+_itemName Flametribe Spear
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (28, 34)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1395
+_weaponConditionSlot ConditionSlot
+_weaponDamage 28
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-22) WEAPON_Flametribe Spear (Polearm, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_05 (UnityEngine.Mesh)
+weaponTexture polearm05_tex (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

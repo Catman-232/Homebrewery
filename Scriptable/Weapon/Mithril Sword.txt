@@ -1,0 +1,31 @@
+_damageBonus 2
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_52 (UnityEngine.Sprite)
+_itemName Mithril Sword
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (14, 19)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 570
+_weaponConditionSlot ConditionSlot
+_weaponDamage 14
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Mithril Sword (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _weapon_blade03_alt00 (UnityEngine.Mesh)
+weaponTexture blade03Tex_03 (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

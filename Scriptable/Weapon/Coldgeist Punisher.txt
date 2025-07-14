@@ -1,0 +1,32 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 6
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription The blade of the axe is forever frigid.
+_itemIcon _wepIco_41 (UnityEngine.Sprite)
+_itemName Coldgeist Punisher
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (36, 45)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 900
+_weaponConditionSlot ConditionSlot
+_weaponDamage 36
+_weaponHoldClipIndex 1
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-16) WEAPON_Coldgeist Punisher (Great Weapon, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _axeHammer_04 (UnityEngine.Mesh)
+weaponTexture axeHammer04Tex_00 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

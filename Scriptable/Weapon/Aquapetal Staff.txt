@@ -1,0 +1,33 @@
+_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_62 (UnityEngine.Sprite)
+_itemName Aquapetal Staff
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (15, 21)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 930
+_weaponConditionSlot ConditionSlot
+_weaponDamage 15
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_water)_01 (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Aquapetal Staff (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter06 (UnityEngine.Mesh)
+weaponTexture scepter06Tex_00 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

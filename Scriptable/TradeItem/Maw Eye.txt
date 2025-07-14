@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription There's a glare of anxiety in the dilated pupil.
+_itemIcon _tradIco_37 (UnityEngine.Sprite)
+_itemName Maw Eye
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 45
+_questTriggerTag 
+_vendorCost 12
+hideFlags None
+name TRADEITEM_Maw Eye

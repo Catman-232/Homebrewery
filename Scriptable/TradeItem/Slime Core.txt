@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription A chunk of a Slime.
+_itemIcon _tradIco_00 (UnityEngine.Sprite)
+_itemName Slime Core
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 7
+hideFlags None
+name TRADEITEM_Slime Core

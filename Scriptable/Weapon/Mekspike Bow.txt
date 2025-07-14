@@ -1,0 +1,33 @@
+_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
+_damageBonus 2
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription The construct of this bow is similar of a Mekboar.
+_itemIcon _wepIco_18 (UnityEngine.Sprite)
+_itemName Mekspike Bow
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (7, 12)
+_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 72
+_weaponConditionSlot ConditionSlot
+_weaponDamage 7
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-8) WEAPON_Mekspike Bow (Bow, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh bow_03 (UnityEngine.Mesh)
+weaponTexture bow03Tex_01 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

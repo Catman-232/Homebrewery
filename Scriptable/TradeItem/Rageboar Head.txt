@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription The eyes are bloodshot and filled with rage.
+_itemIcon _tradIco_43 (UnityEngine.Sprite)
+_itemName Rageboar Head
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 15
+hideFlags None
+name TRADEITEM_Rageboar Head
