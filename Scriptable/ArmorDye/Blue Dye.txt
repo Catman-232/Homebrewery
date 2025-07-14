@@ -1,0 +1,17 @@
+_consumableCooldown 1.5
+_destroyOnDrop False
+_dyeParams ColorAdjustShader_Profile
+_itemDescription A vial of blue dye.
+_itemIcon _dyeIco_blue (UnityEngine.Sprite)
+_itemName Blue Dye
+_itemRarity Common
+_itemSortTag SPECIAL
+_itemType CONSUMABLE
+_levelRequirement 0
+_maxStackAmount 1
+_questTriggerTag 
+_unperishable False
+_useOnlyInTown False
+_vendorCost 160
+hideFlags None
+name DYE_Blue Dye
