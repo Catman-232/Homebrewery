@@ -1,0 +1,20 @@
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType OFFHAND
+_itemDescription Something's intimidating about the design.
+_itemIcon _shieldIco_04 (UnityEngine.Sprite)
+_itemName Omen Shield
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_shieldMesh _shield_02 (UnityEngine.Mesh)
+_shieldTexture shield02Tex_01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 187
+hideFlags None
+name (lv-8) SHIELD_Omen Shield

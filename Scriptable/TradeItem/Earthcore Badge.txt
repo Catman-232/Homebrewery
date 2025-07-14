@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription A badge with a tint of corruption, dropped from a Colossus. Can be traded for elusive treasures.
+_itemIcon _tradIco_59 (UnityEngine.Sprite)
+_itemName Earthcore Badge
+_itemRarity Rare
+_itemSortTag SPECIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 0
+hideFlags None
+name TRADEITEM_Earthcore Badge

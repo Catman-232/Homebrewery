@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Has capabilities to change a weapon damage scale to mind.
+_itemIcon _tradIco_42 (UnityEngine.Sprite)
+_itemName Flux Stone
+_itemRarity Common
+_itemSortTag NONE
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 480
+hideFlags None
+name TRADEITEM_Flux Stone

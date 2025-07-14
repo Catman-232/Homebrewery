@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Shaking the bell doesn't make any noise.
+_itemIcon _tradIco_11 (UnityEngine.Sprite)
+_itemName Geist Collar
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 4
+hideFlags None
+name TRADEITEM_Geist Collar

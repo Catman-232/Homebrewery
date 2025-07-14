@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription A badge dropped from a Coldgeist Geistlord. It's extremely cold to the touch. Can be traded for elusive treasures.
+_itemIcon _tradIco_58 (UnityEngine.Sprite)
+_itemName Coldgeist Badge
+_itemRarity Rare
+_itemSortTag SPECIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 0
+hideFlags None
+name TRADEITEM_Coldgeist Badge

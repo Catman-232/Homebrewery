@@ -1,0 +1,29 @@
+_armorTexture _lgTex_32 (UnityEngine.Texture2D)
+_canDyeArmor False
+_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_02 (UnityEngine.Sprite)
+_itemName Reapsow Pants
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceRender_01 00_armorRender_legCuffs_00 (ScriptableArmorRender)
+_legPieceTexture_01 _lgTex_32 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_32 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_32 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_32 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 800
+hideFlags None
+name (lv-12) LEGGINGS_Reapsow Pants

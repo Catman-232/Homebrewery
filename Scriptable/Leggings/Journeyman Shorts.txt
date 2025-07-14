@@ -1,0 +1,27 @@
+_armorTexture _lgTex_28b (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 2
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_15 (UnityEngine.Sprite)
+_itemName Journeyman Shorts
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_28b (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_28b (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_28b (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_28b (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet False
+_textureUpperLegOnly False
+_vendorCost 40
+hideFlags None
+name (lv-2) LEGGINGS_Journeyman Shorts

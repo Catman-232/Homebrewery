@@ -1,0 +1,30 @@
+_armorTexture _lgTex_19b (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription Your pants, my liege?
+_itemIcon _legIco_05 (UnityEngine.Sprite)
+_itemName King Greaves
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceRender_01 00_armorRender_hipMesh_00 (ScriptableArmorRender)
+_legPieceRender_02 00_armorRender_legCuffs_01 (ScriptableArmorRender)
+_legPieceTexture_01 _legpadsTex_04 (UnityEngine.Texture2D)
+_legPieceTexture_02 _legpadsTex_04 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_19b (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_19b (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 1000
+hideFlags None
+name (lv-16) LEGGINGS_King Greaves

@@ -1,0 +1,28 @@
+_armorTexture _lgTex_34 (UnityEngine.Texture2D)
+_canDyeArmor False
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_04 (UnityEngine.Sprite)
+_itemName Witchwizard Garterbelt
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_34 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_34 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_34 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_34 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 1000
+hideFlags None
+name (lv-16) LEGGINGS_Witchwizard Garterbelt

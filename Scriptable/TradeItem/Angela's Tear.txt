@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Instantly revives the holder if they die.
+_itemIcon _tradIco_31 (UnityEngine.Sprite)
+_itemName Angela's Tear
+_itemRarity Common
+_itemSortTag SPECIAL
+_itemType TRADE
+_maxStackAmount 1
+_questTriggerTag 
+_vendorCost 3500
+hideFlags None
+name TRADEITEM_Angela's Tear

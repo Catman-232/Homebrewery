@@ -1,0 +1,28 @@
+_armorTexture _lgTex_20 (UnityEngine.Texture2D)
+_canDyeArmor False
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_03 (UnityEngine.Sprite)
+_itemName Witchlock Loincloth
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_20 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_20 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_20 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_20 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 800
+hideFlags None
+name (lv-12) LEGGINGS_Witchlock Loincloth

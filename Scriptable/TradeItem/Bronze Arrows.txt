@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Ammunition for bows.
+_itemIcon _tradIco_29 (UnityEngine.Sprite)
+_itemName Bronze Arrows
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 999
+_questTriggerTag 
+_vendorCost 3
+hideFlags None
+name TRADEITEM_Bronze Arrows

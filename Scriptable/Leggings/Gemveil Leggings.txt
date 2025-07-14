@@ -1,0 +1,27 @@
+_armorTexture _lgTex_45 (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 22
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_25 (UnityEngine.Sprite)
+_itemName Gemveil Leggings
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_45 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_45 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_45 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_45 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 1240
+hideFlags None
+name (lv-22) LEGGINGS_Gemveil Leggings

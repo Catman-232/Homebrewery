@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription There are magic glyphs on this note. They seem to slowly float above the parchment.
+_itemIcon _tradIco_39 (UnityEngine.Sprite)
+_itemName Cursed Note
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 26
+hideFlags None
+name TRADEITEM_Cursed Note

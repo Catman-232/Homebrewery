@@ -1,0 +1,20 @@
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType OFFHAND
+_itemDescription The face is confident.
+_itemIcon _shieldIco_11 (UnityEngine.Sprite)
+_itemName Rustwise Shield
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_shieldMesh _shield_05_alt00 (UnityEngine.Mesh)
+_shieldTexture shield05_tex2 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1260
+hideFlags None
+name (lv-16) SHIELD_Rustwise Shield

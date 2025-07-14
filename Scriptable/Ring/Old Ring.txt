@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription 
+_itemIcon icon_ring01 (UnityEngine.Sprite)
+_itemName Old Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 23
+hideFlags None
+name (lv-1) RING_Old Ring

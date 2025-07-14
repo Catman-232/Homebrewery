@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription Excelsior!
+_itemIcon icon_ring03 (UnityEngine.Sprite)
+_itemName Students Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 165
+hideFlags None
+name (lv-12) RING_Students Ring

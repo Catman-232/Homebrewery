@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription The tail of the fish on this ring moves rapidly.
+_itemIcon icon_ring13 (UnityEngine.Sprite)
+_itemName Jadetrout Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 815
+hideFlags None
+name (lv-16) RING_Jadetrout Ring

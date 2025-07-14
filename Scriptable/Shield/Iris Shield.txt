@@ -1,0 +1,20 @@
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType OFFHAND
+_itemDescription Invoker of arcane tears.
+_itemIcon _shieldIco_05 (UnityEngine.Sprite)
+_itemName Iris Shield
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_shieldMesh _shield_03 (UnityEngine.Mesh)
+_shieldTexture shield03Tex_01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 198
+hideFlags None
+name (lv-8) SHIELD_Iris Shield

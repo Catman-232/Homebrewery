@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType ARMOR
+_itemDescription Tough as nails.
+_itemIcon icon_ring05 (UnityEngine.Sprite)
+_itemName Ambersquire Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 150
+hideFlags None
+name (lv-6) RING_Ambersquire Ring

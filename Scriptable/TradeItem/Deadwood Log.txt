@@ -1,0 +1,12 @@
+_destroyOnDrop False
+_itemDescription Hot orange energy eminates within this log.
+_itemIcon _tradIco_30 (UnityEngine.Sprite)
+_itemName Deadwood Log
+_itemRarity Common
+_itemSortTag TRADE_MATERIAL
+_itemType TRADE
+_maxStackAmount 99
+_questTriggerTag 
+_vendorCost 35
+hideFlags None
+name TRADEITEM_Deadwood Log

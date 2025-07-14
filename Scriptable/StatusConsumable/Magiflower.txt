@@ -1,0 +1,24 @@
+_consumableCondition ConditionSlot
+_consumableCooldown 7
+_consumableObject _consumableEffect_manaConsumable (UnityEngine.GameObject)
+_destroyOnDrop False
+_expGain 0
+_healthApply 0
+_itemDescription A gratuitous mind replenishing flower.
+_itemIcon _conIco_25 (UnityEngine.Sprite)
+_itemName Magiflower
+_itemRarity Common
+_itemSortTag REPLENISH_HEALTH
+_itemType CONSUMABLE
+_levelRequirement 0
+_manaApply 120
+_maxStackAmount 99
+_questTriggerTag 
+_resetAttributePoints False
+_resetSkillPoints False
+_staminaApply 0
+_unperishable False
+_useOnlyInTown False
+_vendorCost 200
+hideFlags None
+name (lv-0) STATUSCONSUMABLE_Magiflower

@@ -1,0 +1,26 @@
+_armorTexture _lgTex_27a (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_00 (UnityEngine.Sprite)
+_itemName Vampiric Leggings
+_itemRarity Cosmetic
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_27a (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_27a (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_27a (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_27a (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 300
+hideFlags None
+name (lv-1) LEGGINGS_Vampiric Leggings

@@ -1,0 +1,19 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 18
+_equipType ARMOR
+_itemDescription The gems glimmer much like the gems of a Colossus.
+_itemIcon icon_ring14 (UnityEngine.Sprite)
+_itemName Earthwoken Ring
+_itemRarity Exotic
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_vendorCost 1450
+hideFlags None
+name (lv-18) RING_Earthwoken Ring

@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType ARMOR
+_itemDescription The pearls chime, providing a peace of mind and clarity.
+_itemIcon icon_ring10 (UnityEngine.Sprite)
+_itemName Pearlpond Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 289
+hideFlags None
+name (lv-14) RING_Pearlpond Ring

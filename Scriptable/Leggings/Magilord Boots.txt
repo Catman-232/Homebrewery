@@ -1,0 +1,29 @@
+_armorTexture _lgTex_31 (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 18
+_equipType ARMOR
+_itemDescription Keeps the toes warm.
+_itemIcon _legIco_21 (UnityEngine.Sprite)
+_itemName Magilord Boots
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceRender_01 00_armorRender_legCuffs_00 (ScriptableArmorRender)
+_legPieceTexture_01 _lgTex_31 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_31 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_31 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_31 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 1530
+hideFlags None
+name (lv-18) LEGGINGS_Magilord Boots

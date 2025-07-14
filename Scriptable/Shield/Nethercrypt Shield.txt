@@ -1,0 +1,20 @@
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType OFFHAND
+_itemDescription Emblem of the twisted nether realm.
+_itemIcon _shieldIco_07 (UnityEngine.Sprite)
+_itemName Nethercrypt Shield
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_shieldMesh _shield_04 (UnityEngine.Mesh)
+_shieldTexture shield04Tex_00 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 439
+hideFlags None
+name (lv-14) SHIELD_Nethercrypt Shield

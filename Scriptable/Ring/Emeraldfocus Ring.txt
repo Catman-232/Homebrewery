@@ -1,0 +1,20 @@
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType ARMOR
+_itemDescription The emerald glistens even from afar.
+_itemIcon icon_ring06 (UnityEngine.Sprite)
+_itemName Emeraldfocus Ring
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 150
+hideFlags None
+name (lv-6) RING_Emeraldfocus Ring

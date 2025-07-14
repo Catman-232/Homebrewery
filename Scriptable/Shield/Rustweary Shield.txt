@@ -1,0 +1,20 @@
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType OFFHAND
+_itemDescription The face is worried.
+_itemIcon _shieldIco_10 (UnityEngine.Sprite)
+_itemName Rustweary Shield
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_shieldMesh _shield_05 (UnityEngine.Mesh)
+_shieldTexture shield05_tex (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1260
+hideFlags None
+name (lv-16) SHIELD_Rustweary Shield
