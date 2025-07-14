@@ -1,0 +1,31 @@
+_damageBonus 0
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_woodSword (UnityEngine.Sprite)
+_itemName Wood Sword
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (2, 5)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 10
+_weaponConditionSlot ConditionSlot
+_weaponDamage 2
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-1) WEAPON_Wood Sword (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _mediumMelee_sword01 (UnityEngine.Mesh)
+weaponTexture _sword01Tex_wood (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

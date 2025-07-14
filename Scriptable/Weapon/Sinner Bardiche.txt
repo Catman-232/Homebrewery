@@ -1,0 +1,31 @@
+_damageBonus 6
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType WEAPON
+_itemDescription Blood of the sinners coat this weapon.
+_itemIcon _wepIco_31 (UnityEngine.Sprite)
+_itemName Sinner Bardiche
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (8, 17)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 432
+_weaponConditionSlot ConditionSlot
+_weaponDamage 8
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-12) WEAPON_Sinner Bardiche (Polearm, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_bardiche (UnityEngine.Mesh)
+weaponTexture bardiche_texure (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

@@ -1,0 +1,31 @@
+_damageBonus 0
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_woodDagger (UnityEngine.Sprite)
+_itemName Wood Daggers
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (1, 4)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 5
+_weaponConditionSlot ConditionSlot
+_weaponDamage 1
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-1) WEAPON_Wood Daggers (Fist Weapon, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh _lightMelee_dagger01 (UnityEngine.Mesh)
+weaponTexture _dagger01Tex_wood (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

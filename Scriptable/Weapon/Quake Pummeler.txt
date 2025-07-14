@@ -1,0 +1,32 @@
+_combatElement 4_COMBATELEMENT_Earth (ScriptableCombatElement)
+_damageBonus 15
+_destroyOnDrop False
+_equipmentLevel 18
+_equipType WEAPON
+_itemDescription Smash them all into oblivion.
+_itemIcon _wepIco_72 (UnityEngine.Sprite)
+_itemName Quake Pummeler
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (42, 60)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 1895
+_weaponConditionSlot ConditionSlot
+_weaponDamage 42
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-18) WEAPON_Quake Pummeler (Hammer, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _heavyWeapon_00 (UnityEngine.Mesh)
+weaponTexture heavyWeapon01Tex_00 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

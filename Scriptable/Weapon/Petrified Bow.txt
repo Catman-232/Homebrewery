@@ -1,0 +1,33 @@
+_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType WEAPON
+_itemDescription Lost souls of the damned are welded to this bow.
+_itemIcon _wepIco_35 (UnityEngine.Sprite)
+_itemName Petrified Bow
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (12, 18)
+_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 489
+_weaponConditionSlot ConditionSlot
+_weaponDamage 12
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_arrow_shadow (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-12) WEAPON_Petrified Bow (Bow, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh bow_05 (UnityEngine.Mesh)
+weaponTexture bow05Tex_00 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

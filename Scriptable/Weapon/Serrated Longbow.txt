@@ -1,0 +1,33 @@
+_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
+_damageBonus 5
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription Sharp and twisted. Fires arrows that pierce.
+_itemIcon _wepIco_61 (UnityEngine.Sprite)
+_itemName Serrated Longbow
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (16, 24)
+_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 930
+_weaponConditionSlot ConditionSlot
+_weaponDamage 16
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_arrow_pierce (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-16) WEAPON_Serrated Longbow (Bow, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh bow_06 (UnityEngine.Mesh)
+weaponTexture bow06Tex_00 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

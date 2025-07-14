@@ -1,0 +1,31 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 10
+_equipType WEAPON
+_itemDescription Forged by a sadistic being of torture.
+_itemIcon _wepIco_23 (UnityEngine.Sprite)
+_itemName Runic Katars
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (9, 15)
+_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 285
+_weaponConditionSlot ConditionSlot
+_weaponDamage 9
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-10) WEAPON_Runic Katars (Fist Weapon, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh katar_02 (UnityEngine.Mesh)
+weaponTexture katar02_texture (UnityEngine.Texture2D)
+weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)

@@ -1,0 +1,31 @@
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 2
+_equipType WEAPON
+_itemDescription Looks to be an Iron Sword, but the blade is intensely dulled by slime.
+_itemIcon _wepIco_02 (UnityEngine.Sprite)
+_itemName Slimecrust Blade
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (4, 8)
+_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 7
+_weaponConditionSlot ConditionSlot
+_weaponDamage 4
+_weaponHoldClipIndex 0
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-2) WEAPON_Slimecrust Blade (Sword, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _weapon_blade03 (UnityEngine.Mesh)
+weaponTexture blade03Tex_02 (UnityEngine.Texture2D)
+weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)

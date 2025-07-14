@@ -1,0 +1,33 @@
+_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_44 (UnityEngine.Sprite)
+_itemName Necroroyal Bow
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (14, 20)
+_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 379
+_weaponConditionSlot ConditionSlot
+_weaponDamage 14
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-14) WEAPON_Necroroyal Bow (Bow, Dexterity)
+trailColors UnityEngine.Color[]
+weaponMesh bow_02_alt00 (UnityEngine.Mesh)
+weaponTexture bow02Tex_01 (UnityEngine.Texture2D)
+weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)

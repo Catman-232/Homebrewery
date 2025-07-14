@@ -1,0 +1,31 @@
+_damageBonus 4
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_24 (UnityEngine.Sprite)
+_itemName Wood Spear
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (3, 10)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 10
+_weaponConditionSlot ConditionSlot
+_weaponDamage 3
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-4) WEAPON_Wood Spear (Polearm)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_01 (UnityEngine.Mesh)
+weaponTexture polearm01Tex_01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

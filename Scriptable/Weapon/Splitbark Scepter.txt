@@ -1,0 +1,32 @@
+_damageBonus 6
+_destroyOnDrop False
+_equipmentLevel 2
+_equipType WEAPON
+_itemDescription Warmth eminates from the bright white gems.
+_itemIcon _wepIco_05 (UnityEngine.Sprite)
+_itemName Splitbark Scepter
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (3, 12)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 16
+_weaponConditionSlot ConditionSlot
+_weaponDamage 3
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_normal) (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-2) WEAPON_Splitbark Scepter (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter02 (UnityEngine.Mesh)
+weaponTexture scepter02Tex_01 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

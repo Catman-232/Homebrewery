@@ -1,0 +1,31 @@
+_damageBonus 3
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription 
+_itemIcon _wepIco_12 (UnityEngine.Sprite)
+_itemName Stone Greatblade
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (17, 23)
+_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 325
+_weaponConditionSlot ConditionSlot
+_weaponDamage 17
+_weaponHoldClipIndex 1
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 1
+hideFlags None
+name (lv-8) WEAPON_Stone Greatblade (Great Weapon, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh _heavyWeapon_greatsword01 (UnityEngine.Mesh)
+weaponTexture greatsword01Tex_01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

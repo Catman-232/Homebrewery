@@ -1,0 +1,32 @@
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType WEAPON
+_itemDescription The weapon is made of wood, but it chimes as if it's metal.
+_itemIcon _wepIco_11 (UnityEngine.Sprite)
+_itemName Wooden Bell
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (6, 10)
+_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 10
+_weaponConditionSlot ConditionSlot
+_weaponDamage 6
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_bell_normal (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-4) WEAPON_Wooden Bell (Magic Bell, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _bell_01 (UnityEngine.Mesh)
+weaponTexture bell01Tex_01 (UnityEngine.Texture2D)
+weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)

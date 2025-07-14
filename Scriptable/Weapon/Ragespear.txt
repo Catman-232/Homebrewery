@@ -1,0 +1,31 @@
+_damageBonus 2
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType WEAPON
+_itemDescription The tip of the spear drips with blood endlessly.
+_itemIcon _wepIco_69 (UnityEngine.Sprite)
+_itemName Ragespear
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (20, 25)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 750
+_weaponConditionSlot ConditionSlot
+_weaponDamage 20
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-16) WEAPON_Ragespear (Polearm, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_04_alt00 (UnityEngine.Mesh)
+weaponTexture polearm04Tex_01 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

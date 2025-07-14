@@ -1,0 +1,32 @@
+_damageBonus 2
+_destroyOnDrop False
+_equipmentLevel 8
+_equipType WEAPON
+_itemDescription Only a Slime Diva can truly maximize the full potential of this Scepter.
+_itemIcon _wepIco_04 (UnityEngine.Sprite)
+_itemName Slime Diva Baton
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (12, 17)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 200
+_weaponConditionSlot ConditionSlot
+_weaponDamage 12
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_slmDivaBaton (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-8) WEAPON_Slime Diva Baton (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter03 (UnityEngine.Mesh)
+weaponTexture slimeDivaStaffTex_01 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

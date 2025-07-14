@@ -1,0 +1,31 @@
+_damageBonus 6
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType WEAPON
+_itemDescription Used by the royal guard of the undead.
+_itemIcon _wepIco_42 (UnityEngine.Sprite)
+_itemName Necroroyal Halberd
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (10, 19)
+_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 576
+_weaponConditionSlot ConditionSlot
+_weaponDamage 10
+_weaponHoldClipIndex 2
+_weaponSwingSfxIndex 1
+_weaponTakeOutSfxIndex 2
+hideFlags None
+name (lv-12) WEAPON_Necroroyal Halberd (Polearm, Strength)
+trailColors UnityEngine.Color[]
+weaponMesh polearm_02_alt00 (UnityEngine.Mesh)
+weaponTexture polearm02Tex_02 (UnityEngine.Texture2D)
+weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)

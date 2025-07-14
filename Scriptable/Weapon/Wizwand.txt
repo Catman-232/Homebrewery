@@ -1,0 +1,33 @@
+_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType WEAPON
+_itemDescription Electrifying.
+_itemIcon _wepIco_66 (UnityEngine.Sprite)
+_itemName Wizwand
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (13, 17)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 568
+_weaponConditionSlot ConditionSlot
+_weaponDamage 13
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(wizscepter) (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-12) WEAPON_Wizwand (Scepter, Mind)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter07 (UnityEngine.Mesh)
+weaponTexture scepter07Tex_00 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)

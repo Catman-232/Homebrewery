@@ -1,0 +1,33 @@
+_combatElement 1_COMBATELEMENT_Fire (ScriptableCombatElement)
+_damageBonus 1
+_destroyOnDrop False
+_equipmentLevel 12
+_equipType WEAPON
+_itemDescription Let them burn.
+_itemIcon _wepIco_13 (UnityEngine.Sprite)
+_itemName Pyre Cane
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_readonlyDamageRange (9, 13)
+_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
+_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
+_textureColorAdjust ColorAdjustShader_Profile
+_vendorCost 250
+_weaponConditionSlot ConditionSlot
+_weaponDamage 9
+_weaponHoldClipIndex 0
+_weaponProjectileSet weaponProjectileSet_scepter(ele_fire)_00 (ScriptableWeaponProjectileSet)
+_weaponSwingSfxIndex 0
+_weaponTakeOutSfxIndex 0
+hideFlags None
+name (lv-12) WEAPON_Pyre Cane (Magic Scepter)
+trailColors UnityEngine.Color[]
+weaponMesh _scepter04 (UnityEngine.Mesh)
+weaponTexture scepter04Tex_02 (UnityEngine.Texture2D)
+weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)
