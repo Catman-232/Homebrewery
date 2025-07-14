@@ -1,0 +1,28 @@
+_armorTexture _lgTex_48 (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 24
+_equipType ARMOR
+_itemDescription 
+_itemIcon _legIco_27 (UnityEngine.Sprite)
+_itemName Fender Leggings
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legPieceTexture_01 _lgTex_48 (UnityEngine.Texture2D)
+_legPieceTexture_02 _lgTex_48 (UnityEngine.Texture2D)
+_legPieceTexture_03 _lgTex_48 (UnityEngine.Texture2D)
+_legPieceTexture_04 _lgTex_48 (UnityEngine.Texture2D)
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureFeet True
+_textureUpperLegOnly False
+_vendorCost 2300
+hideFlags None
+name (lv-24) LEGGINGS_Fender Leggings

@@ -1,0 +1,25 @@
+_armorTexture _chTex_27a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 3
+_equipType ARMOR
+_itemDescription Slightly veiled.
+_itemIcon _chestIco_35 (UnityEngine.Sprite)
+_itemName Poacher Cloth
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms False
+_vendorCost 14
+hideFlags None
+name (lv-3) CHESTPIECE_Poacher Cloth

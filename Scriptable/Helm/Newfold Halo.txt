@@ -1,0 +1,28 @@
+_armorTexture halo00Tex_00 (UnityEngine.Texture2D)
+_blendHelmValue 0
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType ARMOR
+_helmOverrideMesh _helm_halo_00 (UnityEngine.Mesh)
+_helmRender helmRender_halo (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription A sigil to indicate a new soul's introduction to the world.
+_itemIcon _helmIco_05 (UnityEngine.Sprite)
+_itemName Newfold Halo
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay False
+_vendorCost 15
+hideFlags None
+name (lv-1) HELM_Newfold Halo

@@ -1,0 +1,21 @@
+_armorTexture _capeTex_03 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription You can hear the laughter from the skull motif.
+_itemIcon _capIco_02 (UnityEngine.Sprite)
+_itemName Deathward Cape
+_itemRarity Exotic
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_vendorCost 1530
+hideFlags None
+name (lv-16) CAPE_Deathward Cape

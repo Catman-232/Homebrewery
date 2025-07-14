@@ -1,0 +1,32 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_49a (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 24
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_44 (UnityEngine.Sprite)
+_itemName Executioner Vestment
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_49_leg (UnityEngine.Texture2D)
+_lockBoobs False
+_maxStackAmount 1
+_neckCollarMesh _collar_00 (UnityEngine.Mesh)
+_neckCollarTexture shoulderpad00Tex_01 (UnityEngine.Texture2D)
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture _building01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 2850
+hideFlags None
+name (lv-24) CHESTPIECE_Executioner Vestment

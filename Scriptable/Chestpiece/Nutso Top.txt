@@ -1,0 +1,24 @@
+_armorTexture _chTex_14a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription Common clothing worn by Chang.
+_itemIcon _chestIco_13 (UnityEngine.Sprite)
+_itemName Nutso Top
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms True
+_vendorCost 10
+hideFlags None
+name (lv-1) CHESTPIECE_Nutso Top

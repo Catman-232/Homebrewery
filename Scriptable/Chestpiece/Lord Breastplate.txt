@@ -1,0 +1,31 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_30a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_30b (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription Hail the Lord!
+_itemIcon _chestIco_02 (UnityEngine.Sprite)
+_itemName Lord Breastplate
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_30_leg (UnityEngine.Texture2D)
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh shoiulderpad_pad02 (UnityEngine.Mesh)
+_shoulderpadTexture _building01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 680
+hideFlags None
+name (lv-12) CHESTPIECE_Lord Breastplate

@@ -1,0 +1,29 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_48a (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 24
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_43 (UnityEngine.Sprite)
+_itemName Wizlad Robe
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_47 (UnityEngine.Texture2D)
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 1620
+hideFlags None
+name (lv-24) CHESTPIECE_Wizlad Robe

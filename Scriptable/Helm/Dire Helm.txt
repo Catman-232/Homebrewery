@@ -1,0 +1,26 @@
+_armorTexture direHelmTex (UnityEngine.Texture2D)
+_blendHelmValue 80.4
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 1
+_equipType ARMOR
+_helmRender helmRender_direHelm (ScriptableArmorRender)
+_hideEars True
+_hideMisc True
+_isFullHelm False
+_itemDescription Once worn by a brave warrior.
+_itemIcon _helmIco_09 (UnityEngine.Sprite)
+_itemName Dire Helm
+_itemRarity Cosmetic
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_useHelmHairDisplay True
+_vendorCost 320
+hideFlags None
+name (lv-1) HELM_Dire Helm

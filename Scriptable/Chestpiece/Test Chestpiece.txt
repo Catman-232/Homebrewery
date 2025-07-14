@@ -1,0 +1,26 @@
+_armorTexture _chTex_37a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription Used to test texturing.
+_itemIcon _abIco00 (UnityEngine.Sprite)
+_itemName Test Chestpiece
+_itemRarity Cosmetic
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_39 (UnityEngine.Texture2D)
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms False
+_vendorCost 1
+hideFlags None
+name (lv-1) CHESTPIECE_Test Chestpiece

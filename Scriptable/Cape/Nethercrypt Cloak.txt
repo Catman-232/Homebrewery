@@ -1,0 +1,22 @@
+_armorTexture _capeTex_00 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType ARMOR
+_itemDescription Rug for the feet of the dead.
+_itemIcon _capIco_01 (UnityEngine.Sprite)
+_itemName Nethercrypt Cloak
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 536
+hideFlags None
+name (lv-14) CAPE_Nethercrypt Cloak

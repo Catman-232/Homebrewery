@@ -1,0 +1,28 @@
+_armorTexture halo01Tex_00 (UnityEngine.Texture2D)
+_blendHelmValue 0
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType ARMOR
+_helmOverrideMesh _helm_halo_01 (UnityEngine.Mesh)
+_helmRender helmRender_halo (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription Rumination of the dead.
+_itemIcon _helmIco_06 (UnityEngine.Sprite)
+_itemName Cryptsinge Halo
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay False
+_vendorCost 40
+hideFlags None
+name (lv-4) HELM_Cryptsinge Halo

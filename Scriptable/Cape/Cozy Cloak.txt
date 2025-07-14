@@ -1,0 +1,22 @@
+_armorTexture _capeTex_09 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 14
+_equipType ARMOR
+_itemDescription Keeps you warm in the cold weather.
+_itemIcon _capIco_09 (UnityEngine.Sprite)
+_itemName Cozy Cloak
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 600
+hideFlags None
+name (lv-14) CAPE_Cozy Cloak

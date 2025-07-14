@@ -1,0 +1,26 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_44a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription Tis the season...
+_itemIcon _chestIco_36 (UnityEngine.Sprite)
+_itemName Festive Coat
+_itemRarity Cosmetic
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_neckCollarMesh _collar_00 (UnityEngine.Mesh)
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms True
+_vendorCost 100
+hideFlags None
+name (lv-1) CHESTPIECE_Festive Coat

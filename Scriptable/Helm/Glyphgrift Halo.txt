@@ -1,0 +1,28 @@
+_armorTexture halo09Tex_00 (UnityEngine.Texture2D)
+_blendHelmValue 0
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_helmOverrideMesh _helm_halo_09 (UnityEngine.Mesh)
+_helmRender helmRender_halo (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription 
+_itemIcon _helmIco_20 (UnityEngine.Sprite)
+_itemName Glyphgrift Halo
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay False
+_vendorCost 1350
+hideFlags None
+name (lv-16) HELM_Glyphgrift Halo

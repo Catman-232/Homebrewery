@@ -1,0 +1,30 @@
+_armorTexture _chTex_02a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription Common clothing worn by Kubolds.
+_itemIcon _leggingIco_kubold01 (UnityEngine.Sprite)
+_itemName Sagecloth Top
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_neckCollarMesh _collar_ballCollar (UnityEngine.Mesh)
+_neckCollarTexture ballCollar_tex01 (UnityEngine.Texture2D)
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_02a (UnityEngine.Texture2D)
+_shoulderPadDisplayType None
+_shoulderpadMesh shoulderpad_pad01 (UnityEngine.Mesh)
+_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms True
+_vendorCost 10
+hideFlags None
+name (lv-1) CHESTPIECE_Sagecloth Top

@@ -1,0 +1,27 @@
+_armorTexture _glasses (UnityEngine.Texture2D)
+_blendHelmValue 0
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 10
+_equipType ARMOR
+_helmRender helmRender_glasses01 (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription Used to read harder-- now with color!
+_itemIcon _helmIco_02 (UnityEngine.Sprite)
+_itemName Journeyman Spectacles
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay False
+_vendorCost 120
+hideFlags None
+name (lv-10) HELM_Journeyman Spectacles

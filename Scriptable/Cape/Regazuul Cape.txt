@@ -1,0 +1,21 @@
+_armorTexture _capeTex_02 (UnityEngine.Texture2D)
+_canDyeArmor False
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 10
+_equipType ARMOR
+_itemDescription A long forgotten heirloom of Lord Zuulneruda.
+_itemIcon _capIco_00 (UnityEngine.Sprite)
+_itemName Regazuul Cape
+_itemRarity Exotic
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_vendorCost 400
+hideFlags None
+name (lv-10) CAPE_Regazuul Cape

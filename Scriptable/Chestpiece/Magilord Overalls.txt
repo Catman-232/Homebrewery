@@ -1,0 +1,33 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_32a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_32b (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 18
+_equipType ARMOR
+_itemDescription Devout mystic sages of ancient times worn these in ceremonies.
+_itemIcon _chestIco_27 (UnityEngine.Sprite)
+_itemName Magilord Overalls
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_32_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_neckCollarMesh _collar_01 (UnityEngine.Mesh)
+_neckCollarTexture collar00Tex_01 (UnityEngine.Texture2D)
+_questTriggerTag 
+_shoulderPadDisplayType None
+_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 2150
+hideFlags None
+name (lv-18) CHESTPIECE_Magilord Overalls

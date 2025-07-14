@@ -1,0 +1,28 @@
+_armorTexture bumphat_tex00 (UnityEngine.Texture2D)
+_blendHelmValue 100
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 22
+_equipType ARMOR
+_helmOverrideMesh helm_bumpHat (UnityEngine.Mesh)
+_helmRender helmRender_wizardHat01 (ScriptableArmorRender)
+_hideEars False
+_hideMisc True
+_isFullHelm False
+_itemDescription 
+_itemIcon _helmIco_28 (UnityEngine.Sprite)
+_itemName Guardel Helm
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay True
+_vendorCost 850
+hideFlags None
+name (lv-22) HELM_Guardel Helm

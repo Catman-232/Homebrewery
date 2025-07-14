@@ -1,0 +1,25 @@
+_armorTexture _chTex_15a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 4
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_21 (UnityEngine.Sprite)
+_itemName Journeyman Vest
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 50
+hideFlags None
+name (lv-4) CHESTPIECE_Journeyman Vest

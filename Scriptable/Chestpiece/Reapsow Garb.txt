@@ -1,0 +1,30 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_33a (UnityEngine.Texture2D)
+_canDyeArmor False
+_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription Fear the hidden.
+_itemIcon _chestIco_03 (UnityEngine.Sprite)
+_itemName Reapsow Garb
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_33a_leg (UnityEngine.Texture2D)
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh _shoulderpad_00 (UnityEngine.Mesh)
+_shoulderpadTexture shoulderpad00Tex_00 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 680
+hideFlags None
+name (lv-12) CHESTPIECE_Reapsow Garb

@@ -1,0 +1,30 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_41a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_41b (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 14
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_32 (UnityEngine.Sprite)
+_itemName Chainmail Guard
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_41_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh _shoulderpad_01 (UnityEngine.Mesh)
+_shoulderpadTexture shoulderpad00Tex_01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 925
+hideFlags None
+name (lv-14) CHESTPIECE_Chainmail Guard

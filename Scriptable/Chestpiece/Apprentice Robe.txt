@@ -1,0 +1,29 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_45a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_45b (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 10
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_37 (UnityEngine.Sprite)
+_itemName Apprentice Robe
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_43 (UnityEngine.Texture2D)
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 186
+hideFlags None
+name (lv-10) CHESTPIECE_Apprentice Robe

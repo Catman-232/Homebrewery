@@ -1,0 +1,28 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_47a (UnityEngine.Texture2D)
+_canDyeArmor True
+_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 24
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_41 (UnityEngine.Sprite)
+_itemName Fender Garb
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_47_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 1450
+hideFlags None
+name (lv-24) CHESTPIECE_Fender Garb

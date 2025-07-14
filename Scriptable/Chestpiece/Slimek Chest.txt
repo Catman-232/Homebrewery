@@ -1,0 +1,27 @@
+_armorTexture _chTex_17a (UnityEngine.Texture2D)
+_canDyeArmor False
+_chestRenderDisplay armorRender_chestMesh_00 (ScriptableArmorRender)
+_chestRenderTexture _chestMeshTex_00_02 (UnityEngine.Texture2D)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones True
+_equipmentLevel 4
+_equipType ARMOR
+_itemDescription Sturdy enough to widthstand some further damage.
+_itemIcon _chestIco_10 (UnityEngine.Sprite)
+_itemName Slimek Chest
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 60
+hideFlags None
+name (lv-4) CHESTPIECE_Slimek Chest

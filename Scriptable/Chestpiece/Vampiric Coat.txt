@@ -1,0 +1,26 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_24a (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_00 (UnityEngine.Sprite)
+_itemName Vampiric Coat
+_itemRarity Cosmetic
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_24_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms True
+_vendorCost 450
+hideFlags None
+name (lv-1) CHESTPIECE_Vampiric Coat

@@ -1,0 +1,25 @@
+_armorTexture _chTex_19a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 10
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_20 (UnityEngine.Sprite)
+_itemName Duelist Garb
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 250
+hideFlags None
+name (lv-10) CHESTPIECE_Duelist Garb

@@ -1,0 +1,32 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_35a (UnityEngine.Texture2D)
+_canDyeArmor False
+_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription Worn by undead assassins.
+_itemIcon _chestIco_07 (UnityEngine.Sprite)
+_itemName Reaper Gi
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_35a_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_neckCollarMesh mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture _chTex_35a (UnityEngine.Texture2D)
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture shoulderpad00Tex_00 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 1200
+hideFlags None
+name (lv-16) CHESTPIECE_Reaper Gi

@@ -1,0 +1,29 @@
+_armorTexture _chTex_13a (UnityEngine.Texture2D)
+_canDyeArmor True
+_chestRenderDisplay armorRender_chestMesh_00 (ScriptableArmorRender)
+_chestRenderTexture _chestMeshTex_00_01 (UnityEngine.Texture2D)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones True
+_equipmentLevel 10
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_11 (UnityEngine.Sprite)
+_itemName Warrior Chest
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType Right
+_shoulderpadMesh shoulderpad_pad01 (UnityEngine.Mesh)
+_shoulderpadTexture _legpadsTex_01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms False
+_vendorCost 250
+hideFlags None
+name (lv-10) CHESTPIECE_Warrior Chest

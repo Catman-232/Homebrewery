@@ -1,0 +1,21 @@
+_armorTexture _capeTex_11 (UnityEngine.Texture2D)
+_canDyeArmor False
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 22
+_equipType ARMOR
+_itemDescription Tears of a gem.
+_itemIcon _capIco_11 (UnityEngine.Sprite)
+_itemName Windgolem Cloak
+_itemRarity Exotic
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_vendorCost 923
+hideFlags None
+name (lv-22) CAPE_Windgolem Cloak

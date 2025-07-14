@@ -1,0 +1,29 @@
+_armorTexture hoodTex02 (UnityEngine.Texture2D)
+_blendHelmValue 100
+_canDyeArmor True
+_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 24
+_equipType ARMOR
+_helmOverrideMesh helm_wizladHood (UnityEngine.Mesh)
+_helmRender helmRender_hood (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription 
+_itemIcon _helmIco_29 (UnityEngine.Sprite)
+_itemName Wizlad Hood
+_itemRarity Rare
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay True
+_vendorCost 1480
+hideFlags None
+name (lv-24) HELM_Wizlad Hood

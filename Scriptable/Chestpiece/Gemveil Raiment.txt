@@ -1,0 +1,26 @@
+_armorTexture _chTex_36a (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription Dazzling gems flicker on this loose but defensive chestpiece.
+_itemIcon _chestIco_25 (UnityEngine.Sprite)
+_itemName Gemveil Raiment
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_36a_leg (UnityEngine.Texture2D)
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 1112
+hideFlags None
+name (lv-16) CHESTPIECE_Gemveil Raiment

@@ -1,0 +1,22 @@
+_armorTexture _capeTex_10 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 6
+_equipType ARMOR
+_itemDescription 
+_itemIcon _capIco_10 (UnityEngine.Sprite)
+_itemName Nokket Cloak
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 34
+hideFlags None
+name (lv-6) CAPE_Nokket Cloak

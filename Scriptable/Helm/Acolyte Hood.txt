@@ -1,0 +1,26 @@
+_armorTexture hoodTex01 (UnityEngine.Texture2D)
+_blendHelmValue 73.2
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType ARMOR
+_helmRender helmRender_hood (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription Cultists are seen to wear this.
+_itemIcon _helmIco_23 (UnityEngine.Sprite)
+_itemName Acolyte Hood
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_useHelmHairDisplay True
+_vendorCost 80
+hideFlags None
+name (lv-4) HELM_Acolyte Hood

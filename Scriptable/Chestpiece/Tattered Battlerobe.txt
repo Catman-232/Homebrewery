@@ -1,0 +1,30 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_05a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones True
+_equipmentLevel 8
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_17 (UnityEngine.Sprite)
+_itemName Tattered Battlerobe
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_05a (UnityEngine.Texture2D)
+_shoulderPadDisplayType Both
+_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 250
+hideFlags None
+name (lv-8) CHESTPIECE_Tattered Battlerobe

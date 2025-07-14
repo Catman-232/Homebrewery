@@ -1,0 +1,30 @@
+_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_armorTexture _chTex_23a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 14
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_19 (UnityEngine.Sprite)
+_itemName Ornamented Battlerobe
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_26 (UnityEngine.Texture2D)
+_shoulderPadDisplayType Both
+_shoulderpadMesh shoulderpad_pad01 (UnityEngine.Mesh)
+_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 490
+hideFlags None
+name (lv-14) CHESTPIECE_Ornamented Battlerobe

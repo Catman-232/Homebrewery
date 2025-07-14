@@ -1,0 +1,22 @@
+_armorTexture _capeTex_06 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription You feel strong like a golem wearing this.
+_itemIcon _capIco_08 (UnityEngine.Sprite)
+_itemName Cobblerage Cloak
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 1320
+hideFlags None
+name (lv-16) CAPE_Cobblerage Cloak

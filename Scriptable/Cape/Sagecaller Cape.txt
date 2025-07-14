@@ -1,0 +1,22 @@
+_armorTexture _capeTex_05 (UnityEngine.Texture2D)
+_canDyeArmor True
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription Brimming with magical power.
+_itemIcon _capIco_07 (UnityEngine.Sprite)
+_itemName Sagecaller Cape
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 923
+hideFlags None
+name (lv-16) CAPE_Sagecaller Cape

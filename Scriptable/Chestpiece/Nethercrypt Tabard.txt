@@ -1,0 +1,30 @@
+_armorTexture _chTex_42a (UnityEngine.Texture2D)
+_canDyeArmor False
+_chestRenderBoobTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
+_chestRenderDisplay armorRender_chestTabard_00 (ScriptableArmorRender)
+_chestRenderTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 12
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_04 (UnityEngine.Sprite)
+_itemName Nethercrypt Tabard
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs True
+_maxStackAmount 1
+_neckCollarMesh mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 485
+hideFlags None
+name (lv-12) CHESTPIECE_Nethercrypt Tabard

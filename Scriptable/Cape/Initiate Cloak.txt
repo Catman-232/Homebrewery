@@ -1,0 +1,22 @@
+_armorTexture _capeTex_04 (UnityEngine.Texture2D)
+_canDyeArmor False
+_capeMesh cape01 (UnityEngine.Mesh)
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 4
+_equipType ARMOR
+_itemDescription New beginnings.
+_itemIcon _capIco_04 (UnityEngine.Sprite)
+_itemName Initiate Cloak
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_vendorCost 18
+hideFlags None
+name (lv-4) CAPE_Initiate Cloak

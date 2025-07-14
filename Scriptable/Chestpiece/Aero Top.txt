@@ -1,0 +1,24 @@
+_armorTexture _chTex_03a (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 1
+_equipType ARMOR
+_itemDescription Common clothing worn by Byrdles.
+_itemIcon _chestIco_12 (UnityEngine.Sprite)
+_itemName Aero Top
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_textureArms True
+_vendorCost 10
+hideFlags None
+name (lv-1) CHESTPIECE_Aero Top

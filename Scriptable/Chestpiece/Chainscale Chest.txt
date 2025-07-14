@@ -1,0 +1,30 @@
+_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_armorTexture _chTex_40a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_40b (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_31 (UnityEngine.Sprite)
+_itemName Chainscale Chest
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_40_leg (UnityEngine.Texture2D)
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType Both
+_shoulderpadMesh _shoulderpad_01 (UnityEngine.Mesh)
+_shoulderpadTexture shoulderpad00Tex_01 (UnityEngine.Texture2D)
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 800
+hideFlags None
+name (lv-16) CHESTPIECE_Chainscale Chest

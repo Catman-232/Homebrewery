@@ -1,0 +1,27 @@
+_armorTexture _chTex_26a (UnityEngine.Texture2D)
+_boobOverrideTexture _chTex_26b (UnityEngine.Texture2D)
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 16
+_equipType ARMOR
+_itemDescription 
+_itemIcon _chestIco_22 (UnityEngine.Sprite)
+_itemName Mercenary Vestment
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_legOverlayTexture _chTex_26_leg (UnityEngine.Texture2D)
+_lockBoobs True
+_maxStackAmount 1
+_questTriggerTag 
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms True
+_vendorCost 680
+hideFlags None
+name (lv-16) CHESTPIECE_Mercenary Vestment

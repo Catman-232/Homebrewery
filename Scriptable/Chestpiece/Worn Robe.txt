@@ -1,0 +1,27 @@
+_armorTexture _lgTex_11a (UnityEngine.Texture2D)
+_canDyeArmor False
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_disableJiggleBoobBones False
+_equipmentLevel 2
+_equipType ARMOR
+_itemDescription Definitely been worn many times.
+_itemIcon _chestIco_16 (UnityEngine.Sprite)
+_itemName Worn Robe
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_lockBoobs False
+_maxStackAmount 1
+_questTriggerTag 
+_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture _lgTex_11a (UnityEngine.Texture2D)
+_shoulderPadDisplayType None
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_textureArms False
+_vendorCost 12
+hideFlags None
+name (lv-2) CHESTPIECE_Worn Robe

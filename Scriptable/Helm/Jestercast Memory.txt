@@ -1,0 +1,28 @@
+_armorTexture halo08Tex_00 (UnityEngine.Texture2D)
+_blendHelmValue 0
+_canDyeArmor True
+_colorAdjustParams ColorAdjustShader_Profile
+_conditionResistances ConditionResistance[]
+_destroyOnDrop False
+_equipmentLevel 16
+_equipType ARMOR
+_helmOverrideMesh _helm_halo_08 (UnityEngine.Mesh)
+_helmRender helmRender_halo_01 (ScriptableArmorRender)
+_hideEars False
+_hideMisc False
+_isFullHelm False
+_itemDescription The true fool is the enemy of the caster...
+_itemIcon _helmIco_19 (UnityEngine.Sprite)
+_itemName Jestercast Memory
+_itemRarity Common
+_itemSortTag NONE
+_itemType GEAR
+_maxStackAmount 1
+_questTriggerTag 
+_statArray StatStruct
+_statModifierCost StatModifierCost
+_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
+_useHelmHairDisplay False
+_vendorCost 1230
+hideFlags None
+name (lv-16) HELM_Jestercast Memory
