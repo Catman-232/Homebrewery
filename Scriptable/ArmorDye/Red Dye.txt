@@ -1,4 +1,5 @@
 _consumableCooldown 1.5
+_consumableObject _consumableEffect_redDye (UnityEngine.GameObject)
 _destroyOnDrop False
 _dyeParams ColorAdjustShader_Profile
 _itemDescription A vial of red dye.

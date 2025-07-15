@@ -1,10 +1,10 @@
 _consumableCooldown 1.5
-_consumableObject _consumableEffect_greenDye (UnityEngine.GameObject)
+_consumableObject _consumableEffect_purpleDye (UnityEngine.GameObject)
 _destroyOnDrop False
 _dyeParams ColorAdjustShader_Profile
-_itemDescription A vial of green dye.
-_itemIcon _dyeIco_green (UnityEngine.Sprite)
-_itemName Green Dye
+_itemDescription A vial of purple dye.
+_itemIcon _dyeIco_purple (UnityEngine.Sprite)
+_itemName Purple Dye
 _itemRarity Common
 _itemSortTag SPECIAL
 _itemType CONSUMABLE
@@ -15,4 +15,4 @@ _unperishable False
 _useOnlyInTown False
 _vendorCost 160
 hideFlags None
-name DYE_Green Dye
+name DYE_Purple Dye
