@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Slimek Core
 _itemName : Slimek Core
-_itemDescription : Slimek Core
+_itemDescription : A chunk of a Slimek.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_02 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Rock
 _itemName : Rock
-_itemDescription : Rock
+_itemDescription : Just an ordinary rock. Could be tossed at enemies.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_04 (UnityEngine.Sprite)

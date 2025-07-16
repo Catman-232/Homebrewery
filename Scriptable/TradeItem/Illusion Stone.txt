@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Illusion Stone
 _itemName : Illusion Stone
-_itemDescription : Illusion Stone
+_itemDescription : This magical stone can be used to change the appearance of things.
 _destroyOnDrop : False
 _maxStackAmount : 20
 _itemIcon : _tradIco_18 (UnityEngine.Sprite)

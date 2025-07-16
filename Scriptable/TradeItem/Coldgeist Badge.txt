@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Coldgeist Badge
 _itemName : Coldgeist Badge
-_itemDescription : Coldgeist Badge
+_itemDescription : A badge dropped from a Coldgeist Geistlord. It's extremely cold to the touch. Can be traded for elusive treasures.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_58 (UnityEngine.Sprite)

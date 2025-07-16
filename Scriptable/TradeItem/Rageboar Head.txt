@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Rageboar Head
 _itemName : Rageboar Head
-_itemDescription : Rageboar Head
+_itemDescription : The eyes are bloodshot and filled with rage.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_43 (UnityEngine.Sprite)

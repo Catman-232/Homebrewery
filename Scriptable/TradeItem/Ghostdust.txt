@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Ghostdust
 _itemName : Ghostdust
-_itemDescription : Ghostdust
+_itemDescription : Bottled spectral ashes of a restless ghost.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_10 (UnityEngine.Sprite)

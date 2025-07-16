@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Blightwood Log
 _itemName : Blightwood Log
-_itemDescription : Blightwood Log
+_itemDescription : The inside is very hot, containing a burning blue flame that never seems to go out.
 _destroyOnDrop : False
 _maxStackAmount : 15
 _itemIcon : _tradIco_24 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Slime Ears
 _itemName : Slime Ears
-_itemDescription : Slime Ears
+_itemDescription : These are somehow sharp on the ends, which can actually hurt.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_01 (UnityEngine.Sprite)

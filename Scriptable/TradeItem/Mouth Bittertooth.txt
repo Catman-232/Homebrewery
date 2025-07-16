@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Mouth Bittertooth
 _itemName : Mouth Bittertooth
-_itemDescription : Mouth Bittertooth
+_itemDescription : The tip of the tooth endlessly drips a little bit of poison.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_22 (UnityEngine.Sprite)

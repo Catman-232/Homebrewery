@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Cursed Note
 _itemName : Cursed Note
-_itemDescription : Cursed Note
+_itemDescription : There are magic glyphs on this note. They seem to slowly float above the parchment.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_39 (UnityEngine.Sprite)

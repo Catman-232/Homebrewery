@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Flux Stone
 _itemName : Flux Stone
-_itemDescription : Flux Stone
+_itemDescription : Has capabilities to change a weapon damage scale to mind.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_42 (UnityEngine.Sprite)

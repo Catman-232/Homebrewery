@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Hellsludge Core
 _itemName : Hellsludge Core
-_itemDescription : Hellsludge Core
+_itemDescription : A chunk of a Hellsludge.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_33 (UnityEngine.Sprite)

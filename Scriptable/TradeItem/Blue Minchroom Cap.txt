@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Blue Minchroom Cap
 _itemName : Blue Minchroom Cap
-_itemDescription : Blue Minchroom Cap
+_itemDescription : The spores can frostbite something. Could be good to keep a room cool.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_34 (UnityEngine.Sprite)

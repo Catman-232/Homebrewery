@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Bittering Katfish
 _itemName : Bittering Katfish
-_itemDescription : Bittering Katfish
+_itemDescription : Just plain ugly and bitter.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_47 (UnityEngine.Sprite)

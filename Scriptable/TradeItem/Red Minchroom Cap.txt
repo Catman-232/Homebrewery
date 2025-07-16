@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Red Minchroom Cap
 _itemName : Red Minchroom Cap
-_itemDescription : Red Minchroom Cap
+_itemDescription : The spores can set something on fire. Could be good to cook something spicy with.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_25 (UnityEngine.Sprite)

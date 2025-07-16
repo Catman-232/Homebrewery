@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Maw Eye
 _itemName : Maw Eye
-_itemDescription : Maw Eye
+_itemDescription : There's a glare of anxiety in the dilated pupil.
 _destroyOnDrop : False
 _maxStackAmount : 45
 _itemIcon : _tradIco_37 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Blightwood Stick
 _itemName : Blightwood Stick
-_itemDescription : Blightwood Stick
+_itemDescription : Feels warm to hold.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_23 (UnityEngine.Sprite)

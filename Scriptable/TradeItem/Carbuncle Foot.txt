@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Carbuncle Foot
 _itemName : Carbuncle Foot
-_itemDescription : Carbuncle Foot
+_itemDescription : The foot of a corrupted sage. The blood that drips from it quickly becomes a magical powder.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_38 (UnityEngine.Sprite)

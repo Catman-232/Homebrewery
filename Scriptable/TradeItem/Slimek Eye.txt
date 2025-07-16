@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Slimek Eye
 _itemName : Slimek Eye
-_itemDescription : Slimek Eye
+_itemDescription : The swirly pupil rotates if you look at it long enough.
 _destroyOnDrop : False
 _maxStackAmount : 30
 _itemIcon : _tradIco_06 (UnityEngine.Sprite)

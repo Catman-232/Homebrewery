@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Monolith Core
 _itemName : Monolith Core
-_itemDescription : Monolith Core
+_itemDescription : The heart of a Monolith. Dark green energy pulsates from within it.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_35 (UnityEngine.Sprite)

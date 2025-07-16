@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : TRADEITEM_Windcore Badge
 _itemName : Windcore Badge
-_itemDescription : Windcore Badge
+_itemDescription : A badge with a tint of corruption, dropped from Valdur. Can be traded for elusive treasures.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_60 (UnityEngine.Sprite)
