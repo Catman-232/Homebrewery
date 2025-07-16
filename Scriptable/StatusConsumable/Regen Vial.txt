@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 60
-_consumableObject _consumableEffect_healthConsumable (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 0
-_healthApply 0
-_itemDescription Just enough to feel your wounds slowly heal.
-_itemIcon _conIco_36 (UnityEngine.Sprite)
-_itemName Regen Vial
-_itemRarity Common
-_itemSortTag EXPERIENCE
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 0
-_maxStackAmount 99
-_questTriggerTag 
-_resetAttributePoints False
-_resetSkillPoints False
-_staminaApply 0
-_unperishable False
-_useOnlyInTown False
-_vendorCost 120
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Regen Vial
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Regen Vial
+_itemName : Regen Vial
+_itemDescription : Regen Vial
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _conIco_36 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 60
+_consumableObject : _consumableEffect_healthConsumable (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :0
+_staminaApply :0
+_expGain :0
+_resetSkillPoints :False
+_resetAttributePoints :False

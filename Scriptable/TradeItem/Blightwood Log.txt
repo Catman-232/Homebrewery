@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The inside is very hot, containing a burning blue flame that never seems to go out.
-_itemIcon _tradIco_24 (UnityEngine.Sprite)
-_itemName Blightwood Log
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 15
-_questTriggerTag 
-_vendorCost 12
-hideFlags None
-name TRADEITEM_Blightwood Log
+- ScriptableItem -
+name : TRADEITEM_Blightwood Log
+_itemName : Blightwood Log
+_itemDescription : Blightwood Log
+_destroyOnDrop : False
+_maxStackAmount : 15
+_itemIcon : _tradIco_24 (UnityEngine.Sprite)

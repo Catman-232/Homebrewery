@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The foot of a corrupted sage. The blood that drips from it quickly becomes a magical powder.
-_itemIcon _tradIco_38 (UnityEngine.Sprite)
-_itemName Carbuncle Foot
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 23
-hideFlags None
-name TRADEITEM_Carbuncle Foot
+- ScriptableItem -
+name : TRADEITEM_Carbuncle Foot
+_itemName : Carbuncle Foot
+_itemDescription : Carbuncle Foot
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_38 (UnityEngine.Sprite)

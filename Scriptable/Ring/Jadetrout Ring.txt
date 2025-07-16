@@ -1,20 +1,46 @@
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription The tail of the fish on this ring moves rapidly.
-_itemIcon icon_ring13 (UnityEngine.Sprite)
-_itemName Jadetrout Ring
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 815
-hideFlags None
-name (lv-16) RING_Jadetrout Ring
+- ScriptableItem -
+name : (lv-16) RING_Jadetrout Ring
+_itemName : Jadetrout Ring
+_itemDescription : Jadetrout Ring
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : icon_ring13 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 12
+    _criticalRate : 0.032
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : 

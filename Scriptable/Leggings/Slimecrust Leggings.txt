@@ -1,27 +1,58 @@
-_armorTexture _lgTex_36 (UnityEngine.Texture2D)
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 2
-_equipType ARMOR
-_itemDescription Drenched in slime.
-_itemIcon _legIco_07 (UnityEngine.Sprite)
-_itemName Slimecrust Leggings
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legPieceTexture_01 _lgTex_36 (UnityEngine.Texture2D)
-_legPieceTexture_02 _lgTex_36 (UnityEngine.Texture2D)
-_legPieceTexture_03 _lgTex_36 (UnityEngine.Texture2D)
-_legPieceTexture_04 _lgTex_36 (UnityEngine.Texture2D)
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureFeet False
-_textureUpperLegOnly False
-_vendorCost 12
-hideFlags None
-name (lv-2) LEGGINGS_Slimecrust Leggings
+- ScriptableItem -
+name : (lv-2) LEGGINGS_Slimecrust Leggings
+_itemName : Slimecrust Leggings
+_itemDescription : Slimecrust Leggings
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _legIco_07 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 2
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 1
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Slime Ears (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0.12
+    _contrast : 1.4
+}
+_armorTexture : _lgTex_36 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : False
+_legPieceRender_01 : 
+_legPieceTexture_01 : _lgTex_36 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_36 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_36 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_36 (UnityEngine.Texture2D)

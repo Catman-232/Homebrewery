@@ -1,19 +1,46 @@
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 18
-_equipType ARMOR
-_itemDescription The gems glimmer much like the gems of a Colossus.
-_itemIcon icon_ring14 (UnityEngine.Sprite)
-_itemName Earthwoken Ring
-_itemRarity Exotic
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_vendorCost 1450
-hideFlags None
-name (lv-18) RING_Earthwoken Ring
+- ScriptableItem -
+name : (lv-18) RING_Earthwoken Ring
+_itemName : Earthwoken Ring
+_itemDescription : Earthwoken Ring
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : icon_ring14 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 15
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 15
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 3
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : 

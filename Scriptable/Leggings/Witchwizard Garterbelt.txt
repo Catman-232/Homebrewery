@@ -1,28 +1,58 @@
-_armorTexture _lgTex_34 (UnityEngine.Texture2D)
-_canDyeArmor False
-_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription 
-_itemIcon _legIco_04 (UnityEngine.Sprite)
-_itemName Witchwizard Garterbelt
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legPieceTexture_01 _lgTex_34 (UnityEngine.Texture2D)
-_legPieceTexture_02 _lgTex_34 (UnityEngine.Texture2D)
-_legPieceTexture_03 _lgTex_34 (UnityEngine.Texture2D)
-_legPieceTexture_04 _lgTex_34 (UnityEngine.Texture2D)
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureFeet True
-_textureUpperLegOnly False
-_vendorCost 1000
-hideFlags None
-name (lv-16) LEGGINGS_Witchwizard Garterbelt
+- ScriptableItem -
+name : (lv-16) LEGGINGS_Witchwizard Garterbelt
+_itemName : Witchwizard Garterbelt
+_itemDescription : Witchwizard Garterbelt
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _legIco_04 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 4
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 3
+    _magicDefense : 5
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Coldgeist Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 28
+    _saturation : 0
+    _brightness : 0.07
+    _contrast : 2
+}
+_armorTexture : _lgTex_34 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 
+_legPieceTexture_01 : _lgTex_34 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_34 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_34 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_34 (UnityEngine.Texture2D)

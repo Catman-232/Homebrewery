@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 12
-_consumableObject _consumableEffect_staminaConsumable (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 0
-_healthApply 0
-_itemDescription Clenching this star gives a sudden boost of energy.
-_itemIcon _conIco_26 (UnityEngine.Sprite)
-_itemName Stamstar
-_itemRarity Common
-_itemSortTag REPLENISH_MANA
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 0
-_maxStackAmount 99
-_questTriggerTag 
-_resetAttributePoints False
-_resetSkillPoints False
-_staminaApply 50
-_unperishable False
-_useOnlyInTown False
-_vendorCost 150
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Stamstar
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Stamstar
+_itemName : Stamstar
+_itemDescription : Stamstar
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _conIco_26 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 12
+_consumableObject : _consumableEffect_staminaConsumable (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :0
+_staminaApply :50
+_expGain :0
+_resetSkillPoints :False
+_resetAttributePoints :False

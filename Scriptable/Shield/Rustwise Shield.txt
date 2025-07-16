@@ -1,20 +1,45 @@
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType OFFHAND
-_itemDescription The face is confident.
-_itemIcon _shieldIco_11 (UnityEngine.Sprite)
-_itemName Rustwise Shield
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_shieldMesh _shield_05_alt00 (UnityEngine.Mesh)
-_shieldTexture shield05_tex2 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 1260
-hideFlags None
-name (lv-16) SHIELD_Rustwise Shield
+- ScriptableItem -
+name : (lv-16) SHIELD_Rustwise Shield
+_itemName : Rustwise Shield
+_itemDescription : Rustwise Shield
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _shieldIco_11 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 4
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 9
+    _magicDefense : 7
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Deadwood Log (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_05_alt00 (UnityEngine.Mesh)
+_shieldTexture : shield05_tex2 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : -29
+    _saturation : 0.93
+    _brightness : -0.03
+    _contrast : 1.17
+}

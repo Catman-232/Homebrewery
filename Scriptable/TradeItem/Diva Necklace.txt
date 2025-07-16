@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Too big to wear, though quite valuable.
-_itemIcon _tradIco_12 (UnityEngine.Sprite)
-_itemName Diva Necklace
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 120
-hideFlags None
-name TRADEITEM_Diva Necklace
+- ScriptableItem -
+name : TRADEITEM_Diva Necklace
+_itemName : Diva Necklace
+_itemDescription : Diva Necklace
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_12 (UnityEngine.Sprite)

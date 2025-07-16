@@ -1,20 +1,45 @@
-_destroyOnDrop False
-_equipmentLevel 14
-_equipType OFFHAND
-_itemDescription Emblem of the twisted nether realm.
-_itemIcon _shieldIco_07 (UnityEngine.Sprite)
-_itemName Nethercrypt Shield
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_shieldMesh _shield_04 (UnityEngine.Mesh)
-_shieldTexture shield04Tex_00 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 439
-hideFlags None
-name (lv-14) SHIELD_Nethercrypt Shield
+- ScriptableItem -
+name : (lv-14) SHIELD_Nethercrypt Shield
+_itemName : Nethercrypt Shield
+_itemDescription : Nethercrypt Shield
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _shieldIco_07 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 14
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 9
+    _magicDefense : 2
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Hellsludge Core (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_04 (UnityEngine.Mesh)
+_shieldTexture : shield04Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : -53
+    _saturation : 2
+    _brightness : 0.08
+    _contrast : 1.56
+}

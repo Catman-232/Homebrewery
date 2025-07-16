@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Has capabilities to change a weapon damage scale to dexterity.
-_itemIcon _tradIco_40 (UnityEngine.Sprite)
-_itemName Agility Stone
-_itemRarity Common
-_itemSortTag NONE
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 480
-hideFlags None
-name TRADEITEM_Agility Stone
+- ScriptableItem -
+name : TRADEITEM_Agility Stone
+_itemName : Agility Stone
+_itemDescription : Agility Stone
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_40 (UnityEngine.Sprite)

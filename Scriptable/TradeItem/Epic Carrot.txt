@@ -1,12 +1,7 @@
-_destroyOnDrop True
-_itemDescription A carrot that is... well, quite epic actually. The taste of it is divine.
-_itemIcon _tradIco_61 (UnityEngine.Sprite)
-_itemName Epic Carrot
-_itemRarity Exotic
-_itemSortTag NONE
-_itemType TRADE
-_maxStackAmount 1
-_questTriggerTag 
-_vendorCost 0
-hideFlags None
-name TRADEITEM_Epic Carrot
+- ScriptableItem -
+name : TRADEITEM_Epic Carrot
+_itemName : Epic Carrot
+_itemDescription : Epic Carrot
+_destroyOnDrop : True
+_maxStackAmount : 1
+_itemIcon : _tradIco_61 (UnityEngine.Sprite)

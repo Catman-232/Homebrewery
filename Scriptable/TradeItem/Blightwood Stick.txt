@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Feels warm to hold.
-_itemIcon _tradIco_23 (UnityEngine.Sprite)
-_itemName Blightwood Stick
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 5
-hideFlags None
-name TRADEITEM_Blightwood Stick
+- ScriptableItem -
+name : TRADEITEM_Blightwood Stick
+_itemName : Blightwood Stick
+_itemDescription : Blightwood Stick
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_23 (UnityEngine.Sprite)

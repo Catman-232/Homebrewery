@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 60
-_consumableObject _consumableEffect_healthConsumable (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 0
-_healthApply 0
-_itemDescription A little shot that can get you going!
-_itemIcon _conIco_34 (UnityEngine.Sprite)
-_itemName Agility Vial
-_itemRarity Common
-_itemSortTag EXPERIENCE
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 0
-_maxStackAmount 99
-_questTriggerTag 
-_resetAttributePoints False
-_resetSkillPoints False
-_staminaApply 0
-_unperishable False
-_useOnlyInTown False
-_vendorCost 78
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Agility Vial
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Agility Vial
+_itemName : Agility Vial
+_itemDescription : Agility Vial
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _conIco_34 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 60
+_consumableObject : _consumableEffect_healthConsumable (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :0
+_staminaApply :0
+_expGain :0
+_resetSkillPoints :False
+_resetAttributePoints :False

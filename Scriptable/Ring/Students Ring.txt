@@ -1,20 +1,46 @@
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 12
-_equipType ARMOR
-_itemDescription Excelsior!
-_itemIcon icon_ring03 (UnityEngine.Sprite)
-_itemName Students Ring
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 165
-hideFlags None
-name (lv-12) RING_Students Ring
+- ScriptableItem -
+name : (lv-12) RING_Students Ring
+_itemName : Students Ring
+_itemDescription : Students Ring
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : icon_ring03 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 3
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.023
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Wizboar Scepter (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : 

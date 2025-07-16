@@ -1,20 +1,45 @@
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType OFFHAND
-_itemDescription Invoker of arcane tears.
-_itemIcon _shieldIco_05 (UnityEngine.Sprite)
-_itemName Iris Shield
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_shieldMesh _shield_03 (UnityEngine.Mesh)
-_shieldTexture shield03Tex_01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 198
-hideFlags None
-name (lv-8) SHIELD_Iris Shield
+- ScriptableItem -
+name : (lv-8) SHIELD_Iris Shield
+_itemName : Iris Shield
+_itemDescription : Iris Shield
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _shieldIco_05 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 1
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 1
+    _magicDefense : 2
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mouth Eye (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_03 (UnityEngine.Mesh)
+_shieldTexture : shield03Tex_01 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

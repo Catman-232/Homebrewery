@@ -1,28 +1,58 @@
-_armorTexture _lgTex_40 (UnityEngine.Texture2D)
-_canDyeArmor False
-_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 18
-_equipType ARMOR
-_itemDescription 
-_itemIcon _legIco_22 (UnityEngine.Sprite)
-_itemName Fuguefall Pants
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legPieceTexture_01 _lgTex_40 (UnityEngine.Texture2D)
-_legPieceTexture_02 _lgTex_40 (UnityEngine.Texture2D)
-_legPieceTexture_03 _lgTex_40 (UnityEngine.Texture2D)
-_legPieceTexture_04 _lgTex_40 (UnityEngine.Texture2D)
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureFeet True
-_textureUpperLegOnly False
-_vendorCost 1530
-hideFlags None
-name (lv-18) LEGGINGS_Fuguefall Pants
+- ScriptableItem -
+name : (lv-18) LEGGINGS_Fuguefall Pants
+_itemName : Fuguefall Pants
+_itemDescription : Fuguefall Pants
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _legIco_22 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 7
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0.014
+    _defense : 10
+    _magicDefense : 6
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _lgTex_40 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 
+_legPieceTexture_01 : _lgTex_40 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_40 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_40 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_40 (UnityEngine.Texture2D)

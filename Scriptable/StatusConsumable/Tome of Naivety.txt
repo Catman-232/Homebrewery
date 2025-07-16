@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 2.5
-_consumableObject _consumableEffect_unlearn (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 0
-_healthApply 0
-_itemDescription Reading this tome resets all of your Attributes, reimbursing your Attribute Points. <color=lime>Can only be used in a Safe Zone.</color>
-_itemIcon _conIco_08 (UnityEngine.Sprite)
-_itemName Tome of Naivety
-_itemRarity Common
-_itemSortTag SPECIAL_2
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 0
-_maxStackAmount 1
-_questTriggerTag 
-_resetAttributePoints True
-_resetSkillPoints False
-_staminaApply 0
-_unperishable False
-_useOnlyInTown True
-_vendorCost 1500
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Tome of Naivety
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Tome of Naivety
+_itemName : Tome of Naivety
+_itemDescription : Tome of Naivety
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _conIco_08 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 2.5
+_consumableObject : _consumableEffect_unlearn (UnityEngine.GameObject)
+_useOnlyInTown : True
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :0
+_staminaApply :0
+_expGain :0
+_resetSkillPoints :False
+_resetAttributePoints :True

@@ -1,20 +1,45 @@
-_destroyOnDrop False
-_equipmentLevel 1
-_equipType OFFHAND
-_itemDescription 
-_itemIcon _shieldIco_02 (UnityEngine.Sprite)
-_itemName Wooden Shield
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_shieldMesh _shield_01 (UnityEngine.Mesh)
-_shieldTexture shield01tex_01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 8
-hideFlags None
-name (lv-1) SHIELD_Wooden Shield
+- ScriptableItem -
+name : (lv-1) SHIELD_Wooden Shield
+_itemName : Wooden Shield
+_itemDescription : Wooden Shield
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _shieldIco_02 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 1
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_01 (UnityEngine.Mesh)
+_shieldTexture : shield01tex_01 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

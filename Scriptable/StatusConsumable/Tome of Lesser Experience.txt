@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 0
-_consumableObject _consumableEffect_experienceConsumable (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 150
-_healthApply 0
-_itemDescription The knowledge this Tome provides gives a handful of experience to the reader.
-_itemIcon _conIco_06 (UnityEngine.Sprite)
-_itemName Tome of Lesser Experience
-_itemRarity Common
-_itemSortTag EXPERIENCE
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 0
-_maxStackAmount 5
-_questTriggerTag 
-_resetAttributePoints False
-_resetSkillPoints False
-_staminaApply 0
-_unperishable False
-_useOnlyInTown False
-_vendorCost 750
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Tome of Lesser Experience
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Tome of Lesser Experience
+_itemName : Tome of Lesser Experience
+_itemDescription : Tome of Lesser Experience
+_destroyOnDrop : False
+_maxStackAmount : 5
+_itemIcon : _conIco_06 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 0
+_consumableObject : _consumableEffect_experienceConsumable (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :0
+_staminaApply :0
+_expGain :150
+_resetSkillPoints :False
+_resetAttributePoints :False

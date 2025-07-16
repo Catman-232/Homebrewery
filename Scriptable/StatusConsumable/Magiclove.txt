@@ -1,24 +1,21 @@
-_consumableCondition ConditionSlot
-_consumableCooldown 7
-_consumableObject _consumableEffect_manaConsumable (UnityEngine.GameObject)
-_destroyOnDrop False
-_expGain 0
-_healthApply 0
-_itemDescription A large mind replenishing clove.
-_itemIcon _conIco_23 (UnityEngine.Sprite)
-_itemName Magiclove
-_itemRarity Common
-_itemSortTag REPLENISH_HEALTH
-_itemType CONSUMABLE
-_levelRequirement 0
-_manaApply 80
-_maxStackAmount 99
-_questTriggerTag 
-_resetAttributePoints False
-_resetSkillPoints False
-_staminaApply 0
-_unperishable False
-_useOnlyInTown False
-_vendorCost 80
-hideFlags None
-name (lv-0) STATUSCONSUMABLE_Magiclove
+- ScriptableItem -
+name : (lv-0) STATUSCONSUMABLE_Magiclove
+_itemName : Magiclove
+_itemDescription : Magiclove
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _conIco_23 (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 7
+_consumableObject : _consumableEffect_manaConsumable (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableStatusConsumable -
+_healthApply :0
+_manaApply :80
+_staminaApply :0
+_expGain :0
+_resetSkillPoints :False
+_resetAttributePoints :False

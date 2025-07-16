@@ -1,27 +1,58 @@
-_armorTexture _lgTex_45 (UnityEngine.Texture2D)
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 22
-_equipType ARMOR
-_itemDescription 
-_itemIcon _legIco_25 (UnityEngine.Sprite)
-_itemName Gemveil Leggings
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legPieceTexture_01 _lgTex_45 (UnityEngine.Texture2D)
-_legPieceTexture_02 _lgTex_45 (UnityEngine.Texture2D)
-_legPieceTexture_03 _lgTex_45 (UnityEngine.Texture2D)
-_legPieceTexture_04 _lgTex_45 (UnityEngine.Texture2D)
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureFeet True
-_textureUpperLegOnly False
-_vendorCost 1240
-hideFlags None
-name (lv-22) LEGGINGS_Gemveil Leggings
+- ScriptableItem -
+name : (lv-22) LEGGINGS_Gemveil Leggings
+_itemName : Gemveil Leggings
+_itemDescription : Gemveil Leggings
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _legIco_25 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 2
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 4
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 0.805
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _lgTex_45 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 
+_legPieceTexture_01 : _lgTex_45 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_45 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_45 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_45 (UnityEngine.Texture2D)
