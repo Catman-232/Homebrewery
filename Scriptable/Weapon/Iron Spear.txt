@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) WEAPON_Iron Spear (Polearm, Strength)
 _itemName : Iron Spear
-_itemDescription : Iron Spear
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_48 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) WEAPON_Menace Bow (Bow, Dexterity)
 _itemName : Menace Bow
-_itemDescription : Menace Bow
+_itemDescription : You feel a surge of swiftness holding this bow.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_19 (UnityEngine.Sprite)

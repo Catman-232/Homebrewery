@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) WEAPON_Wizwand (Scepter, Mind)
 _itemName : Wizwand
-_itemDescription : Wizwand
+_itemDescription : Electrifying.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_66 (UnityEngine.Sprite)

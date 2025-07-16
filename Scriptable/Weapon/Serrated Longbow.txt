@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) WEAPON_Serrated Longbow (Bow, Dexterity)
 _itemName : Serrated Longbow
-_itemDescription : Serrated Longbow
+_itemDescription : Sharp and twisted. Fires arrows that pierce.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_61 (UnityEngine.Sprite)

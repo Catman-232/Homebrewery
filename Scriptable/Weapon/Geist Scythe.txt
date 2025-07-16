@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) WEAPON_Geist Scythe (Great Weapon, Strength)
 _itemName : Geist Scythe
-_itemDescription : Geist Scythe
+_itemDescription : The souls of the damned resonate within the blade.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_28 (UnityEngine.Sprite)

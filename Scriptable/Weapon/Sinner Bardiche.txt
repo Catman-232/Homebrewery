@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) WEAPON_Sinner Bardiche (Polearm, Strength)
 _itemName : Sinner Bardiche
-_itemDescription : Sinner Bardiche
+_itemDescription : Blood of the sinners coat this weapon.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_31 (UnityEngine.Sprite)

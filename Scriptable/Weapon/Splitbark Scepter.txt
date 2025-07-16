@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) WEAPON_Splitbark Scepter (Scepter, Mind)
 _itemName : Splitbark Scepter
-_itemDescription : Splitbark Scepter
+_itemDescription : Warmth eminates from the bright white gems.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_05 (UnityEngine.Sprite)

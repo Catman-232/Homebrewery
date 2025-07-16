@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) WEAPON_Slimecrust Blade (Sword, Strength)
 _itemName : Slimecrust Blade
-_itemDescription : Slimecrust Blade
+_itemDescription : Looks to be an Iron Sword, but the blade is intensely dulled by slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_02 (UnityEngine.Sprite)

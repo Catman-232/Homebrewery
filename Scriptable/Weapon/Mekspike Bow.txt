@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) WEAPON_Mekspike Bow (Bow, Dexterity)
 _itemName : Mekspike Bow
-_itemDescription : Mekspike Bow
+_itemDescription : The construct of this bow is similar of a Mekboar.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_18 (UnityEngine.Sprite)

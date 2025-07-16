@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) WEAPON_Deadwood Axe (Hammer, Strength)
 _itemName : Deadwood Axe
-_itemDescription : Deadwood Axe
+_itemDescription : This was wedged deep into a Deadwood. Origins of the cause is a mystery.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_20 (UnityEngine.Sprite)

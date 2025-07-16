@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) WEAPON_Demicrypt Bow (Bow, Dexterity)
 _itemName : Demicrypt Bow
-_itemDescription : Demicrypt Bow
+_itemDescription : The bones holding this bow together seem fresh.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_32 (UnityEngine.Sprite)

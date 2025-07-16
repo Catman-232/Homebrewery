@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) WEAPON_Coldgeist Frostcaller (Magic Bell, Mind)
 _itemName : Coldgeist Frostcaller
-_itemDescription : Coldgeist Frostcaller
+_itemDescription : Used to awaken Geistlords with its spine chilling tone.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_47 (UnityEngine.Sprite)

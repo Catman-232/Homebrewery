@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) WEAPON_Wood Spear (Polearm)
 _itemName : Wood Spear
-_itemDescription : Wood Spear
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_24 (UnityEngine.Sprite)

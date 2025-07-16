@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) WEAPON_Slime Diva Baton (Scepter, Mind)
 _itemName : Slime Diva Baton
-_itemDescription : Slime Diva Baton
+_itemDescription : Only a Slime Diva can truly maximize the full potential of this Scepter.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_04 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) WEAPON_Wooden Bell (Magic Bell, Mind)
 _itemName : Wooden Bell
-_itemDescription : Wooden Bell
+_itemDescription : The weapon is made of wood, but it chimes as if it's metal.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_11 (UnityEngine.Sprite)

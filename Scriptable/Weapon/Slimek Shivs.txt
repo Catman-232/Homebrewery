@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) WEAPON_Slimek Shivs (Fist Weapons, Dexterity)
 _itemName : Slimek Shivs
-_itemDescription : Slimek Shivs
+_itemDescription : These ears of a Slimek seem to be usable for combat...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_25 (UnityEngine.Sprite)

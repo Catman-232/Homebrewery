@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) WEAPON_Mithril Bell (Magic Bell, Mind)
 _itemName : Mithril Bell
-_itemDescription : Mithril Bell
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_53 (UnityEngine.Sprite)

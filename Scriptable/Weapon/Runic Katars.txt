@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-10) WEAPON_Runic Katars (Fist Weapon, Dexterity)
 _itemName : Runic Katars
-_itemDescription : Runic Katars
+_itemDescription : Forged by a sadistic being of torture.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_23 (UnityEngine.Sprite)

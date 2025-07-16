@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) WEAPON_Iron Scepter (Scepter, Mind)
 _itemName : Iron Scepter
-_itemDescription : Iron Scepter
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_49 (UnityEngine.Sprite)

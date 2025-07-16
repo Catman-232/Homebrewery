@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) WEAPON_Necroroyal Halberd (Polearm, Strength)
 _itemName : Necroroyal Halberd
-_itemDescription : Necroroyal Halberd
+_itemDescription : Used by the royal guard of the undead.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_42 (UnityEngine.Sprite)

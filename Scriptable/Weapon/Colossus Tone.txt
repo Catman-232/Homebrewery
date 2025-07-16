@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-18) WEAPON_Colossus Tone (Magic Bell, Mind)
 _itemName : Colossus Tone
-_itemDescription : Colossus Tone
+_itemDescription : Pieces of a Colossus are embedded into this bell.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_71 (UnityEngine.Sprite)

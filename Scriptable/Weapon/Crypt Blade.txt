@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) WEAPON_Crypt Blade (Sword, Strength)
 _itemName : Crypt Blade
-_itemDescription : Crypt Blade
+_itemDescription : The sharped blade was a bone of a madman.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_26 (UnityEngine.Sprite)

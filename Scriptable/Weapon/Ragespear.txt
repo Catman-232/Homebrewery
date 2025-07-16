@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) WEAPON_Ragespear (Polearm, Strength)
 _itemName : Ragespear
-_itemDescription : Ragespear
+_itemDescription : The tip of the spear drips with blood endlessly.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_69 (UnityEngine.Sprite)

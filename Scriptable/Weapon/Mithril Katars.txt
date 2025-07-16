@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) WEAPON_Mithril Katars (Fist Weapons, Dexterity)
 _itemName : Mithril Katars
-_itemDescription : Mithril Katars
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_57 (UnityEngine.Sprite)

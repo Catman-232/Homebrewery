@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) WEAPON_Vile Blade (Sword, Strength)
 _itemName : Vile Blade
-_itemDescription : Vile Blade
+_itemDescription : A Rude Blade, but more... vile.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_70 (UnityEngine.Sprite)

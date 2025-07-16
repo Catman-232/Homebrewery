@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) WEAPON_Dawn Mace (Mace, Strength)
 _itemName : Dawn Mace
-_itemDescription : Dawn Mace
+_itemDescription : Clubbed to death.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_14 (UnityEngine.Sprite)

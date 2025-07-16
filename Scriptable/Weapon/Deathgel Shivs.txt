@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
 _itemName : Deathgel Shivs
-_itemDescription : Deathgel Shivs
+_itemDescription : Rotted, deadly Deathgel ears.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_36 (UnityEngine.Sprite)

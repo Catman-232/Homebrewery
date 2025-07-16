@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) WEAPON_Hellsludge Shivs (Fist Weapon, Dexterity)
 _itemName : Hellsludge Shivs
-_itemDescription : Hellsludge Shivs
+_itemDescription : Hot, hot, hot to the touch!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_68 (UnityEngine.Sprite)
