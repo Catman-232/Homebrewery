@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Necro Caustics
 _itemName : Necro Caustics
-_itemDescription : Necro Caustics
+_itemDescription : Common clothing worn by Imps.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_imp02 (UnityEngine.Sprite)

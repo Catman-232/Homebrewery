@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) LEGGINGS_Mercenary Leggings
 _itemName : Mercenary Leggings
-_itemDescription : Mercenary Leggings
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_18 (UnityEngine.Sprite)

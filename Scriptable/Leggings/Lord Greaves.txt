@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) LEGGINGS_Lord Greaves
 _itemName : Lord Greaves
-_itemDescription : Lord Greaves
+_itemDescription : Your pants, sire?
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_01 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Aero Pants
 _itemName : Aero Pants
-_itemDescription : Aero Pants
+_itemDescription : Common clothing worn by Byrdles.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_10 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Leather Britches
 _itemName : Leather Britches
-_itemDescription : Leather Britches
+_itemDescription : Common clothing worn by Poons.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_poon02 (UnityEngine.Sprite)

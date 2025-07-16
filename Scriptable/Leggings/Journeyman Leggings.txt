@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) LEGGINGS_Journeyman Leggings
 _itemName : Journeyman Leggings
-_itemDescription : Journeyman Leggings
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_14 (UnityEngine.Sprite)

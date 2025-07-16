@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Festive Trousers
 _itemName : Festive Trousers
-_itemDescription : Festive Trousers
+_itemDescription : Merry pantsmas!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_24 (UnityEngine.Sprite)

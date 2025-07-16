@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-18) LEGGINGS_Magilord Boots
 _itemName : Magilord Boots
-_itemDescription : Magilord Boots
+_itemDescription : Keeps the toes warm.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_21 (UnityEngine.Sprite)

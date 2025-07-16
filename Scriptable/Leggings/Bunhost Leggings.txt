@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Bunhost Leggings
 _itemName : Bunhost Leggings
-_itemDescription : Bunhost Leggings
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_bunhost (UnityEngine.Sprite)

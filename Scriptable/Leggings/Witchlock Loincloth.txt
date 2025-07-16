@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) LEGGINGS_Witchlock Loincloth
 _itemName : Witchlock Loincloth
-_itemDescription : Witchlock Loincloth
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_03 (UnityEngine.Sprite)

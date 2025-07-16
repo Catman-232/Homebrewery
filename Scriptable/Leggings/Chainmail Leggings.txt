@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) LEGGINGS_Chainmail Leggings
 _itemName : Chainmail Leggings
-_itemDescription : Chainmail Leggings
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_17 (UnityEngine.Sprite)

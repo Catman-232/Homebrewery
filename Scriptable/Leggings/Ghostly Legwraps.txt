@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) LEGGINGS_Ghostly Legwraps
 _itemName : Ghostly Legwraps
-_itemDescription : Ghostly Legwraps
+_itemDescription : Wearing these make your legs feel numb.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_12 (UnityEngine.Sprite)

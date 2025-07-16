@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Nutso Pants
 _itemName : Nutso Pants
-_itemDescription : Nutso Pants
+_itemDescription : Common clothing worn by Changs.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_11 (UnityEngine.Sprite)

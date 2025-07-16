@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) LEGGINGS_Slimecrust Leggings
 _itemName : Slimecrust Leggings
-_itemDescription : Slimecrust Leggings
+_itemDescription : Drenched in slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_07 (UnityEngine.Sprite)

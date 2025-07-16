@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Silken Loincloth
 _itemName : Silken Loincloth
-_itemDescription : Silken Loincloth
+_itemDescription : Ancient loincloth.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_imp01 (UnityEngine.Sprite)
