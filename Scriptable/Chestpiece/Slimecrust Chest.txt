@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-2) CHESTPIECE_Slimecrust Chest
 _itemName : Slimecrust Chest
-_itemDescription : Slimecrust Chest
+_itemDescription : Cracked and ravaged by slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_09 (UnityEngine.Sprite)

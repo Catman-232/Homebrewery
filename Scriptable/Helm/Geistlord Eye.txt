@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) HELM_Geistlord Eye
 _itemName : Geistlord Eye
-_itemDescription : Geistlord Eye
+_itemDescription : Madness beyond comprehension.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_15 (UnityEngine.Sprite)

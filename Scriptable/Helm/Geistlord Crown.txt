@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-10) HELM_Geistlord Crown
 _itemName : Geistlord Crown
-_itemDescription : Geistlord Crown
+_itemDescription : Can you handle the madness that ensues?
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_13 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) HELM_Festive Hat
 _itemName : Festive Hat
-_itemDescription : Festive Hat
+_itemDescription : Ho ho... ho!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_22 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) HELM_Acolyte Hood
 _itemName : Acolyte Hood
-_itemDescription : Acolyte Hood
+_itemDescription : Cultists are seen to wear this.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_23 (UnityEngine.Sprite)

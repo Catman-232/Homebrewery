@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) CHESTPIECE_Lord Breastplate
 _itemName : Lord Breastplate
-_itemDescription : Lord Breastplate
+_itemDescription : Hail the Lord!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_02 (UnityEngine.Sprite)

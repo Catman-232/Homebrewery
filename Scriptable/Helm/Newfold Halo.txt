@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) HELM_Newfold Halo
 _itemName : Newfold Halo
-_itemDescription : Newfold Halo
+_itemDescription : A sigil to indicate a new soul's introduction to the world.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_05 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Fisher Overalls
 _itemName : Fisher Overalls
-_itemDescription : Fisher Overalls
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_45 (UnityEngine.Sprite)

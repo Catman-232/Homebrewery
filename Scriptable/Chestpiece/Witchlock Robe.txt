@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) CHESTPIECE_Witchlock Robe
 _itemName : Witchlock Robe
-_itemDescription : Witchlock Robe
+_itemDescription : Robe of the elite occult.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_01 (UnityEngine.Sprite)

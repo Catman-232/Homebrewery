@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) HELM_Dire Helm
 _itemName : Dire Helm
-_itemDescription : Dire Helm
+_itemDescription : Once worn by a brave warrior.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_09 (UnityEngine.Sprite)

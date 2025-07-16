@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Necro Marrow
 _itemName : Necro Marrow
-_itemDescription : Necro Marrow
+_itemDescription : Common clothing worn by Imps.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestpieceIco_imp01 (UnityEngine.Sprite)

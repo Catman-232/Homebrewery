@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) HELM_Cryptsinge Halo
 _itemName : Cryptsinge Halo
-_itemDescription : Cryptsinge Halo
+_itemDescription : Rumination of the dead.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_06 (UnityEngine.Sprite)

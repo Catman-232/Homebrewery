@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) CHESTPIECE_Reaper Gi
 _itemName : Reaper Gi
-_itemDescription : Reaper Gi
+_itemDescription : Worn by undead assassins.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_07 (UnityEngine.Sprite)

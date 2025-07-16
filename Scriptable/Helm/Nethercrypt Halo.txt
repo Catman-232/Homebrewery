@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) HELM_Nethercrypt Halo
 _itemName : Nethercrypt Halo
-_itemDescription : Nethercrypt Halo
+_itemDescription : Banished crown from the nether realms.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_14 (UnityEngine.Sprite)

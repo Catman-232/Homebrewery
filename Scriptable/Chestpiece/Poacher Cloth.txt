@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-3) CHESTPIECE_Poacher Cloth
 _itemName : Poacher Cloth
-_itemDescription : Poacher Cloth
+_itemDescription : Slightly veiled.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_35 (UnityEngine.Sprite)

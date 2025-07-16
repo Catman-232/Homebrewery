@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) HELM_Wizard Hat
 _itemName : Wizard Hat
-_itemDescription : Wizard Hat
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_16 (UnityEngine.Sprite)

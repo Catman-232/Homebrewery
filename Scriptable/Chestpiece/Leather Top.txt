@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Leather Top
 _itemName : Leather Top
-_itemDescription : Leather Top
+_itemDescription : Common clothing worn by Poons.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestpieceIco_poon01 (UnityEngine.Sprite)

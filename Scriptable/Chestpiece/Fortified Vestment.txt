@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) CHESTPIECE_Fortified Vestment
 _itemName : Fortified Vestment
-_itemDescription : Fortified Vestment
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_30 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-18) CHESTPIECE_Magilord Overalls
 _itemName : Magilord Overalls
-_itemDescription : Magilord Overalls
+_itemDescription : Devout mystic sages of ancient times worn these in ceremonies.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_27 (UnityEngine.Sprite)

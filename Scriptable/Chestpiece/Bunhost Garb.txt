@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Bunhost Garb
 _itemName : Bunhost Garb
-_itemDescription : Bunhost Garb
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestpieceIco_bunhost (UnityEngine.Sprite)

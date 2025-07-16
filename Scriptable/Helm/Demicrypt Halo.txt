@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) HELM_Demicrypt Halo
 _itemName : Demicrypt Halo
-_itemDescription : Demicrypt Halo
+_itemDescription : Fallen from corrupted angels.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_07 (UnityEngine.Sprite)

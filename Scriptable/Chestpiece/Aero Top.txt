@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Aero Top
 _itemName : Aero Top
-_itemDescription : Aero Top
+_itemDescription : Common clothing worn by Byrdles.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_12 (UnityEngine.Sprite)

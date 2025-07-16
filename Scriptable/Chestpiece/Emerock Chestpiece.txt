@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-22) CHESTPIECE_Emerock Chestpiece
 _itemName : Emerock Chestpiece
-_itemDescription : Emerock Chestpiece
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_40 (UnityEngine.Sprite)
