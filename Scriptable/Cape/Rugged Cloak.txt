@@ -1,22 +1,49 @@
-_armorTexture _capeTex_01 (UnityEngine.Texture2D)
-_canDyeArmor True
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType ARMOR
-_itemDescription 
-_itemIcon _capIco_03 (UnityEngine.Sprite)
-_itemName Rugged Cloak
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 34
-hideFlags None
-name (lv-6) CAPE_Rugged Cloak
+- ScriptableItem -
+name : (lv-6) CAPE_Rugged Cloak
+_itemName : Rugged Cloak
+_itemDescription : Rugged Cloak
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_03 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 2
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : -27
+    _saturation : 2
+    _brightness : -0.23
+    _contrast : 1.23
+}
+_armorTexture : _capeTex_01 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

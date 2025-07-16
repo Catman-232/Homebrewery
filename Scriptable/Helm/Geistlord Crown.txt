@@ -1,27 +1,55 @@
-_armorTexture halo04Tex_00 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 10
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_04 (UnityEngine.Mesh)
-_helmRender helmRender_halo (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Can you handle the madness that ensues?
-_itemIcon _helmIco_13 (UnityEngine.Sprite)
-_itemName Geistlord Crown
-_itemRarity Exotic
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_useHelmHairDisplay False
-_vendorCost 1200
-hideFlags None
-name (lv-10) HELM_Geistlord Crown
+- ScriptableItem -
+name : (lv-10) HELM_Geistlord Crown
+_itemName : Geistlord Crown
+_itemDescription : Geistlord Crown
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_13 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 10
+_classRequirement : 
+_statArray : {
+    _maxHealth : 3
+    _maxMana : 3
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 4
+    _magicDefense : 6
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : halo04Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_04 (UnityEngine.Mesh)

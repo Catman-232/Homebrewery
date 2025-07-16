@@ -1,27 +1,66 @@
-_armorTexture _chTex_31a (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_31b (UnityEngine.Texture2D)
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 22
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_40 (UnityEngine.Sprite)
-_itemName Emerock Chestpiece
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_31_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 1350
-hideFlags None
-name (lv-22) CHESTPIECE_Emerock Chestpiece
+- ScriptableItem -
+name : (lv-22) CHESTPIECE_Emerock Chestpiece
+_itemName : Emerock Chestpiece
+_itemDescription : Emerock Chestpiece
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_40 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 17
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 102
+    _saturation : 2
+    _brightness : -0.099
+    _contrast : 1.44
+}
+_armorTexture : _chTex_31a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_31_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_31b (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

@@ -1,28 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_47a (UnityEngine.Texture2D)
-_canDyeArmor True
-_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 24
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_41 (UnityEngine.Sprite)
-_itemName Fender Garb
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_47_leg (UnityEngine.Texture2D)
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 1450
-hideFlags None
-name (lv-24) CHESTPIECE_Fender Garb
+- ScriptableItem -
+name : (lv-24) CHESTPIECE_Fender Garb
+_itemName : Fender Garb
+_itemDescription : Fender Garb
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_41 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 10
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 23
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 20
+    _magicDefense : 15
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 2
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_47a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_47_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

@@ -1,30 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_40a (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_40b (UnityEngine.Texture2D)
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_31 (UnityEngine.Sprite)
-_itemName Chainscale Chest
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_40_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType Both
-_shoulderpadMesh _shoulderpad_01 (UnityEngine.Mesh)
-_shoulderpadTexture shoulderpad00Tex_01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 800
-hideFlags None
-name (lv-16) CHESTPIECE_Chainscale Chest
+- ScriptableItem -
+name : (lv-16) CHESTPIECE_Chainscale Chest
+_itemName : Chainscale Chest
+_itemDescription : Chainscale Chest
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_31 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.012
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 10
+    _magicDefense : 4
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_40a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_40_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_40b (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : _shoulderpad_01 (UnityEngine.Mesh)
+_shoulderpadTexture : shoulderpad00Tex_01 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both

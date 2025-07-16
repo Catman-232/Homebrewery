@@ -1,22 +1,49 @@
-_armorTexture _capeTex_00 (UnityEngine.Texture2D)
-_canDyeArmor True
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 14
-_equipType ARMOR
-_itemDescription Rug for the feet of the dead.
-_itemIcon _capIco_01 (UnityEngine.Sprite)
-_itemName Nethercrypt Cloak
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 536
-hideFlags None
-name (lv-14) CAPE_Nethercrypt Cloak
+- ScriptableItem -
+name : (lv-14) CAPE_Nethercrypt Cloak
+_itemName : Nethercrypt Cloak
+_itemDescription : Nethercrypt Cloak
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_01 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 14
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 5
+    _magicDefense : 4
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Geist Collar (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : -46
+    _saturation : 1.63
+    _brightness : -0.23
+    _contrast : 0.69
+}
+_armorTexture : _capeTex_00 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

@@ -1,21 +1,49 @@
-_armorTexture _capeTex_11 (UnityEngine.Texture2D)
-_canDyeArmor False
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 22
-_equipType ARMOR
-_itemDescription Tears of a gem.
-_itemIcon _capIco_11 (UnityEngine.Sprite)
-_itemName Windgolem Cloak
-_itemRarity Exotic
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_vendorCost 923
-hideFlags None
-name (lv-22) CAPE_Windgolem Cloak
+- ScriptableItem -
+name : (lv-22) CAPE_Windgolem Cloak
+_itemName : Windgolem Cloak
+_itemDescription : Windgolem Cloak
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_11 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 6
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 5
+    _magicDefense : 6
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 3
+    _earthResist : 2
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0.04
+    _contrast : 1.32
+}
+_armorTexture : _capeTex_11 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

@@ -1,18 +1,21 @@
-_consumableCooldown 1.5
-_consumableObject _consumableEffect_purpleDye (UnityEngine.GameObject)
-_destroyOnDrop False
-_dyeParams ColorAdjustShader_Profile
-_itemDescription A vial of purple dye.
-_itemIcon _dyeIco_purple (UnityEngine.Sprite)
-_itemName Purple Dye
-_itemRarity Common
-_itemSortTag SPECIAL
-_itemType CONSUMABLE
-_levelRequirement 0
-_maxStackAmount 1
-_questTriggerTag 
-_unperishable False
-_useOnlyInTown False
-_vendorCost 160
-hideFlags None
-name DYE_Purple Dye
+- ScriptableItem -
+name : DYE_Purple Dye
+_itemName : Purple Dye
+_itemDescription : Purple Dye
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_purple (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_purpleDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : 155
+    _saturation : 1.3
+    _brightness : 0
+    _contrast : 1
+}

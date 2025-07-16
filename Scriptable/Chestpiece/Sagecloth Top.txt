@@ -1,30 +1,66 @@
-_armorTexture _chTex_02a (UnityEngine.Texture2D)
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 1
-_equipType ARMOR
-_itemDescription Common clothing worn by Kubolds.
-_itemIcon _leggingIco_kubold01 (UnityEngine.Sprite)
-_itemName Sagecloth Top
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs False
-_maxStackAmount 1
-_neckCollarMesh _collar_ballCollar (UnityEngine.Mesh)
-_neckCollarTexture ballCollar_tex01 (UnityEngine.Texture2D)
-_questTriggerTag 
-_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
-_robeSkirtTexture _lgTex_02a (UnityEngine.Texture2D)
-_shoulderPadDisplayType None
-_shoulderpadMesh shoulderpad_pad01 (UnityEngine.Mesh)
-_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_textureArms True
-_vendorCost 10
-hideFlags None
-name (lv-1) CHESTPIECE_Sagecloth Top
+- ScriptableItem -
+name : (lv-1) CHESTPIECE_Sagecloth Top
+_itemName : Sagecloth Top
+_itemDescription : Sagecloth Top
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _leggingIco_kubold01 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_02a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : _collar_ballCollar (UnityEngine.Mesh)
+_neckCollarTexture : ballCollar_tex01 (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture : _lgTex_02a (UnityEngine.Texture2D)
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : shoulderpad_pad01 (UnityEngine.Mesh)
+_shoulderpadTexture : bk_04 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : None

@@ -1,30 +1,66 @@
-_armorTexture _chTex_42a (UnityEngine.Texture2D)
-_canDyeArmor False
-_chestRenderBoobTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
-_chestRenderDisplay armorRender_chestTabard_00 (ScriptableArmorRender)
-_chestRenderTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 12
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_04 (UnityEngine.Sprite)
-_itemName Nethercrypt Tabard
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs True
-_maxStackAmount 1
-_neckCollarMesh mysticArmor_collar (UnityEngine.Mesh)
-_neckCollarTexture chestTabard01Tex_03 (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 485
-hideFlags None
-name (lv-12) CHESTPIECE_Nethercrypt Tabard
+- ScriptableItem -
+name : (lv-12) CHESTPIECE_Nethercrypt Tabard
+_itemName : Nethercrypt Tabard
+_itemDescription : Nethercrypt Tabard
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_04 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 7
+    _magicDefense : 4
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Hellsludge Core (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 2
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_42a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture : chestTabard01Tex_03 (UnityEngine.Texture2D)
+_chestRenderDisplay : armorRender_chestTabard_00 (ScriptableArmorRender)
+_chestRenderTexture : chestTabard01Tex_03 (UnityEngine.Texture2D)
+_chestRenderBoobTexture : chestTabard01Tex_03 (UnityEngine.Texture2D)
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

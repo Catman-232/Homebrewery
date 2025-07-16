@@ -1,27 +1,55 @@
-_armorTexture nubCapTex01 (UnityEngine.Texture2D)
-_blendHelmValue 100
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 1
-_equipType ARMOR
-_helmRender helmRender_nubCap (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription 
-_itemIcon _helmIco_24 (UnityEngine.Sprite)
-_itemName Leather Cap
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay True
-_vendorCost 13
-hideFlags None
-name (lv-1) HELM_Leather Cap
+- ScriptableItem -
+name : (lv-1) HELM_Leather Cap
+_itemName : Leather Cap
+_itemDescription : Leather Cap
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_24 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 3
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : nubCapTex01 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 100
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_nubCap (ScriptableArmorRender)
+_helmOverrideMesh : 

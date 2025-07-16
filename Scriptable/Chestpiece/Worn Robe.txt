@@ -1,27 +1,66 @@
-_armorTexture _lgTex_11a (UnityEngine.Texture2D)
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 2
-_equipType ARMOR
-_itemDescription Definitely been worn many times.
-_itemIcon _chestIco_16 (UnityEngine.Sprite)
-_itemName Worn Robe
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs False
-_maxStackAmount 1
-_questTriggerTag 
-_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
-_robeSkirtTexture _lgTex_11a (UnityEngine.Texture2D)
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms False
-_vendorCost 12
-hideFlags None
-name (lv-2) CHESTPIECE_Worn Robe
+- ScriptableItem -
+name : (lv-2) CHESTPIECE_Worn Robe
+_itemName : Worn Robe
+_itemDescription : Worn Robe
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_16 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 2
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 1
+    _magicDefense : 1
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -23
+    _saturation : 0.89
+    _brightness : 0.12
+    _contrast : 0.95
+}
+_armorTexture : _lgTex_11a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : False
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture : _lgTex_11a (UnityEngine.Texture2D)
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

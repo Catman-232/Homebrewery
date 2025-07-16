@@ -1,27 +1,55 @@
-_armorTexture _glasses (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 4
-_equipType ARMOR
-_helmRender helmRender_glasses01 (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Used to read.
-_itemIcon _helmIco_02 (UnityEngine.Sprite)
-_itemName Initiate Spectacles
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay False
-_vendorCost 15
-hideFlags None
-name (lv-4) HELM_Initiate Spectacles
+- ScriptableItem -
+name : (lv-4) HELM_Initiate Spectacles
+_itemName : Initiate Spectacles
+_itemDescription : Initiate Spectacles
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_02 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 4
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 1
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0012
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 0
+    _brightness : -0.85
+    _contrast : 1.82
+}
+_armorTexture : _glasses (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_glasses01 (ScriptableArmorRender)
+_helmOverrideMesh : 

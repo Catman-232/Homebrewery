@@ -1,18 +1,21 @@
-_consumableCooldown 1.5
-_consumableObject _consumableEffect_yellowDye (UnityEngine.GameObject)
-_destroyOnDrop False
-_dyeParams ColorAdjustShader_Profile
-_itemDescription A vial of yellow dye.
-_itemIcon _dyeIco_yellow (UnityEngine.Sprite)
-_itemName Yellow Dye
-_itemRarity Common
-_itemSortTag SPECIAL
-_itemType CONSUMABLE
-_levelRequirement 0
-_maxStackAmount 1
-_questTriggerTag 
-_unperishable False
-_useOnlyInTown False
-_vendorCost 160
-hideFlags None
-name DYE_Yellow Dye
+- ScriptableItem -
+name : DYE_Yellow Dye
+_itemName : Yellow Dye
+_itemDescription : Yellow Dye
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_yellow (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_yellowDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : -64
+    _saturation : 1.8
+    _brightness : 0
+    _contrast : 1.15
+}

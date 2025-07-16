@@ -1,31 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
-_armorTexture _chTex_25a (UnityEngine.Texture2D)
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 14
-_equipType ARMOR
-_hipMeshDisplay 00_armorRender_hipMesh_01 (ScriptableArmorRender)
-_hipMeshTexture hipMesh_01_tex_00 (UnityEngine.Texture2D)
-_itemDescription 
-_itemIcon _chestIco_30 (UnityEngine.Sprite)
-_itemName Fortified Vestment
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_25_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_neckCollarMesh _collar_01 (UnityEngine.Mesh)
-_neckCollarTexture angelaBellTex (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 760
-hideFlags None
-name (lv-14) CHESTPIECE_Fortified Vestment
+- ScriptableItem -
+name : (lv-14) CHESTPIECE_Fortified Vestment
+_itemName : Fortified Vestment
+_itemDescription : Fortified Vestment
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_30 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 14
+_classRequirement : 
+_statArray : {
+    _maxHealth : 3
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 9
+    _magicDefense : 2
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -21
+    _saturation : 1.09
+    _brightness : -0.08
+    _contrast : 1.27
+}
+_armorTexture : _chTex_25a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_25_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : _collar_01 (UnityEngine.Mesh)
+_neckCollarTexture : angelaBellTex (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 00_armorRender_hipMesh_01 (ScriptableArmorRender)
+_hipMeshTexture : hipMesh_01_tex_00 (UnityEngine.Texture2D)
+_armCuffRender : 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

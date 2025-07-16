@@ -1,31 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_30c (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_30d (UnityEngine.Texture2D)
-_canDyeArmor True
-_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription Bend the knee, to the King!
-_itemIcon _chestIco_06 (UnityEngine.Sprite)
-_itemName King Breastplate
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_30_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType Both
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture _building01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 1200
-hideFlags None
-name (lv-16) CHESTPIECE_King Breastplate
+- ScriptableItem -
+name : (lv-16) CHESTPIECE_King Breastplate
+_itemName : King Breastplate
+_itemDescription : King Breastplate
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_06 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 6
+    _experience : 0
+    _attackPower : 10
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 18
+    _magicDefense : 5
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Coldgeist Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_30c (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_30_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_30d (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : _building01 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both

@@ -1,28 +1,55 @@
-_armorTexture halo01Tex_00 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_01 (UnityEngine.Mesh)
-_helmRender helmRender_halo (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Fallen from corrupted angels.
-_itemIcon _helmIco_07 (UnityEngine.Sprite)
-_itemName Demicrypt Halo
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay False
-_vendorCost 78
-hideFlags None
-name (lv-6) HELM_Demicrypt Halo
+- ScriptableItem -
+name : (lv-6) HELM_Demicrypt Halo
+_itemName : Demicrypt Halo
+_itemDescription : Demicrypt Halo
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_07 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 4
+    _magicDefense : 2
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -162
+    _saturation : 2
+    _brightness : 0.37
+    _contrast : 2
+}
+_armorTexture : halo01Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_01 (UnityEngine.Mesh)

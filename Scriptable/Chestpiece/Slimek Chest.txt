@@ -1,27 +1,66 @@
-_armorTexture _chTex_17a (UnityEngine.Texture2D)
-_canDyeArmor False
-_chestRenderDisplay armorRender_chestMesh_00 (ScriptableArmorRender)
-_chestRenderTexture _chestMeshTex_00_02 (UnityEngine.Texture2D)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones True
-_equipmentLevel 4
-_equipType ARMOR
-_itemDescription Sturdy enough to widthstand some further damage.
-_itemIcon _chestIco_10 (UnityEngine.Sprite)
-_itemName Slimek Chest
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 60
-hideFlags None
-name (lv-4) CHESTPIECE_Slimek Chest
+- ScriptableItem -
+name : (lv-4) CHESTPIECE_Slimek Chest
+_itemName : Slimek Chest
+_itemDescription : Slimek Chest
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_10 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 4
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 4
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Slimek Core (ScriptableTradeItem)
+    _scriptItemQuantity : 10
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1.51
+    _brightness : -0.16
+    _contrast : 1.33
+}
+_armorTexture : _chTex_17a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : True
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : armorRender_chestMesh_00 (ScriptableArmorRender)
+_chestRenderTexture : _chestMeshTex_00_02 (UnityEngine.Texture2D)
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

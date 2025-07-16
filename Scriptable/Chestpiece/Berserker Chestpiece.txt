@@ -1,32 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_22a (UnityEngine.Texture2D)
-_canDyeArmor False
-_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 18
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_26 (UnityEngine.Sprite)
-_itemName Berserker Chestpiece
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_22_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_neckCollarMesh _collar_00 (UnityEngine.Mesh)
-_neckCollarTexture collar00Tex_00 (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType Left
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture _building01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 2150
-hideFlags None
-name (lv-18) CHESTPIECE_Berserker Chestpiece
+- ScriptableItem -
+name : (lv-18) CHESTPIECE_Berserker Chestpiece
+_itemName : Berserker Chestpiece
+_itemDescription : Berserker Chestpiece
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_26 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 10
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 15
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0124
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 23
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : -0.147
+    _contrast : 0.996
+}
+_armorTexture : _chTex_22a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_22_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : _collar_00 (UnityEngine.Mesh)
+_neckCollarTexture : collar00Tex_00 (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : _building01 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Left

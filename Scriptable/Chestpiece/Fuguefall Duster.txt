@@ -1,33 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_38a (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_38b (UnityEngine.Texture2D)
-_canDyeArmor True
-_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 18
-_equipType ARMOR
-_hipMeshDisplay 00_armorRender_hipMesh_01 (ScriptableArmorRender)
-_hipMeshTexture hipMesh_01_tex_01 (UnityEngine.Texture2D)
-_itemDescription 
-_itemIcon _chestIco_28 (UnityEngine.Sprite)
-_itemName Fuguefall Duster
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_38_leg (UnityEngine.Texture2D)
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType None
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture shoulderpad00Tex_00 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 2150
-hideFlags None
-name (lv-18) CHESTPIECE_Fuguefall Duster
+- ScriptableItem -
+name : (lv-18) CHESTPIECE_Fuguefall Duster
+_itemName : Fuguefall Duster
+_itemDescription : Fuguefall Duster
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_28 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 18
+    _criticalRate : 0.023
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 16
+    _magicDefense : 10
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_38a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_38_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_38b (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 00_armorRender_hipMesh_01 (ScriptableArmorRender)
+_hipMeshTexture : hipMesh_01_tex_01 (UnityEngine.Texture2D)
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : shoulderpad00Tex_00 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : None

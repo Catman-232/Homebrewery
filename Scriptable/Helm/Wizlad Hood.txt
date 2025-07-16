@@ -1,29 +1,55 @@
-_armorTexture hoodTex02 (UnityEngine.Texture2D)
-_blendHelmValue 100
-_canDyeArmor True
-_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 24
-_equipType ARMOR
-_helmOverrideMesh helm_wizladHood (UnityEngine.Mesh)
-_helmRender helmRender_hood (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription 
-_itemIcon _helmIco_29 (UnityEngine.Sprite)
-_itemName Wizlad Hood
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay True
-_vendorCost 1480
-hideFlags None
-name (lv-24) HELM_Wizlad Hood
+- ScriptableItem -
+name : (lv-24) HELM_Wizlad Hood
+_itemName : Wizlad Hood
+_itemDescription : Wizlad Hood
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_29 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 7
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 10
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0095
+    _evasion : 0
+    _defense : 6
+    _magicDefense : 12
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : hoodTex02 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 100
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_hood (ScriptableArmorRender)
+_helmOverrideMesh : helm_wizladHood (UnityEngine.Mesh)

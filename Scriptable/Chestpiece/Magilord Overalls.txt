@@ -1,33 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
-_armorTexture _chTex_32a (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_32b (UnityEngine.Texture2D)
-_canDyeArmor True
-_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 18
-_equipType ARMOR
-_itemDescription Devout mystic sages of ancient times worn these in ceremonies.
-_itemIcon _chestIco_27 (UnityEngine.Sprite)
-_itemName Magilord Overalls
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_32_leg (UnityEngine.Texture2D)
-_lockBoobs True
-_maxStackAmount 1
-_neckCollarMesh _collar_01 (UnityEngine.Mesh)
-_neckCollarTexture collar00Tex_01 (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType None
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 2150
-hideFlags None
-name (lv-18) CHESTPIECE_Magilord Overalls
+- ScriptableItem -
+name : (lv-18) CHESTPIECE_Magilord Overalls
+_itemName : Magilord Overalls
+_itemDescription : Magilord Overalls
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_27 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 10
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 15
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 20
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_32a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_32_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_32b (UnityEngine.Texture2D)
+_neckCollarMesh : _collar_01 (UnityEngine.Mesh)
+_neckCollarTexture : collar00Tex_01 (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : bk_04 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : None

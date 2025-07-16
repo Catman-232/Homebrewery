@@ -1,22 +1,49 @@
-_armorTexture _capeTex_12 (UnityEngine.Texture2D)
-_canDyeArmor False
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 12
-_equipType ARMOR
-_itemDescription A design reminiscent of Angela Flux.
-_itemIcon _capIco_12 (UnityEngine.Sprite)
-_itemName Flux Cloak
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 850
-hideFlags None
-name (lv-12) CAPE_Flux Cloak
+- ScriptableItem -
+name : (lv-12) CAPE_Flux Cloak
+_itemName : Flux Cloak
+_itemDescription : Flux Cloak
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_12 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 10
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 3
+    _magicDefense : 7
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 1
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Wizboar Scepter (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -14
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _capeTex_12 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

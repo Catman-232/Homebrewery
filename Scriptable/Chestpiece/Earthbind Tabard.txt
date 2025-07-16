@@ -1,30 +1,66 @@
-_armorTexture _chTex_00_underwear01 (UnityEngine.Texture2D)
-_canDyeArmor False
-_chestRenderBoobTexture chestTabard01Tex_04 (UnityEngine.Texture2D)
-_chestRenderDisplay armorRender_chestTabard_00 (ScriptableArmorRender)
-_chestRenderTexture chestTabard01Tex_04 (UnityEngine.Texture2D)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 22
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_42 (UnityEngine.Sprite)
-_itemName Earthbind Tabard
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs True
-_maxStackAmount 1
-_neckCollarMesh mysticArmor_collar (UnityEngine.Mesh)
-_neckCollarTexture chestTabard01Tex_04 (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 1150
-hideFlags None
-name (lv-22) CHESTPIECE_Earthbind Tabard
+- ScriptableItem -
+name : (lv-22) CHESTPIECE_Earthbind Tabard
+_itemName : Earthbind Tabard
+_itemDescription : Earthbind Tabard
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_42 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 22
+    _magicDefense : 13
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 5
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_00_underwear01 (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture : chestTabard01Tex_04 (UnityEngine.Texture2D)
+_chestRenderDisplay : armorRender_chestTabard_00 (ScriptableArmorRender)
+_chestRenderTexture : chestTabard01Tex_04 (UnityEngine.Texture2D)
+_chestRenderBoobTexture : chestTabard01Tex_04 (UnityEngine.Texture2D)
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

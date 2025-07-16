@@ -1,28 +1,55 @@
-_armorTexture carbuncleHatTex_00 (UnityEngine.Texture2D)
-_blendHelmValue 44.4
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_helmOverrideMesh helm_carbuncleHat (UnityEngine.Mesh)
-_helmRender helmRender_wizardHat01 (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Hopefully nobody confuses you with a carbuncle wearing this...
-_itemIcon _helmIco_25 (UnityEngine.Sprite)
-_itemName Carbuncle Hat
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay True
-_vendorCost 890
-hideFlags None
-name (lv-16) HELM_Carbuncle Hat
+- ScriptableItem -
+name : (lv-16) HELM_Carbuncle Hat
+_itemName : Carbuncle Hat
+_itemDescription : Carbuncle Hat
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_25 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 9
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 8
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 3
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : carbuncleHatTex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 44.4
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_wizardHat01 (ScriptableArmorRender)
+_helmOverrideMesh : helm_carbuncleHat (UnityEngine.Mesh)

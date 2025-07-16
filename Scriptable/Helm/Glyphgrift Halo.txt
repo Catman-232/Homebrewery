@@ -1,28 +1,55 @@
-_armorTexture halo09Tex_00 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_09 (UnityEngine.Mesh)
-_helmRender helmRender_halo (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription 
-_itemIcon _helmIco_20 (UnityEngine.Sprite)
-_itemName Glyphgrift Halo
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay False
-_vendorCost 1350
-hideFlags None
-name (lv-16) HELM_Glyphgrift Halo
+- ScriptableItem -
+name : (lv-16) HELM_Glyphgrift Halo
+_itemName : Glyphgrift Halo
+_itemDescription : Glyphgrift Halo
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_20 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 8
+    _criticalRate : 0.023
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 8
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Maw Eye (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : -9
+    _saturation : 1.26
+    _brightness : -0.03
+    _contrast : 1.06
+}
+_armorTexture : halo09Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_09 (UnityEngine.Mesh)

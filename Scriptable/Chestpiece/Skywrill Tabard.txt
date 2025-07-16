@@ -1,29 +1,66 @@
-_armorTexture _chTex_18a (UnityEngine.Texture2D)
-_canDyeArmor False
-_chestRenderBoobTexture chestTabard01Tex_01 (UnityEngine.Texture2D)
-_chestRenderDisplay armorRender_chestTabard_01 (ScriptableArmorRender)
-_chestRenderTexture chestTabard01Tex_01 (UnityEngine.Texture2D)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 12
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_38 (UnityEngine.Sprite)
-_itemName Skywrill Tabard
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture maskSprt (UnityEngine.Texture2D)
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType None
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 98
-hideFlags None
-name (lv-12) CHESTPIECE_Skywrill Tabard
+- ScriptableItem -
+name : (lv-12) CHESTPIECE_Skywrill Tabard
+_itemName : Skywrill Tabard
+_itemDescription : Skywrill Tabard
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_38 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 5
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 3
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 2
+    _brightness : 0.158
+    _contrast : 1
+}
+_armorTexture : _chTex_18a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : maskSprt (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : armorRender_chestTabard_01 (ScriptableArmorRender)
+_chestRenderTexture : chestTabard01Tex_01 (UnityEngine.Texture2D)
+_chestRenderBoobTexture : chestTabard01Tex_01 (UnityEngine.Texture2D)
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

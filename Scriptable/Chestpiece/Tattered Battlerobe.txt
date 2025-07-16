@@ -1,30 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_02 (ScriptableArmorRender)
-_armorTexture _chTex_05a (UnityEngine.Texture2D)
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones True
-_equipmentLevel 8
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_17 (UnityEngine.Sprite)
-_itemName Tattered Battlerobe
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
-_robeSkirtTexture _lgTex_05a (UnityEngine.Texture2D)
-_shoulderPadDisplayType Both
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 250
-hideFlags None
-name (lv-8) CHESTPIECE_Tattered Battlerobe
+- ScriptableItem -
+name : (lv-8) CHESTPIECE_Tattered Battlerobe
+_itemName : Tattered Battlerobe
+_itemDescription : Tattered Battlerobe
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_17 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 2
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 2
+    _magicDefense : 4
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_05a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : True
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture : _lgTex_05a (UnityEngine.Texture2D)
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_02 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : bk_04 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both

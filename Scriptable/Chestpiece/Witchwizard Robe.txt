@@ -1,32 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_34a (UnityEngine.Texture2D)
-_boobOverrideTexture _chTex_34b (UnityEngine.Texture2D)
-_canDyeArmor False
-_classRequirement 01_CLASS_mystic (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription Robe of the higher elite occult.
-_itemIcon _chestIco_05 (UnityEngine.Sprite)
-_itemName Witchwizard Robe
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_lockBoobs True
-_maxStackAmount 1
-_questTriggerTag 
-_robeSkirtRender armorRender_robeSkirt (ScriptableArmorRender)
-_robeSkirtTexture _lgTex_33 (UnityEngine.Texture2D)
-_shoulderPadDisplayType None
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture bk_04 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 1200
-hideFlags None
-name (lv-16) CHESTPIECE_Witchwizard Robe
+- ScriptableItem -
+name : (lv-16) CHESTPIECE_Witchwizard Robe
+_itemName : Witchwizard Robe
+_itemDescription : Witchwizard Robe
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_05 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 5
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 8
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 8
+    _magicDefense : 13
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Coldgeist Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 15
+    _saturation : 0.46
+    _brightness : 0.03
+    _contrast : 1.21
+}
+_armorTexture : _chTex_34a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : True
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : _chTex_34b (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : armorRender_robeSkirt (ScriptableArmorRender)
+_robeSkirtTexture : _lgTex_33 (UnityEngine.Texture2D)
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : bk_04 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : None

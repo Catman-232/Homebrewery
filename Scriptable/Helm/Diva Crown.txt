@@ -1,28 +1,55 @@
-_armorTexture halo03Tex_00 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_03 (UnityEngine.Mesh)
-_helmRender helmRender_halo (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription A crown worn by a Slime Diva. Contains unusual power.
-_itemIcon _helmIco_12 (UnityEngine.Sprite)
-_itemName Diva Crown
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay False
-_vendorCost 136
-hideFlags None
-name (lv-6) HELM_Diva Crown
+- ScriptableItem -
+name : (lv-6) HELM_Diva Crown
+_itemName : Diva Crown
+_itemDescription : Diva Crown
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_12 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 2
+    _magicDefense : 5
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Slime Diva Ears (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0.06
+    _contrast : 1
+}
+_armorTexture : halo03Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_03 (UnityEngine.Mesh)

@@ -1,27 +1,55 @@
-_armorTexture halo04Tex_01 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor False
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_04_alt00 (UnityEngine.Mesh)
-_helmRender helmRender_halo (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Madness beyond comprehension.
-_itemIcon _helmIco_15 (UnityEngine.Sprite)
-_itemName Geistlord Eye
-_itemRarity Exotic
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_useHelmHairDisplay False
-_vendorCost 3000
-hideFlags None
-name (lv-16) HELM_Geistlord Eye
+- ScriptableItem -
+name : (lv-16) HELM_Geistlord Eye
+_itemName : Geistlord Eye
+_itemDescription : Geistlord Eye
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_15 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 8
+    _maxMana : 8
+    _maxStamina : 8
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 9
+    _magicDefense : 12
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : halo04Tex_01 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_04_alt00 (UnityEngine.Mesh)

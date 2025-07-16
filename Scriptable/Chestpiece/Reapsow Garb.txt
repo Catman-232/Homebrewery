@@ -1,30 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_33a (UnityEngine.Texture2D)
-_canDyeArmor False
-_classRequirement 02_CLASS_bandit (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 12
-_equipType ARMOR
-_itemDescription Fear the hidden.
-_itemIcon _chestIco_03 (UnityEngine.Sprite)
-_itemName Reapsow Garb
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_33a_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_questTriggerTag 
-_shoulderPadDisplayType Both
-_shoulderpadMesh _shoulderpad_00 (UnityEngine.Mesh)
-_shoulderpadTexture shoulderpad00Tex_00 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 680
-hideFlags None
-name (lv-12) CHESTPIECE_Reapsow Garb
+- ScriptableItem -
+name : (lv-12) CHESTPIECE_Reapsow Garb
+_itemName : Reapsow Garb
+_itemDescription : Reapsow Garb
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_03 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 02_CLASS_bandit (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 5
+    _criticalRate : 0.0032
+    _magicCriticalRate : 0
+    _evasion : 0.006
+    _defense : 7
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Geistlord Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -75
+    _saturation : 0.99
+    _brightness : -0.12
+    _contrast : 0.92
+}
+_armorTexture : _chTex_33a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_33a_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : _shoulderpad_00 (UnityEngine.Mesh)
+_shoulderpadTexture : shoulderpad00Tex_00 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both

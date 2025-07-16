@@ -1,26 +1,55 @@
-_armorTexture hoodTex01 (UnityEngine.Texture2D)
-_blendHelmValue 73.2
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 4
-_equipType ARMOR
-_helmRender helmRender_hood (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription Cultists are seen to wear this.
-_itemIcon _helmIco_23 (UnityEngine.Sprite)
-_itemName Acolyte Hood
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_useHelmHairDisplay True
-_vendorCost 80
-hideFlags None
-name (lv-4) HELM_Acolyte Hood
+- ScriptableItem -
+name : (lv-4) HELM_Acolyte Hood
+_itemName : Acolyte Hood
+_itemDescription : Acolyte Hood
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_23 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 4
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 1
+    _magicDefense : 2
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : hoodTex01 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 73.2
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_hood (ScriptableArmorRender)
+_helmOverrideMesh : 

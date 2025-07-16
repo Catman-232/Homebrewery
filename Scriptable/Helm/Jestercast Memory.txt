@@ -1,28 +1,55 @@
-_armorTexture halo08Tex_00 (UnityEngine.Texture2D)
-_blendHelmValue 0
-_canDyeArmor True
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_helmOverrideMesh _helm_halo_08 (UnityEngine.Mesh)
-_helmRender helmRender_halo_01 (ScriptableArmorRender)
-_hideEars False
-_hideMisc False
-_isFullHelm False
-_itemDescription The true fool is the enemy of the caster...
-_itemIcon _helmIco_19 (UnityEngine.Sprite)
-_itemName Jestercast Memory
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_useHelmHairDisplay False
-_vendorCost 1230
-hideFlags None
-name (lv-16) HELM_Jestercast Memory
+- ScriptableItem -
+name : (lv-16) HELM_Jestercast Memory
+_itemName : Jestercast Memory
+_itemDescription : Jestercast Memory
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _helmIco_19 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 3
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 7
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.008
+    _evasion : 0
+    _defense : 3
+    _magicDefense : 5
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Maw Eye (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : halo08Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo_01 (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_08 (UnityEngine.Mesh)

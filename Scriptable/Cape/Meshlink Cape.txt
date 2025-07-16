@@ -1,22 +1,49 @@
-_armorTexture _capeTex_08 (UnityEngine.Texture2D)
-_canDyeArmor True
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription Evasive and light.
-_itemIcon _capIco_06 (UnityEngine.Sprite)
-_itemName Meshlink Cape
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 865
-hideFlags None
-name (lv-16) CAPE_Meshlink Cape
+- ScriptableItem -
+name : (lv-16) CAPE_Meshlink Cape
+_itemName : Meshlink Cape
+_itemDescription : Meshlink Cape
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_06 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 8
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0.0013
+    _defense : 6
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 51
+    _saturation : 2
+    _brightness : 0.44
+    _contrast : 2
+}
+_armorTexture : _capeTex_08 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

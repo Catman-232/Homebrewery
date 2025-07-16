@@ -1,22 +1,49 @@
-_armorTexture _capeTex_05 (UnityEngine.Texture2D)
-_canDyeArmor True
-_capeMesh cape01 (UnityEngine.Mesh)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType ARMOR
-_itemDescription Brimming with magical power.
-_itemIcon _capIco_07 (UnityEngine.Sprite)
-_itemName Sagecaller Cape
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_vendorCost 923
-hideFlags None
-name (lv-16) CAPE_Sagecaller Cape
+- ScriptableItem -
+name : (lv-16) CAPE_Sagecaller Cape
+_itemName : Sagecaller Cape
+_itemDescription : Sagecaller Cape
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _capIco_07 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 10
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 8
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0012
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 8
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 2
+    _brightness : 0.047
+    _contrast : 1.286
+}
+_armorTexture : _capeTex_05 (UnityEngine.Texture2D)
+
+- ScriptableCape -
+_capeMesh : cape01 (UnityEngine.Mesh)

@@ -1,18 +1,21 @@
-_consumableCooldown 1.5
-_consumableObject _consumableEffect_redDye (UnityEngine.GameObject)
-_destroyOnDrop False
-_dyeParams ColorAdjustShader_Profile
-_itemDescription A vial of red dye.
-_itemIcon _dyeIco_red (UnityEngine.Sprite)
-_itemName Red Dye
-_itemRarity Common
-_itemSortTag SPECIAL
-_itemType CONSUMABLE
-_levelRequirement 0
-_maxStackAmount 1
-_questTriggerTag 
-_unperishable False
-_useOnlyInTown False
-_vendorCost 160
-hideFlags None
-name DYE_Red Dye
+- ScriptableItem -
+name : DYE_Red Dye
+_itemName : Red Dye
+_itemDescription : Red Dye
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_red (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_redDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : -107
+    _saturation : 1.35
+    _brightness : 0
+    _contrast : 1
+}

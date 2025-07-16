@@ -1,32 +1,66 @@
-_armCuffRender 00_armorRender_armCuffs_01 (ScriptableArmorRender)
-_armorTexture _chTex_49a (UnityEngine.Texture2D)
-_canDyeArmor True
-_classRequirement 00_CLASS_fighter (ScriptablePlayerBaseClass)
-_colorAdjustParams ColorAdjustShader_Profile
-_conditionResistances ConditionResistance[]
-_destroyOnDrop False
-_disableJiggleBoobBones False
-_equipmentLevel 24
-_equipType ARMOR
-_itemDescription 
-_itemIcon _chestIco_44 (UnityEngine.Sprite)
-_itemName Executioner Vestment
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_legOverlayTexture _chTex_49_leg (UnityEngine.Texture2D)
-_lockBoobs False
-_maxStackAmount 1
-_neckCollarMesh _collar_00 (UnityEngine.Mesh)
-_neckCollarTexture shoulderpad00Tex_01 (UnityEngine.Texture2D)
-_questTriggerTag 
-_shoulderPadDisplayType Both
-_shoulderpadMesh vikingArmor_shoulderPad (UnityEngine.Mesh)
-_shoulderpadTexture _building01 (UnityEngine.Texture2D)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_armor (ScriptableStatModifierTable)
-_textureArms True
-_vendorCost 2850
-hideFlags None
-name (lv-24) CHESTPIECE_Executioner Vestment
+- ScriptableItem -
+name : (lv-24) CHESTPIECE_Executioner Vestment
+_itemName : Executioner Vestment
+_itemDescription : Executioner Vestment
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _chestIco_44 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 00_CLASS_fighter (ScriptablePlayerBaseClass)
+_statArray : {
+    _maxHealth : 20
+    _maxMana : 0
+    _maxStamina : 10
+    _experience : 0
+    _attackPower : 18
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 30
+    _magicDefense : 12
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_conditionResistances : []
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_49a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_49_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : 
+_neckCollarMesh : _collar_00 (UnityEngine.Mesh)
+_neckCollarTexture : shoulderpad00Tex_01 (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : _building01 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both
