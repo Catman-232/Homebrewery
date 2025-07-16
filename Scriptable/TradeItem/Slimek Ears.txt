@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Even sharper than normal Slime ears.
-_itemIcon _tradIco_03 (UnityEngine.Sprite)
-_itemName Slimek Ears
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 14
-hideFlags None
-name TRADEITEM_Slimek Ears
+- ScriptableItem -
+name : TRADEITEM_Slimek Ears
+_itemName : Slimek Ears
+_itemDescription : Slimek Ears
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_03 (UnityEngine.Sprite)

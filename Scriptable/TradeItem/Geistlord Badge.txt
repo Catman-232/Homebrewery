@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription An unholy badge shaped like a tombstone, dropped from a Geistlord. Can be traded for elusive treasures.
-_itemIcon _tradIco_57 (UnityEngine.Sprite)
-_itemName Geistlord Badge
-_itemRarity Rare
-_itemSortTag SPECIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 0
-hideFlags None
-name TRADEITEM_Geistlord Badge
+- ScriptableItem -
+name : TRADEITEM_Geistlord Badge
+_itemName : Geistlord Badge
+_itemDescription : Geistlord Badge
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_57 (UnityEngine.Sprite)

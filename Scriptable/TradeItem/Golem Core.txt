@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The once functioning heart of a Golem. Quite heavy.
-_itemIcon _tradIco_17 (UnityEngine.Sprite)
-_itemName Golem Core
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 20
-hideFlags None
-name TRADEITEM_Golem Core
+- ScriptableItem -
+name : TRADEITEM_Golem Core
+_itemName : Golem Core
+_itemDescription : Golem Core
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_17 (UnityEngine.Sprite)

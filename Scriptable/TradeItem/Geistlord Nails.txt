@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A pair of ghostly nails. How fashionable.
-_itemIcon _tradIco_05 (UnityEngine.Sprite)
-_itemName Geistlord Nails
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 120
-hideFlags None
-name TRADEITEM_Geistlord Nails
+- ScriptableItem -
+name : TRADEITEM_Geistlord Nails
+_itemName : Geistlord Nails
+_itemDescription : Geistlord Nails
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_05 (UnityEngine.Sprite)

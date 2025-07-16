@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A very common fish that isn't very tasty.
-_itemIcon _tradIco_45 (UnityEngine.Sprite)
-_itemName Sugshrimp
-_itemRarity Common
-_itemSortTag FISH
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 5
-hideFlags None
-name TRADEITEM_Sugshrimp
+- ScriptableItem -
+name : TRADEITEM_Sugshrimp
+_itemName : Sugshrimp
+_itemDescription : Sugshrimp
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_45 (UnityEngine.Sprite)

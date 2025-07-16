@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Has capabilities to change a weapon damage scale to strength.
-_itemIcon _tradIco_41 (UnityEngine.Sprite)
-_itemName Might Stone
-_itemRarity Common
-_itemSortTag NONE
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 480
-hideFlags None
-name TRADEITEM_Might Stone
+- ScriptableItem -
+name : TRADEITEM_Might Stone
+_itemName : Might Stone
+_itemDescription : Might Stone
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_41 (UnityEngine.Sprite)

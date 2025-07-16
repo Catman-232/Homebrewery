@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Squishy. Though, it can't be popped.
-_itemIcon _tradIco_19 (UnityEngine.Sprite)
-_itemName Mouth Eye
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 45
-_questTriggerTag 
-_vendorCost 12
-hideFlags None
-name TRADEITEM_Mouth Eye
+- ScriptableItem -
+name : TRADEITEM_Mouth Eye
+_itemName : Mouth Eye
+_itemDescription : Mouth Eye
+_destroyOnDrop : False
+_maxStackAmount : 45
+_itemIcon : _tradIco_19 (UnityEngine.Sprite)

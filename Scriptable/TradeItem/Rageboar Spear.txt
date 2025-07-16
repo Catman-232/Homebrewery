@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The bloodstain on this spear means deadly business.
-_itemIcon _tradIco_44 (UnityEngine.Sprite)
-_itemName Rageboar Spear
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 30
-_questTriggerTag 
-_vendorCost 28
-hideFlags None
-name TRADEITEM_Rageboar Spear
+- ScriptableItem -
+name : TRADEITEM_Rageboar Spear
+_itemName : Rageboar Spear
+_itemDescription : Rageboar Spear
+_destroyOnDrop : False
+_maxStackAmount : 30
+_itemIcon : _tradIco_44 (UnityEngine.Sprite)

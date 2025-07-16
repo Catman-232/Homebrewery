@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Bottled spectral ashes of a restless ghost.
-_itemIcon _tradIco_10 (UnityEngine.Sprite)
-_itemName Ghostdust
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 7
-hideFlags None
-name TRADEITEM_Ghostdust
+- ScriptableItem -
+name : TRADEITEM_Ghostdust
+_itemName : Ghostdust
+_itemDescription : Ghostdust
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_10 (UnityEngine.Sprite)

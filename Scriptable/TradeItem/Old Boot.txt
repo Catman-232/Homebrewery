@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Who would throw this in a fishing spot anyways?
-_itemIcon _tradIco_48 (UnityEngine.Sprite)
-_itemName Old Boot
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 2
-hideFlags None
-name TRADEITEM_Old Boot
+- ScriptableItem -
+name : TRADEITEM_Old Boot
+_itemName : Old Boot
+_itemDescription : Old Boot
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_48 (UnityEngine.Sprite)

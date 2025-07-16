@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A chunk of a Slimek.
-_itemIcon _tradIco_02 (UnityEngine.Sprite)
-_itemName Slimek Core
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 10
-hideFlags None
-name TRADEITEM_Slimek Core
+- ScriptableItem -
+name : TRADEITEM_Slimek Core
+_itemName : Slimek Core
+_itemDescription : Slimek Core
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_02 (UnityEngine.Sprite)

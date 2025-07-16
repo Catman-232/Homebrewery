@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The tip of the tooth endlessly drips a little bit of poison.
-_itemIcon _tradIco_22 (UnityEngine.Sprite)
-_itemName Mouth Bittertooth
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 25
-hideFlags None
-name TRADEITEM_Mouth Bittertooth
+- ScriptableItem -
+name : TRADEITEM_Mouth Bittertooth
+_itemName : Mouth Bittertooth
+_itemDescription : Mouth Bittertooth
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_22 (UnityEngine.Sprite)

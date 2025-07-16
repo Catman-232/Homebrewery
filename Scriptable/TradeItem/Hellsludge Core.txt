@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A chunk of a Hellsludge.
-_itemIcon _tradIco_33 (UnityEngine.Sprite)
-_itemName Hellsludge Core
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 32
-hideFlags None
-name TRADEITEM_Hellsludge Core
+- ScriptableItem -
+name : TRADEITEM_Hellsludge Core
+_itemName : Hellsludge Core
+_itemDescription : Hellsludge Core
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_33 (UnityEngine.Sprite)

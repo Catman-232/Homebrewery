@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription This magical stone can be used to change the appearance of things.
-_itemIcon _tradIco_18 (UnityEngine.Sprite)
-_itemName Illusion Stone
-_itemRarity Common
-_itemSortTag SPECIAL
-_itemType TRADE
-_maxStackAmount 20
-_questTriggerTag 
-_vendorCost 300
-hideFlags None
-name TRADEITEM_Illusion Stone
+- ScriptableItem -
+name : TRADEITEM_Illusion Stone
+_itemName : Illusion Stone
+_itemDescription : Illusion Stone
+_destroyOnDrop : False
+_maxStackAmount : 20
+_itemIcon : _tradIco_18 (UnityEngine.Sprite)

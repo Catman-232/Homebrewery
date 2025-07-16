@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription It can breathe out of water...!?
-_itemIcon _tradIco_55 (UnityEngine.Sprite)
-_itemName Squangfish
-_itemRarity Common
-_itemSortTag FISH
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 35
-hideFlags None
-name TRADEITEM_Squangfish
+- ScriptableItem -
+name : TRADEITEM_Squangfish
+_itemName : Squangfish
+_itemDescription : Squangfish
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_55 (UnityEngine.Sprite)

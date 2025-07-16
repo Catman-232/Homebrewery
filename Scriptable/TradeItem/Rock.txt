@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Just an ordinary rock. Could be tossed at enemies.
-_itemIcon _tradIco_04 (UnityEngine.Sprite)
-_itemName Rock
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 3
-hideFlags None
-name TRADEITEM_Rock
+- ScriptableItem -
+name : TRADEITEM_Rock
+_itemName : Rock
+_itemDescription : Rock
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_04 (UnityEngine.Sprite)

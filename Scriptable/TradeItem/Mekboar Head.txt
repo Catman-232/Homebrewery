@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The snout continues to pulse and wiggle around.
-_itemIcon _tradIco_09 (UnityEngine.Sprite)
-_itemName Mekboar Head
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 12
-hideFlags None
-name TRADEITEM_Mekboar Head
+- ScriptableItem -
+name : TRADEITEM_Mekboar Head
+_itemName : Mekboar Head
+_itemDescription : Mekboar Head
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_09 (UnityEngine.Sprite)

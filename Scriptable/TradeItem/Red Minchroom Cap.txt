@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription The spores can set something on fire. Could be good to cook something spicy with.
-_itemIcon _tradIco_25 (UnityEngine.Sprite)
-_itemName Red Minchroom Cap
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 20
-hideFlags None
-name TRADEITEM_Red Minchroom Cap
+- ScriptableItem -
+name : TRADEITEM_Red Minchroom Cap
+_itemName : Red Minchroom Cap
+_itemDescription : Red Minchroom Cap
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_25 (UnityEngine.Sprite)

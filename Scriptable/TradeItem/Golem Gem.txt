@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A red mist twists and turns within this gem.
-_itemIcon _tradIco_28 (UnityEngine.Sprite)
-_itemName Golem Gem
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 8
-hideFlags None
-name TRADEITEM_Golem Gem
+- ScriptableItem -
+name : TRADEITEM_Golem Gem
+_itemName : Golem Gem
+_itemDescription : Golem Gem
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_28 (UnityEngine.Sprite)

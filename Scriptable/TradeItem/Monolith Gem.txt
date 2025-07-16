@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription A hefty, green gem from a Monolith. Perhaps it is mutated.
-_itemIcon _tradIco_36 (UnityEngine.Sprite)
-_itemName Monolith Gem
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 99
-_questTriggerTag 
-_vendorCost 12
-hideFlags None
-name TRADEITEM_Monolith Gem
+- ScriptableItem -
+name : TRADEITEM_Monolith Gem
+_itemName : Monolith Gem
+_itemDescription : Monolith Gem
+_destroyOnDrop : False
+_maxStackAmount : 99
+_itemIcon : _tradIco_36 (UnityEngine.Sprite)

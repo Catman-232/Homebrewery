@@ -1,12 +1,7 @@
-_destroyOnDrop False
-_itemDescription Tastes like sour apple candy.
-_itemIcon _tradIco_13 (UnityEngine.Sprite)
-_itemName Green Lipstick
-_itemRarity Common
-_itemSortTag TRADE_MATERIAL
-_itemType TRADE
-_maxStackAmount 10
-_questTriggerTag 
-_vendorCost 45
-hideFlags None
-name TRADEITEM_Green Lipstick
+- ScriptableItem -
+name : TRADEITEM_Green Lipstick
+_itemName : Green Lipstick
+_itemDescription : Green Lipstick
+_destroyOnDrop : False
+_maxStackAmount : 10
+_itemIcon : _tradIco_13 (UnityEngine.Sprite)

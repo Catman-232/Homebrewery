@@ -1,13 +1,7 @@
-_destroyOnDrop False
-_itemDescription Allows the holder to revive a fallen soul.
-<color=cyan>To revive someone, press the interact key when nearby them.</color>
-_itemIcon _conIco_07 (UnityEngine.Sprite)
-_itemName Soul Pearl
-_itemRarity Common
-_itemSortTag SPECIAL_2
-_itemType TRADE
-_maxStackAmount 1
-_questTriggerTag 
-_vendorCost 3500
-hideFlags None
-name TRADEITEM_Soul Pearl
+- ScriptableItem -
+name : TRADEITEM_Soul Pearl
+_itemName : Soul Pearl
+_itemDescription : Soul Pearl
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _conIco_07 (UnityEngine.Sprite)
