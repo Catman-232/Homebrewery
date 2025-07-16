@@ -1,31 +1,53 @@
-_damageBonus 3
-_destroyOnDrop False
-_equipmentLevel 10
-_equipType WEAPON
-_itemDescription Forged by a sadistic being of torture.
-_itemIcon _wepIco_23 (UnityEngine.Sprite)
-_itemName Runic Katars
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (9, 15)
-_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 285
-_weaponConditionSlot ConditionSlot
-_weaponDamage 9
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-10) WEAPON_Runic Katars (Fist Weapon, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh katar_02 (UnityEngine.Mesh)
-weaponTexture katar02_texture (UnityEngine.Texture2D)
-weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-10) WEAPON_Runic Katars (Fist Weapon, Dexterity)
+_itemName : Runic Katars
+_itemDescription : Runic Katars
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_23 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 10
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 4
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mouth Bittertooth (ScriptableTradeItem)
+    _scriptItemQuantity : 12
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 9
+_damageBonus : 3
+_readonlyDamageRange : (9, 15)
+_weaponConditionSlot : None
+weaponTexture : katar02_texture (UnityEngine.Texture2D)
+weaponMesh : katar_02 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 2
+    _brightness : 0.281
+    _contrast : 1.815
+}

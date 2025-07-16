@@ -1,33 +1,59 @@
-_combatElement 4_COMBATELEMENT_Earth (ScriptableCombatElement)
-_damageBonus 3
-_destroyOnDrop False
-_equipmentLevel 18
-_equipType WEAPON
-_itemDescription Pieces of a Colossus are embedded into this bell.
-_itemIcon _wepIco_71 (UnityEngine.Sprite)
-_itemName Colossus Tone
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (24, 30)
-_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 1350
-_weaponConditionSlot ConditionSlot
-_weaponDamage 24
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_bell_colossusTone (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-18) WEAPON_Colossus Tone (Magic Bell, Mind)
-trailColors UnityEngine.Color[]
-weaponMesh _bell_05 (UnityEngine.Mesh)
-weaponTexture bell05Tex_01 (UnityEngine.Texture2D)
-weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-18) WEAPON_Colossus Tone (Magic Bell, Mind)
+_itemName : Colossus Tone
+_itemDescription : Colossus Tone
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_71 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 15
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Soul Pearl (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Earth - ID: 4
+_weaponProjectileSet : weaponProjectileSet_bell_colossusTone (ScriptableWeaponProjectileSet)
+_weaponDamage : 24
+_damageBonus : 3
+_readonlyDamageRange : (24, 30)
+_weaponConditionSlot : {
+    _scriptableCondition : Gash - ID: 0
+    _chance : 0.1
+    _bonusPower : 0
+    _bonusDuration : 0
+}
+weaponTexture : bell05Tex_01 (UnityEngine.Texture2D)
+weaponMesh : _bell_05 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 0.337, 0.090, 1.000) & RGBA(0.961, 0.400, 0.141, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 0.9
+    _brightness : 0
+    _contrast : 1.25
+}

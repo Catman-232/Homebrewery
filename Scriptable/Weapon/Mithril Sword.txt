@@ -1,31 +1,53 @@
-_damageBonus 2
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_52 (UnityEngine.Sprite)
-_itemName Mithril Sword
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (14, 19)
-_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 570
-_weaponConditionSlot ConditionSlot
-_weaponDamage 14
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-16) WEAPON_Mithril Sword (Sword, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _weapon_blade03_alt00 (UnityEngine.Mesh)
-weaponTexture blade03Tex_03 (UnityEngine.Texture2D)
-weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-16) WEAPON_Mithril Sword (Sword, Strength)
+_itemName : Mithril Sword
+_itemDescription : Mithril Sword
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_52 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 14
+_damageBonus : 2
+_readonlyDamageRange : (14, 19)
+_weaponConditionSlot : None
+weaponTexture : blade03Tex_03 (UnityEngine.Texture2D)
+weaponMesh : _weapon_blade03_alt00 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.642, 0.642, 0.642, 1.000)
+_textureColorAdjust : {
+    _hue : -14
+    _saturation : 1.82
+    _brightness : 0.08
+    _contrast : 1.24
+}

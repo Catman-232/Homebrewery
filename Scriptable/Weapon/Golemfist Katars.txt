@@ -1,32 +1,59 @@
-_combatElement 4_COMBATELEMENT_Earth (ScriptableCombatElement)
-_damageBonus 8
-_destroyOnDrop False
-_equipmentLevel 20
-_equipType WEAPON
-_itemDescription Pow!
-_itemIcon _wepIco_73 (UnityEngine.Sprite)
-_itemName Golemfist Katars
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (20, 31)
-_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 1320
-_weaponConditionSlot ConditionSlot
-_weaponDamage 20
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-20) WEAPON_Golemfist Katars (Fist Weapons, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh katar_08 (UnityEngine.Mesh)
-weaponTexture katar08Tex_00 (UnityEngine.Texture2D)
-weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-20) WEAPON_Golemfist Katars (Fist Weapons, Dexterity)
+_itemName : Golemfist Katars
+_itemDescription : Golemfist Katars
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_73 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 20
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 5
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 3
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Soul Pearl (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : Earth - ID: 4
+_weaponProjectileSet : 
+_weaponDamage : 20
+_damageBonus : 8
+_readonlyDamageRange : (20, 31)
+_weaponConditionSlot : {
+    _scriptableCondition : Gash - ID: 0
+    _chance : 0.12
+    _bonusPower : 0
+    _bonusDuration : 0
+}
+weaponTexture : katar08Tex_00 (UnityEngine.Texture2D)
+weaponMesh : katar_08 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 0.727, 0.145, 1.000) & RGBA(1.000, 0.258, 0.000, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

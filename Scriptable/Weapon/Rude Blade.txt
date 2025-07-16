@@ -1,31 +1,53 @@
-_damageBonus 5
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType WEAPON
-_itemDescription Don't you have anything better to kill?
-_itemIcon _wepIco_16 (UnityEngine.Sprite)
-_itemName Rude Blade
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (9, 17)
-_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 113
-_weaponConditionSlot ConditionSlot
-_weaponDamage 9
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-8) WEAPON_Rude Blade (Sword, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _lightWeapon_blade04 (UnityEngine.Mesh)
-weaponTexture blade04Tex_01 (UnityEngine.Texture2D)
-weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-8) WEAPON_Rude Blade (Sword, Strength)
+_itemName : Rude Blade
+_itemDescription : Rude Blade
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_16 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 1
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mouth Eye (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 9
+_damageBonus : 5
+_readonlyDamageRange : (9, 17)
+_weaponConditionSlot : None
+weaponTexture : blade04Tex_01 (UnityEngine.Texture2D)
+weaponMesh : _lightWeapon_blade04 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.679, 0.679, 0.679, 0.349)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

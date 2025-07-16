@@ -1,33 +1,54 @@
-_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
-_damageBonus 1
-_destroyOnDrop False
-_equipmentLevel 12
-_equipType WEAPON
-_itemDescription Electrifying.
-_itemIcon _wepIco_66 (UnityEngine.Sprite)
-_itemName Wizwand
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (13, 17)
-_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 568
-_weaponConditionSlot ConditionSlot
-_weaponDamage 13
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_scepter(wizscepter) (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-12) WEAPON_Wizwand (Scepter, Mind)
-trailColors UnityEngine.Color[]
-weaponMesh _scepter07 (UnityEngine.Mesh)
-weaponTexture scepter07Tex_00 (UnityEngine.Texture2D)
-weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-12) WEAPON_Wizwand (Scepter, Mind)
+_itemName : Wizwand
+_itemDescription : Wizwand
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_66 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0082
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Wizboar Scepter (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_1H
+_weaponHoldClipIndex : 0
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : weaponProjectileSet_scepter(wizscepter) (ScriptableWeaponProjectileSet)
+_weaponDamage : 13
+_damageBonus : 1
+_readonlyDamageRange : (13, 17)
+_weaponConditionSlot : None
+weaponTexture : scepter07Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _scepter07 (UnityEngine.Mesh)
+trailColors : RGBA(0.000, 0.023, 1.000, 1.000) & RGBA(0.039, 0.378, 0.925, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

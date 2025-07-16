@@ -1,31 +1,53 @@
-_damageBonus 6
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_60 (UnityEngine.Sprite)
-_itemName Serrated Spear
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (18, 27)
-_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 985
-_weaponConditionSlot ConditionSlot
-_weaponDamage 18
-_weaponHoldClipIndex 2
-_weaponSwingSfxIndex 1
-_weaponTakeOutSfxIndex 2
-hideFlags None
-name (lv-16) WEAPON_Serrated Spear (Polearm, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh polearm_03 (UnityEngine.Mesh)
-weaponTexture polearm03Tex_00 (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-16) WEAPON_Serrated Spear (Polearm, Strength)
+_itemName : Serrated Spear
+_itemDescription : Serrated Spear
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_60 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0.028
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 2
+_weaponProjectileSet : 
+_weaponDamage : 18
+_damageBonus : 6
+_readonlyDamageRange : (18, 27)
+_weaponConditionSlot : None
+weaponTexture : polearm03Tex_00 (UnityEngine.Texture2D)
+weaponMesh : polearm_03 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 0.639) & RGBA(0.547, 0.547, 0.547, 0.518)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.36
+    _brightness : 0.17
+    _contrast : 1.43
+}

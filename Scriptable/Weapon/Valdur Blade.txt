@@ -1,32 +1,54 @@
-_combatElement 3_COMBATELEMENT_Nature (ScriptableCombatElement)
-_damageBonus 9
-_destroyOnDrop False
-_equipmentLevel 24
-_equipType WEAPON
-_itemDescription The blade of Wind Golems...
-_itemIcon _wepIco_78 (UnityEngine.Sprite)
-_itemName Valdur Blade
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (28, 40)
-_setWeaponSwingSfx _swingMedium (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _mediumSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 2300
-_weaponConditionSlot ConditionSlot
-_weaponDamage 28
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-24) WEAPON_Valdur Blade (Sword, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _weapon_blade08 (UnityEngine.Mesh)
-weaponTexture blade08_tex00 (UnityEngine.Texture2D)
-weaponType 02_weaponClass_strength_melee (One Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-24) WEAPON_Valdur Blade (Sword, Strength)
+_itemName : Valdur Blade
+_itemDescription : Valdur Blade
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_78 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 13
+    _magicPower : 0
+    _dexPower : 15
+    _criticalRate : 0.064
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_combatElement : Nature - ID: 3
+_weaponProjectileSet : 
+_weaponDamage : 28
+_damageBonus : 9
+_readonlyDamageRange : (28, 40)
+_weaponConditionSlot : None
+weaponTexture : blade08_tex00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_blade08 (UnityEngine.Mesh)
+trailColors : RGBA(0.672, 1.000, 0.363, 1.000) & RGBA(0.507, 0.840, 0.218, 1.000)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.45
+    _brightness : 0
+    _contrast : 1
+}

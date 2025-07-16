@@ -1,31 +1,53 @@
-_damageBonus 7
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType WEAPON
-_itemDescription The souls of the damned resonate within the blade.
-_itemIcon _wepIco_28 (UnityEngine.Sprite)
-_itemName Geist Scythe
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (12, 22)
-_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 35
-_weaponConditionSlot ConditionSlot
-_weaponDamage 12
-_weaponHoldClipIndex 1
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 1
-hideFlags None
-name (lv-6) WEAPON_Geist Scythe (Great Weapon, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _geistScythe_big (UnityEngine.Mesh)
-weaponTexture miniGeist_tex01 (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-6) WEAPON_Geist Scythe (Great Weapon, Strength)
+_itemName : Geist Scythe
+_itemDescription : Geist Scythe
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_28 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.005
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Geist Collar (ScriptableTradeItem)
+    _scriptItemQuantity : 10
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 1
+_weaponProjectileSet : 
+_weaponDamage : 12
+_damageBonus : 7
+_readonlyDamageRange : (12, 22)
+_weaponConditionSlot : None
+weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
+weaponMesh : _geistScythe_big (UnityEngine.Mesh)
+trailColors : RGBA(0.204, 0.841, 1.000, 0.647) & RGBA(0.887, 0.402, 0.000, 1.000)
+_textureColorAdjust : {
+    _hue : -200
+    _saturation : 2
+    _brightness : -0.16
+    _contrast : 1.35
+}

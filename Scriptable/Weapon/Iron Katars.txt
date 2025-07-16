@@ -1,31 +1,53 @@
-_damageBonus 3
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_22 (UnityEngine.Sprite)
-_itemName Iron Katars
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (7, 13)
-_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 60
-_weaponConditionSlot ConditionSlot
-_weaponDamage 7
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-8) WEAPON_Iron Katars (Fist Weapons, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh katar_01 (UnityEngine.Mesh)
-weaponTexture katar01Tex_01 (UnityEngine.Texture2D)
-weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-8) WEAPON_Iron Katars (Fist Weapons, Dexterity)
+_itemName : Iron Katars
+_itemDescription : Iron Katars
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_22 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 2
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Rock (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 7
+_damageBonus : 3
+_readonlyDamageRange : (7, 13)
+_weaponConditionSlot : None
+weaponTexture : katar01Tex_01 (UnityEngine.Texture2D)
+weaponMesh : katar_01 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

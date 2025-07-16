@@ -1,31 +1,53 @@
-_damageBonus 8
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType WEAPON
-_itemDescription Rotted, deadly Deathgel ears.
-_itemIcon _wepIco_36 (UnityEngine.Sprite)
-_itemName Deathgel Shivs
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (4, 15)
-_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 98
-_weaponConditionSlot ConditionSlot
-_weaponDamage 4
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh katar_03 (UnityEngine.Mesh)
-weaponTexture katar03Tex_01 (UnityEngine.Texture2D)
-weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
+_itemName : Deathgel Shivs
+_itemDescription : Deathgel Shivs
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_36 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 3
+    _criticalRate : 0.002
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 4
+_damageBonus : 8
+_readonlyDamageRange : (4, 15)
+_weaponConditionSlot : None
+weaponTexture : katar03Tex_01 (UnityEngine.Texture2D)
+weaponMesh : katar_03 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+_textureColorAdjust : {
+    _hue : 62
+    _saturation : 0.3
+    _brightness : -0.33
+    _contrast : 1.42
+}

@@ -1,31 +1,53 @@
-_damageBonus 0
-_destroyOnDrop False
-_equipmentLevel 1
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_woodHammer (UnityEngine.Sprite)
-_itemName Wood Hammer
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (8, 11)
-_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _heavySheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 18
-_weaponConditionSlot ConditionSlot
-_weaponDamage 8
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-1) WEAPON_Wood Hammer (Hammer, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _heavyMelee_hammer01 (UnityEngine.Mesh)
-weaponTexture _hammer01Tex_wood01 (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-1) WEAPON_Wood Hammer (Hammer, Strength)
+_itemName : Wood Hammer
+_itemDescription : Wood Hammer
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_woodHammer (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 8
+_damageBonus : 0
+_readonlyDamageRange : (8, 11)
+_weaponConditionSlot : None
+weaponTexture : _hammer01Tex_wood01 (UnityEngine.Texture2D)
+weaponMesh : _heavyMelee_hammer01 (UnityEngine.Mesh)
+trailColors : RGBA(0.745, 0.745, 0.745, 0.447) & RGBA(0.651, 0.651, 0.651, 1.000)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

@@ -1,33 +1,54 @@
-_combatElement 0_COMBATELEMENT_Normal (ScriptableCombatElement)
-_damageBonus 0
-_destroyOnDrop False
-_equipmentLevel 1
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_06 (UnityEngine.Sprite)
-_itemName Wooden Bow
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (3, 6)
-_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 4
-_weaponConditionSlot ConditionSlot
-_weaponDamage 3
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-1) WEAPON_Wooden Bow (Bow, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh bow_01 (UnityEngine.Mesh)
-weaponTexture bow01Tex_01 (UnityEngine.Texture2D)
-weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-1) WEAPON_Wooden Bow (Bow, Dexterity)
+_itemName : Wooden Bow
+_itemDescription : Wooden Bow
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_06 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
+_weaponDamage : 3
+_damageBonus : 0
+_readonlyDamageRange : (3, 6)
+_weaponConditionSlot : None
+weaponTexture : bow01Tex_01 (UnityEngine.Texture2D)
+weaponMesh : bow_01 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(1.000, 0.000, 0.000, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

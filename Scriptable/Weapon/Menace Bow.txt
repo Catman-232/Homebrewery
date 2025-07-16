@@ -1,33 +1,54 @@
-_combatElement 3_COMBATELEMENT_Nature (ScriptableCombatElement)
-_damageBonus 5
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType WEAPON
-_itemDescription You feel a surge of swiftness holding this bow.
-_itemIcon _wepIco_19 (UnityEngine.Sprite)
-_itemName Menace Bow
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (9, 17)
-_setWeaponSwingSfx bow_fire01 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx bow_takeOut (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 450
-_weaponConditionSlot ConditionSlot
-_weaponDamage 9
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_arrow_nature (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-8) WEAPON_Menace Bow (Bow, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh bow_04 (UnityEngine.Mesh)
-weaponTexture bow04Tex_01 (UnityEngine.Texture2D)
-weaponType 05_weaponClass_dexterity_ranged (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-8) WEAPON_Menace Bow (Bow, Dexterity)
+_itemName : Menace Bow
+_itemDescription : Menace Bow
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_19 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 3
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Blightwood Log (ScriptableTradeItem)
+    _scriptItemQuantity : 10
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Nature - ID: 3
+_weaponProjectileSet : weaponProjectileSet_arrow_nature (ScriptableWeaponProjectileSet)
+_weaponDamage : 9
+_damageBonus : 5
+_readonlyDamageRange : (9, 17)
+_weaponConditionSlot : None
+weaponTexture : bow04Tex_01 (UnityEngine.Texture2D)
+weaponMesh : bow_04 (UnityEngine.Mesh)
+trailColors : RGBA(0.638, 1.000, 0.222, 1.000) & RGBA(1.000, 0.000, 0.000, 1.000)
+_textureColorAdjust : {
+    _hue : -325
+    _saturation : 2
+    _brightness : 0.05
+    _contrast : 1.59
+}

@@ -1,31 +1,53 @@
-_damageBonus 5
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType WEAPON
-_itemDescription A usable partisan with a Mekboar's spear attached to it.
-_itemIcon _wepIco_65 (UnityEngine.Sprite)
-_itemName Mekspear
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (8, 16)
-_setWeaponSwingSfx _polearmSwing03 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _polearmTakeOut01 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 475
-_weaponConditionSlot ConditionSlot
-_weaponDamage 8
-_weaponHoldClipIndex 2
-_weaponSwingSfxIndex 1
-_weaponTakeOutSfxIndex 2
-hideFlags None
-name (lv-8) WEAPON_Mekspear (Polearm, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh polearm_04 (UnityEngine.Mesh)
-weaponTexture polearm04Tex_00 (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-8) WEAPON_Mekspear (Polearm, Strength)
+_itemName : Mekspear
+_itemDescription : Mekspear
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_65 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mekboar Spear (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 2
+_weaponProjectileSet : 
+_weaponDamage : 8
+_damageBonus : 5
+_readonlyDamageRange : (8, 16)
+_weaponConditionSlot : None
+weaponTexture : polearm04Tex_00 (UnityEngine.Texture2D)
+weaponMesh : polearm_04 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 0.639) & RGBA(0.547, 0.547, 0.547, 0.518)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

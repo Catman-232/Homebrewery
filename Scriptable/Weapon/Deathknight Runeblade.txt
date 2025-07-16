@@ -1,32 +1,54 @@
-_combatElement 6_COMBATELEMENT_Shadow (ScriptableCombatElement)
-_damageBonus 9
-_destroyOnDrop False
-_equipmentLevel 22
-_equipType WEAPON
-_itemDescription Do not listen to what this blade tells you.
-_itemIcon _wepIco_75 (UnityEngine.Sprite)
-_itemName Deathknight Runeblade
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (40, 52)
-_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _heavySheath_02 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 985
-_weaponConditionSlot ConditionSlot
-_weaponDamage 40
-_weaponHoldClipIndex 1
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 1
-hideFlags None
-name (lv-22) WEAPON_Deathknight Runeblade (Great Weapon, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _playerDeathKnightSword (UnityEngine.Mesh)
-weaponTexture _deathKnightSwordTex (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-22) WEAPON_Deathknight Runeblade (Great Weapon, Strength)
+_itemName : Deathknight Runeblade
+_itemDescription : Deathknight Runeblade
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_75 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 3
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 1
+_combatElement : Shadow - ID: 6
+_weaponProjectileSet : 
+_weaponDamage : 40
+_damageBonus : 9
+_readonlyDamageRange : (40, 52)
+_weaponConditionSlot : None
+weaponTexture : _deathKnightSwordTex (UnityEngine.Texture2D)
+weaponMesh : _playerDeathKnightSword (UnityEngine.Mesh)
+trailColors : RGBA(0.366, 0.018, 0.538, 0.788) & RGBA(0.550, 0.078, 0.613, 1.000)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.61
+    _brightness : -0.09
+    _contrast : 1.1
+}

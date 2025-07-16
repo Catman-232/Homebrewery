@@ -1,32 +1,59 @@
-_combatElement 1_COMBATELEMENT_Fire (ScriptableCombatElement)
-_damageBonus 0
-_destroyOnDrop False
-_equipmentLevel 14
-_equipType WEAPON
-_itemDescription Hot, hot, hot to the touch!
-_itemIcon _wepIco_68 (UnityEngine.Sprite)
-_itemName Hellsludge Shivs
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (13, 16)
-_setWeaponSwingSfx _swingLight (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _lightSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 150
-_weaponConditionSlot ConditionSlot
-_weaponDamage 13
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-14) WEAPON_Hellsludge Shivs (Fist Weapon, Dexterity)
-trailColors UnityEngine.Color[]
-weaponMesh katar_03 (UnityEngine.Mesh)
-weaponTexture katar03Tex_01 (UnityEngine.Texture2D)
-weaponType 01_weaponClass_dexterity_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-14) WEAPON_Hellsludge Shivs (Fist Weapon, Dexterity)
+_itemName : Hellsludge Shivs
+_itemDescription : Hellsludge Shivs
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_68 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 14
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 7
+    _criticalRate : 0.0028
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : Fire - ID: 1
+_weaponProjectileSet : 
+_weaponDamage : 13
+_damageBonus : 0
+_readonlyDamageRange : (13, 16)
+_weaponConditionSlot : {
+    _scriptableCondition : Burn - ID: 7
+    _chance : 0.033
+    _bonusPower : 0
+    _bonusDuration : 0
+}
+weaponTexture : katar03Tex_01 (UnityEngine.Texture2D)
+weaponMesh : katar_03 (UnityEngine.Mesh)
+trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+_textureColorAdjust : {
+    _hue : -3
+    _saturation : 0.81
+    _brightness : -0.56
+    _contrast : 2
+}

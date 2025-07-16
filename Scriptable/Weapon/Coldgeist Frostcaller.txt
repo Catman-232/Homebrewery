@@ -1,33 +1,59 @@
-_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
-_damageBonus 3
-_destroyOnDrop False
-_equipmentLevel 16
-_equipType WEAPON
-_itemDescription Used to awaken Geistlords with its spine chilling tone.
-_itemIcon _wepIco_47 (UnityEngine.Sprite)
-_itemName Coldgeist Frostcaller
-_itemRarity Rare
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (19, 25)
-_setWeaponSwingSfx _bellSwing04 (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _takeOutBell3 (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 875
-_weaponConditionSlot ConditionSlot
-_weaponDamage 19
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_bell_coldgeist (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-16) WEAPON_Coldgeist Frostcaller (Magic Bell, Mind)
-trailColors UnityEngine.Color[]
-weaponMesh _bell_03 (UnityEngine.Mesh)
-weaponTexture bell03Tex_00 (UnityEngine.Texture2D)
-weaponType 07_weaponClass_mind_ranged (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-16) WEAPON_Coldgeist Frostcaller (Magic Bell, Mind)
+_itemName : Coldgeist Frostcaller
+_itemDescription : Coldgeist Frostcaller
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_47 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 16
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 8
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0015
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Soul Pearl (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Water - ID: 2
+_weaponProjectileSet : weaponProjectileSet_bell_coldgeist (ScriptableWeaponProjectileSet)
+_weaponDamage : 19
+_damageBonus : 3
+_readonlyDamageRange : (19, 25)
+_weaponConditionSlot : {
+    _scriptableCondition : Cold - ID: 8
+    _chance : 0.1
+    _bonusPower : 5
+    _bonusDuration : 0
+}
+weaponTexture : bell03Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _bell_03 (UnityEngine.Mesh)
+trailColors : RGBA(0.269, 0.655, 1.000, 1.000) & RGBA(0.141, 0.331, 0.962, 1.000)
+_textureColorAdjust : {
+    _hue : -31
+    _saturation : 2
+    _brightness : 0
+    _contrast : 1.09
+}

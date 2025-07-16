@@ -1,31 +1,53 @@
-_damageBonus 4
-_destroyOnDrop False
-_equipmentLevel 6
-_equipType WEAPON
-_itemDescription 
-_itemIcon _wepIco_08 (UnityEngine.Sprite)
-_itemName Iron Axehammer
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (13, 20)
-_setWeaponSwingSfx _swingHeavy (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx _heavySheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 150
-_weaponConditionSlot ConditionSlot
-_weaponDamage 13
-_weaponHoldClipIndex 0
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-6) WEAPON_Iron Axehammer (Hammer, Strength)
-trailColors UnityEngine.Color[]
-weaponMesh _axeHammer_03 (UnityEngine.Mesh)
-weaponTexture axeHammer03Tex_01 (UnityEngine.Texture2D)
-weaponType 03_weaponClass_strength_melee (Two Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-6) WEAPON_Iron Axehammer (Hammer, Strength)
+_itemName : Iron Axehammer
+_itemDescription : Iron Axehammer
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_08 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Rock (ScriptableTradeItem)
+    _scriptItemQuantity : 5
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 0
+_weaponProjectileSet : 
+_weaponDamage : 13
+_damageBonus : 4
+_readonlyDamageRange : (13, 20)
+_weaponConditionSlot : None
+weaponTexture : axeHammer03Tex_01 (UnityEngine.Texture2D)
+weaponMesh : _axeHammer_03 (UnityEngine.Mesh)
+trailColors : RGBA(0.745, 0.745, 0.745, 0.447) & RGBA(0.651, 0.651, 0.651, 1.000)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

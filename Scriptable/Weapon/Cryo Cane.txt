@@ -1,33 +1,59 @@
-_combatElement 2_COMBATELEMENT_Water (ScriptableCombatElement)
-_damageBonus 3
-_destroyOnDrop False
-_equipmentLevel 8
-_equipType WEAPON
-_itemDescription Let them freeze.
-_itemIcon _wepIco_15 (UnityEngine.Sprite)
-_itemName Cryo Cane
-_itemRarity Common
-_itemSortTag NONE
-_itemType GEAR
-_maxStackAmount 1
-_questTriggerTag 
-_readonlyDamageRange (8, 14)
-_setWeaponSwingSfx _spinScepter (UnityEngine.AudioClip)
-_setWeaponTakeOutSfx weapon_scepterSheath (UnityEngine.AudioClip)
-_statArray StatStruct
-_statModifierCost StatModifierCost
-_statModifierTable statModifierTable_weapon (ScriptableStatModifierTable)
-_textureColorAdjust ColorAdjustShader_Profile
-_vendorCost 263
-_weaponConditionSlot ConditionSlot
-_weaponDamage 8
-_weaponHoldClipIndex 0
-_weaponProjectileSet weaponProjectileSet_scepter(ele_water)_00 (ScriptableWeaponProjectileSet)
-_weaponSwingSfxIndex 0
-_weaponTakeOutSfxIndex 0
-hideFlags None
-name (lv-8) WEAPON_Cryo Cane (Scepter, Mind)
-trailColors UnityEngine.Color[]
-weaponMesh _scepter04 (UnityEngine.Mesh)
-weaponTexture scepter04Tex_03 (UnityEngine.Texture2D)
-weaponType 06_weaponClass_mind_ranged (One Handed) (ScriptableWeaponType)
+- ScriptableItem -
+name : (lv-8) WEAPON_Cryo Cane (Scepter, Mind)
+_itemName : Cryo Cane
+_itemDescription : Cryo Cane
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _wepIco_15 (UnityEngine.Sprite)
+
+- ScriptableEquipment -
+_equipmentLevel : 8
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Blightwood Stick (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_1H
+_weaponHoldClipIndex : 0
+_combatElement : Water - ID: 2
+_weaponProjectileSet : weaponProjectileSet_scepter(ele_water)_00 (ScriptableWeaponProjectileSet)
+_weaponDamage : 8
+_damageBonus : 3
+_readonlyDamageRange : (8, 14)
+_weaponConditionSlot : {
+    _scriptableCondition : Cold - ID: 8
+    _chance : 0.2
+    _bonusPower : 0
+    _bonusDuration : 0
+}
+weaponTexture : scepter04Tex_03 (UnityEngine.Texture2D)
+weaponMesh : _scepter04 (UnityEngine.Mesh)
+trailColors : RGBA(0.000, 0.821, 1.000, 1.000) & RGBA(0.063, 0.271, 0.396, 1.000)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
