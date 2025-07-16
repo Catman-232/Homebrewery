@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-10) STATUSCONSUMABLE_Agility Potion
 _itemName : Agility Potion
-_itemDescription : Agility Potion
+_itemDescription : Quite the rush!
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_33 (UnityEngine.Sprite)

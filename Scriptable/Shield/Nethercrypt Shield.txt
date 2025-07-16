@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) SHIELD_Nethercrypt Shield
 _itemName : Nethercrypt Shield
-_itemDescription : Nethercrypt Shield
+_itemDescription : Emblem of the twisted nether realm.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_07 (UnityEngine.Sprite)

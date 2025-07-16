@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) SHIELD_Omen Shield
 _itemName : Omen Shield
-_itemDescription : Omen Shield
+_itemDescription : Something's intimidating about the design.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_04 (UnityEngine.Sprite)

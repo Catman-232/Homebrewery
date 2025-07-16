@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) RING_Ring Of Ambition
 _itemName : Ring Of Ambition
-_itemDescription : Ring Of Ambition
+_itemDescription : Something strikes you about this ring.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring04 (UnityEngine.Sprite)

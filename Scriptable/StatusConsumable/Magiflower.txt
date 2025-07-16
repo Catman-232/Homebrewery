@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Magiflower
 _itemName : Magiflower
-_itemDescription : Magiflower
+_itemDescription : A gratuitous mind replenishing flower.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_25 (UnityEngine.Sprite)

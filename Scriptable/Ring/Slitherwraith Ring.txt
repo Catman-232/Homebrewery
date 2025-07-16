@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) RING_Slitherwraith Ring
 _itemName : Slitherwraith Ring
-_itemDescription : Slitherwraith Ring
+_itemDescription : Slither through and past the doors.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring09 (UnityEngine.Sprite)

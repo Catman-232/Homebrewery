@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-8) SHIELD_Iris Shield
 _itemName : Iris Shield
-_itemDescription : Iris Shield
+_itemDescription : Invoker of arcane tears.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_05 (UnityEngine.Sprite)

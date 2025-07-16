@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-4) CAPE_Initiate Cloak
 _itemName : Initiate Cloak
-_itemDescription : Initiate Cloak
+_itemDescription : New beginnings.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_04 (UnityEngine.Sprite)

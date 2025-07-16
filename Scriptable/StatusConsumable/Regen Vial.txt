@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Regen Vial
 _itemName : Regen Vial
-_itemDescription : Regen Vial
+_itemDescription : Just enough to feel your wounds slowly heal.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_36 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) SHIELD_Rustwise Shield
 _itemName : Rustwise Shield
-_itemDescription : Rustwise Shield
+_itemDescription : The face is confident.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_11 (UnityEngine.Sprite)

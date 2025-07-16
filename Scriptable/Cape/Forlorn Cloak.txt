@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) CAPE_Forlorn Cloak
 _itemName : Forlorn Cloak
-_itemDescription : Forlorn Cloak
+_itemDescription : Forever lost.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_05 (UnityEngine.Sprite)

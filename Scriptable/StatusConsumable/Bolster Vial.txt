@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Bolster Vial
 _itemName : Bolster Vial
-_itemDescription : Bolster Vial
+_itemDescription : Hardly much of a sip, but it makes you feel stronger.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_35 (UnityEngine.Sprite)

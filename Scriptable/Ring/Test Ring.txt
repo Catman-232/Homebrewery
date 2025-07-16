@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) RING_Test Ring
 _itemName : Test Ring
-_itemDescription : Test Ring
+_itemDescription : It was once possible to get this. If you have it, you must've been around for a while...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : equipCell_filter_ring (UnityEngine.Sprite)

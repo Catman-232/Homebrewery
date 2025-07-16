@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) RING_Pearlpond Ring
 _itemName : Pearlpond Ring
-_itemDescription : Pearlpond Ring
+_itemDescription : The pearls chime, providing a peace of mind and clarity.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring10 (UnityEngine.Sprite)

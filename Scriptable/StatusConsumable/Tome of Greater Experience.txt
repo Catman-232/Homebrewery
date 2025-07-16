@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Tome of Greater Experience
 _itemName : Tome of Greater Experience
-_itemDescription : Tome of Greater Experience
+_itemDescription : The knowledge this Tome provides gives a massive pile of experience to the reader.
 _destroyOnDrop : False
 _maxStackAmount : 5
 _itemIcon : _conIco_29 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-10) STATUSCONSUMABLE_Regen Potion
 _itemName : Regen Potion
-_itemDescription : Regen Potion
+_itemDescription : Rejuvinating.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_31 (UnityEngine.Sprite)

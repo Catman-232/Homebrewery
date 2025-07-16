@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Wisdom Vial
 _itemName : Wisdom Vial
-_itemDescription : Wisdom Vial
+_itemDescription : A small drop to slightly comprehend the powers of magic.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_37 (UnityEngine.Sprite)

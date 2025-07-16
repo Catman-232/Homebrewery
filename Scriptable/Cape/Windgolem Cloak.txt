@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-22) CAPE_Windgolem Cloak
 _itemName : Windgolem Cloak
-_itemDescription : Windgolem Cloak
+_itemDescription : Tears of a gem.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_11 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) CAPE_Sagecaller Cape
 _itemName : Sagecaller Cape
-_itemDescription : Sagecaller Cape
+_itemDescription : Brimming with magical power.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_07 (UnityEngine.Sprite)

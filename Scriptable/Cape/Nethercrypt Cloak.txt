@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-14) CAPE_Nethercrypt Cloak
 _itemName : Nethercrypt Cloak
-_itemDescription : Nethercrypt Cloak
+_itemDescription : Rug for the feet of the dead.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_01 (UnityEngine.Sprite)

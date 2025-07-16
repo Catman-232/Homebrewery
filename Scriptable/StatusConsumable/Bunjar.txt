@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Bunjar
 _itemName : Bunjar
-_itemDescription : Bunjar
+_itemDescription : A big healing salve.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_21 (UnityEngine.Sprite)

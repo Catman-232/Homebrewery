@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Spectral Powder
 _itemName : Spectral Powder
-_itemDescription : Spectral Powder
+_itemDescription : Potent mixture of grounded ghostly substance. Vanishes the user for a short duration.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_27 (UnityEngine.Sprite)

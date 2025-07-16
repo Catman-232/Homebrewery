@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) RING_Geistlord Ring
 _itemName : Geistlord Ring
-_itemDescription : Geistlord Ring
+_itemDescription : Whispers of Zuulneruda's memories echo and reverberate inside your soul.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring08 (UnityEngine.Sprite)

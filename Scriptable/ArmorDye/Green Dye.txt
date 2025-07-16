@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : DYE_Green Dye
 _itemName : Green Dye
-_itemDescription : Green Dye
+_itemDescription : A vial of green dye.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _dyeIco_green (UnityEngine.Sprite)

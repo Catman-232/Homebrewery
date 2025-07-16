@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-6) SHIELD_Iron Shield
 _itemName : Iron Shield
-_itemDescription : Iron Shield
+_itemDescription : 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_08 (UnityEngine.Sprite)

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Stamstar
 _itemName : Stamstar
-_itemDescription : Stamstar
+_itemDescription : Clenching this star gives a sudden boost of energy.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_26 (UnityEngine.Sprite)

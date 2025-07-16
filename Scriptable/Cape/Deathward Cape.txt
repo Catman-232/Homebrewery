@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-16) CAPE_Deathward Cape
 _itemName : Deathward Cape
-_itemDescription : Deathward Cape
+_itemDescription : You can hear the laughter from the skull motif.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_02 (UnityEngine.Sprite)

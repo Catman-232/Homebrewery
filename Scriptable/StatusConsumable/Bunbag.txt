@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Bunbag
 _itemName : Bunbag
-_itemDescription : Bunbag
+_itemDescription : A gratuitous healing salve.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_22 (UnityEngine.Sprite)
