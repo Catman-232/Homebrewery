@@ -1,0 +1,21 @@
+- ScriptableItem -
+name : DYE_Cyan Dye
+_itemName : Cyan Dye
+_itemDescription : A vial of cyan dye.
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_cyan (UnityEngine.Sprite)
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_cyanDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : 59
+    _saturation : 2
+    _brightness : 0.15
+    _contrast : 1
+}
