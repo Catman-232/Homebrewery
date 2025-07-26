@@ -13,9 +13,9 @@ _useOnlyInTown : False
 _unperishable : False
 
 - ScriptableStatusConsumable -
-_healthApply :50
-_manaApply :45
-_staminaApply :0
-_expGain :0
-_resetSkillPoints :False
-_resetAttributePoints :False
+_healthApply : 50
+_manaApply : 45
+_staminaApply : 0
+_expGain : 0
+_resetSkillPoints : False
+_resetAttributePoints : False
