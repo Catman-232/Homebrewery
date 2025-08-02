@@ -50,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : scepter04Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _scepter04 (UnityEngine.Mesh)
-trailColors : RGBA(0.000, 0.821, 1.000, 1.000) & RGBA(0.063, 0.271, 0.396, 1.000)
+trailColors : 00D1FFFF & 104565FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

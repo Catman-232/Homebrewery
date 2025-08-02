@@ -45,7 +45,7 @@ _readonlyDamageRange : (16, 24)
 _weaponConditionSlot : None
 weaponTexture : bow06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_06 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(1.000, 0.000, 0.000, 1.000)
+trailColors : FFFFFFFF & FF0000FF
 _textureColorAdjust : {
     _hue : 6
     _saturation : 0.87

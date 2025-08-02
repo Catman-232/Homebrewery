@@ -45,7 +45,7 @@ _readonlyDamageRange : (12, 18)
 _weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05_alt00 (UnityEngine.Mesh)
-trailColors : RGBA(0.495, 0.120, 0.689, 1.000) & RGBA(0.372, 0.160, 0.557, 1.000)
+trailColors : 7E1FB0FF & 5F298EFF
 _textureColorAdjust : {
     _hue : -284
     _saturation : 2

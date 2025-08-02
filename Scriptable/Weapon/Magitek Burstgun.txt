@@ -45,7 +45,7 @@ _readonlyDamageRange : (20, 27)
 _weaponConditionSlot : None
 weaponTexture : gun00Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_00 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(1.000, 0.000, 0.000, 1.000)
+trailColors : FFFFFFFF & FF0000FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

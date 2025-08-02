@@ -45,7 +45,7 @@ _readonlyDamageRange : (12, 17)
 _weaponConditionSlot : None
 weaponTexture : katar05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : katar_04 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+trailColors : FFFFFFFF & 959595FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

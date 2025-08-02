@@ -45,7 +45,7 @@ _readonlyDamageRange : (40, 52)
 _weaponConditionSlot : None
 weaponTexture : _deathKnightSwordTex (UnityEngine.Texture2D)
 weaponMesh : _playerDeathKnightSword (UnityEngine.Mesh)
-trailColors : RGBA(0.366, 0.018, 0.538, 0.788) & RGBA(0.550, 0.078, 0.613, 1.000)
+trailColors : 5D0589C9 & 8C149CFF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.61

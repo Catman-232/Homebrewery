@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Dexterity_Melee_2H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 1
 _damageBonus : 0
@@ -44,7 +45,7 @@ _readonlyDamageRange : (1, 4)
 _weaponConditionSlot : None
 weaponTexture : _dagger01Tex_wood (UnityEngine.Texture2D)
 weaponMesh : _lightMelee_dagger01 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+trailColors : FFFFFFFF & 959595FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

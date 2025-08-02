@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Mind_Ranged_2H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : weaponProjectileSet_bell_normal (ScriptableWeaponProjectileSet)
 _weaponDamage : 13
 _damageBonus : 4
@@ -44,7 +45,7 @@ _readonlyDamageRange : (13, 20)
 _weaponConditionSlot : None
 weaponTexture : bell01Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _bell_04 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(1.000, 0.000, 0.000, 1.000)
+trailColors : FFFFFFFF & FF0000FF
 _textureColorAdjust : {
     _hue : -17
     _saturation : 1.33

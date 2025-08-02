@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 2
+_combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 8
 _damageBonus : 6
@@ -49,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bardiche_texure (UnityEngine.Texture2D)
 weaponMesh : polearm_bardiche (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 0.297, 0.297, 0.639) & RGBA(0.519, 0.000, 0.000, 0.518)
+trailColors : FF4C4CA3 & 84000084
 _textureColorAdjust : {
     _hue : -12
     _saturation : 1.56

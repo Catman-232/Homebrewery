@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_normal) (ScriptableWeaponProjectileSet)
 _weaponDamage : 3
 _damageBonus : 6
@@ -44,7 +45,7 @@ _readonlyDamageRange : (3, 12)
 _weaponConditionSlot : None
 weaponTexture : scepter02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter02 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.670, 0.667, 0.667, 1.000)
+trailColors : FFFFFFFF & ABAAAAFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

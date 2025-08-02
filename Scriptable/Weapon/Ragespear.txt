@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 2
+_combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 20
 _damageBonus : 2
@@ -49,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : polearm04Tex_01 (UnityEngine.Texture2D)
 weaponMesh : polearm_04_alt00 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 0.344, 0.344, 0.639) & RGBA(0.887, 0.000, 0.000, 0.518)
+trailColors : FF5858A3 & E2000084
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

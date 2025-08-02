@@ -50,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : hammer02Tex (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_02 (UnityEngine.Mesh)
-trailColors : RGBA(0.241, 0.000, 0.689, 1.000) & RGBA(0.272, 0.156, 1.000, 1.000)
+trailColors : 3E00B0FF & 4528FFFF
 _textureColorAdjust : {
     _hue : -18
     _saturation : 2

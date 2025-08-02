@@ -50,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : katar03Tex_01 (UnityEngine.Texture2D)
 weaponMesh : katar_03 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.585, 0.585, 0.585, 1.000)
+trailColors : FFFFFFFF & 959595FF
 _textureColorAdjust : {
     _hue : -3
     _saturation : 0.81

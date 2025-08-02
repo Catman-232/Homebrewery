@@ -50,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : heavyWeapon01Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_00 (UnityEngine.Mesh)
-trailColors : RGBA(0.953, 0.245, 0.000, 1.000) & RGBA(1.000, 0.391, 0.157, 1.000)
+trailColors : F33F00FF & FF6428FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1.28

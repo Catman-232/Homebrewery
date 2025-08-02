@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Strength_Melee_1H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 5
 _damageBonus : 4
@@ -44,7 +45,7 @@ _readonlyDamageRange : (5, 12)
 _weaponConditionSlot : None
 weaponTexture : _sword02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _mediumMelee_sword02 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.660, 0.660, 0.660, 1.000)
+trailColors : FFFFFFFF & A8A8A8FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.23

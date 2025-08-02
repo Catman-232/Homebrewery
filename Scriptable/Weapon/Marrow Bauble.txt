@@ -45,7 +45,7 @@ _readonlyDamageRange : (5, 14)
 _weaponConditionSlot : None
 weaponTexture : scepter05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter05 (UnityEngine.Mesh)
-trailColors : RGBA(0.445, 0.119, 0.764, 1.000) & RGBA(0.676, 0.102, 0.698, 1.000)
+trailColors : 711EC3FF & AD1AB2FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

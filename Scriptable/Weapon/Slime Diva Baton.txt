@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : weaponProjectileSet_slmDivaBaton (ScriptableWeaponProjectileSet)
 _weaponDamage : 12
 _damageBonus : 2
@@ -44,7 +45,7 @@ _readonlyDamageRange : (12, 17)
 _weaponConditionSlot : None
 weaponTexture : slimeDivaStaffTex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter03 (UnityEngine.Mesh)
-trailColors : RGBA(0.227, 1.000, 0.000, 1.000) & RGBA(0.000, 0.679, 0.238, 1.000)
+trailColors : 3AFF00FF & 00AD3DFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

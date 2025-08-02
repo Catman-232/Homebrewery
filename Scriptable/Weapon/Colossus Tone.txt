@@ -50,7 +50,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bell05Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _bell_05 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 0.337, 0.090, 1.000) & RGBA(0.961, 0.400, 0.141, 1.000)
+trailColors : FF5617FF & F56624FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 0.9

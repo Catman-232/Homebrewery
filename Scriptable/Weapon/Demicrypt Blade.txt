@@ -37,6 +37,7 @@ _statModifierCost : {
 - ScriptableWeapon -
 weaponType : Strength_Melee_1H
 _weaponHoldClipIndex : 0
+_combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 7
 _damageBonus : 3
@@ -44,7 +45,7 @@ _readonlyDamageRange : (7, 13)
 _weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05 (UnityEngine.Mesh)
-trailColors : RGBA(1.000, 1.000, 1.000, 1.000) & RGBA(0.626, 0.717, 0.686, 1.000)
+trailColors : FFFFFFFF & A0B7AFFF
 _textureColorAdjust : {
     _hue : 152
     _saturation : 2
