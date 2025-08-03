@@ -5,6 +5,7 @@ _itemDescription : Ancient loincloth.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_imp01 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1

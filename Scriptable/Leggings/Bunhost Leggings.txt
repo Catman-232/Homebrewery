@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _leggingIco_bunhost (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1

@@ -5,6 +5,7 @@ _itemDescription : Common clothing worn by Changs.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_11 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1

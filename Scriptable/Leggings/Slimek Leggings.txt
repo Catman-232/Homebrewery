@@ -5,6 +5,7 @@ _itemDescription : Drenched in Slimek slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_08 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4

@@ -5,6 +5,7 @@ _itemDescription : Common clothing worn by Byrdles.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_10 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1

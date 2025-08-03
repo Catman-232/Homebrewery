@@ -5,6 +5,7 @@ _itemDescription : Tight.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_13 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 8

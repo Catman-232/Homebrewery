@@ -5,6 +5,7 @@ _itemDescription : Keeps the toes warm.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_21 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 18

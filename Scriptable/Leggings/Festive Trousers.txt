@@ -5,6 +5,7 @@ _itemDescription : Merry pantsmas!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_24 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1

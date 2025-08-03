@@ -5,6 +5,7 @@ _itemDescription : Wearing these make your legs feel numb.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _legIco_12 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2
