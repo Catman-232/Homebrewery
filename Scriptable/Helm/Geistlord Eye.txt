@@ -5,6 +5,7 @@ _itemDescription : Madness beyond comprehension.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_15 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : halo04Tex_01 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

@@ -5,6 +5,7 @@ _itemDescription : Once worn by a brave warrior.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_09 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : direHelmTex (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 80.4
+n_blendHelmValueame : 80.4
 _useHelmHairDisplay : True
 _hideEars : True
 _hideMisc : True

@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_30 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : bunnyHoodTex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

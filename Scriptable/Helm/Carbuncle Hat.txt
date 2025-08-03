@@ -5,6 +5,7 @@ _itemDescription : Hopefully nobody confuses you with a carbuncle wearing this..
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_25 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : carbuncleHatTex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 44.4
+n_blendHelmValueame : 44.4
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : False

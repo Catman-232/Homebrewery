@@ -5,6 +5,7 @@ _itemDescription : Used to read harder-- now with color!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_02 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 10
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : _glasses (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

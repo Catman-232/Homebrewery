@@ -5,6 +5,7 @@ _itemDescription : Cultists are seen to wear this.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_23 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : hoodTex01 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 73.2
+n_blendHelmValueame : 73.2
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : False

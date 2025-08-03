@@ -5,6 +5,7 @@ _itemDescription : A crown worn by a Slime Diva. Contains unusual power.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_12 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : halo03Tex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

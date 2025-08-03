@@ -5,6 +5,7 @@ _itemDescription : Visions of death and decay.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_26 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 24
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : deathKnightHelmTex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : True

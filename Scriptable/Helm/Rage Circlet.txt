@@ -5,6 +5,7 @@ _itemDescription : Fervor of angst and envy.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_10 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : halo02Tex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 0
+n_blendHelmValueame : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

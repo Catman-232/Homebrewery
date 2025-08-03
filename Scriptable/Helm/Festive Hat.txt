@@ -5,6 +5,7 @@ _itemDescription : Ho ho... ho!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _helmIco_22 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1
@@ -46,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : dreamerHelmTex01 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-_blendHelmValue : 80.4
+n_blendHelmValueame : 80.4
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : True
