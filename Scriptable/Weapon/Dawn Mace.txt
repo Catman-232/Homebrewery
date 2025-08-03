@@ -5,6 +5,7 @@ _itemDescription : Clubbed to death.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_14 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -45,7 +46,7 @@ _readonlyDamageRange : (13, 19)
 _weaponConditionSlot : None
 weaponTexture : lightWep_mace01Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _lightWeapon_mace01 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & ADADAD59
+trailColors : #FFFFFFFF & #ADADAD59
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

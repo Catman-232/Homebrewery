@@ -5,6 +5,7 @@ _itemDescription : Pieces of a Colossus are embedded into this bell.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_71 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 18
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bell05Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _bell_05 (UnityEngine.Mesh)
-trailColors : FF5617FF & F56624FF
+trailColors : #FF5617FF & #F56624FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 0.9

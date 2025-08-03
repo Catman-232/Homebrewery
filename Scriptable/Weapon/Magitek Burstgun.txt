@@ -5,6 +5,7 @@ _itemDescription : The mysterious components inside of this gun use energies fro
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_74 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 20
@@ -45,7 +46,7 @@ _readonlyDamageRange : (20, 27)
 _weaponConditionSlot : None
 weaponTexture : gun00Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_00 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & FF0000FF
+trailColors : #FFFFFFFF & #FF0000FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

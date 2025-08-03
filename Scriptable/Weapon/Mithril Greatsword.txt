@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_56 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -45,7 +46,7 @@ _readonlyDamageRange : (28, 34)
 _weaponConditionSlot : None
 weaponTexture : greatsword01Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_greatsword01_alt00 (UnityEngine.Mesh)
-trailColors : 4E84A651 & A6A6A6FF
+trailColors : #4E84A651 & #A6A6A6FF
 _textureColorAdjust : {
     _hue : -17
     _saturation : 1.43

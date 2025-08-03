@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_woodSword (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1
@@ -45,7 +46,7 @@ _readonlyDamageRange : (2, 5)
 _weaponConditionSlot : None
 weaponTexture : _sword01Tex_wood (UnityEngine.Texture2D)
 weaponMesh : _mediumMelee_sword01 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & A8A8A8FF
+trailColors : #FFFFFFFF & #A8A8A8FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.23

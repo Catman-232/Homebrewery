@@ -5,6 +5,7 @@ _itemDescription : Blood of the sinners coat this weapon.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_31 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bardiche_texure (UnityEngine.Texture2D)
 weaponMesh : polearm_bardiche (UnityEngine.Mesh)
-trailColors : FF4C4CA3 & 84000084
+trailColors : #FF4C4CA3 & #84000084
 _textureColorAdjust : {
     _hue : -12
     _saturation : 1.56

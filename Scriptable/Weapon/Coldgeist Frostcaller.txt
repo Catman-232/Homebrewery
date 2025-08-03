@@ -5,6 +5,7 @@ _itemDescription : Used to awaken Geistlords with its spine chilling tone.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_47 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bell03Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _bell_03 (UnityEngine.Mesh)
-trailColors : 45A7FFFF & 2455F5FF
+trailColors : #45A7FFFF & #2455F5FF
 _textureColorAdjust : {
     _hue : -31
     _saturation : 2

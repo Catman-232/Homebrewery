@@ -5,6 +5,7 @@ _itemDescription : Rotted, deadly Deathgel ears.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_36 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (4, 15)
 _weaponConditionSlot : None
 weaponTexture : katar03Tex_01 (UnityEngine.Texture2D)
 weaponMesh : katar_03 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & 959595FF
+trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
     _hue : 62
     _saturation : 0.3

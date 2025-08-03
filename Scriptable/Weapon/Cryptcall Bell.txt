@@ -5,6 +5,7 @@ _itemDescription : The bell tolls for the dead.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_29 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -45,7 +46,7 @@ _readonlyDamageRange : (10, 17)
 _weaponConditionSlot : None
 weaponTexture : bell02Tex (UnityEngine.Texture2D)
 weaponMesh : _bell_02 (UnityEngine.Mesh)
-trailColors : 8931B7FF & 560787FF
+trailColors : #8931B7FF & #560787FF
 _textureColorAdjust : {
     _hue : 38
     _saturation : 0.54

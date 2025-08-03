@@ -5,6 +5,7 @@ _itemDescription : Let them burn.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_13 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : scepter04Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _scepter04 (UnityEngine.Mesh)
-trailColors : FF8400FF & 651010FF
+trailColors : #FF8400FF & #651010FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

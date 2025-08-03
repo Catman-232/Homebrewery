@@ -5,6 +5,7 @@ _itemDescription : The sharped blade was a bone of a madman.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_26 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2
@@ -45,7 +46,7 @@ _readonlyDamageRange : (4, 11)
 _weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & A8A8A8FF
+trailColors : #FFFFFFFF & #A8A8A8FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

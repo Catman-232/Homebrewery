@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_49 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (6, 14)
 _weaponConditionSlot : None
 weaponTexture : scepter02_Tex02 (UnityEngine.Texture2D)
 weaponMesh : _scepter02 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & ABAAAAFF
+trailColors : #FFFFFFFF & #ABAAAAFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

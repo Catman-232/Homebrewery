@@ -5,6 +5,7 @@ _itemDescription : Electrifying.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_66 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -45,7 +46,7 @@ _readonlyDamageRange : (13, 17)
 _weaponConditionSlot : None
 weaponTexture : scepter07Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter07 (UnityEngine.Mesh)
-trailColors : 0006FFFF & 0A60ECFF
+trailColors : #0006FFFF & #0A60ECFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

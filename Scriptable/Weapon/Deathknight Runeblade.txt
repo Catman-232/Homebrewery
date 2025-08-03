@@ -5,6 +5,7 @@ _itemDescription : Do not listen to what this blade tells you.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_75 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 22
@@ -45,7 +46,7 @@ _readonlyDamageRange : (40, 52)
 _weaponConditionSlot : None
 weaponTexture : _deathKnightSwordTex (UnityEngine.Texture2D)
 weaponMesh : _playerDeathKnightSword (UnityEngine.Mesh)
-trailColors : 5D0589C9 & 8C149CFF
+trailColors : #5D0589C9 & #8C149CFF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.61

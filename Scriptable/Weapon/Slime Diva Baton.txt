@@ -5,6 +5,7 @@ _itemDescription : Only a Slime Diva can truly maximize the full potential of th
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_04 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -45,7 +46,7 @@ _readonlyDamageRange : (12, 17)
 _weaponConditionSlot : None
 weaponTexture : slimeDivaStaffTex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter03 (UnityEngine.Mesh)
-trailColors : 3AFF00FF & 00AD3DFF
+trailColors : #3AFF00FF & #00AD3DFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

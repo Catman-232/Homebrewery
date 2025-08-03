@@ -5,6 +5,7 @@ _itemDescription : Forged by a sadistic being of torture.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_23 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 10
@@ -45,7 +46,7 @@ _readonlyDamageRange : (9, 15)
 _weaponConditionSlot : None
 weaponTexture : katar02_texture (UnityEngine.Texture2D)
 weaponMesh : katar_02 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & 959595FF
+trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

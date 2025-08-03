@@ -5,6 +5,7 @@ _itemDescription : Looks to be an Iron Sword, but the blade is intensely dulled 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_02 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2
@@ -45,7 +46,7 @@ _readonlyDamageRange : (4, 8)
 _weaponConditionSlot : None
 weaponTexture : blade03Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade03 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & ADADAD59
+trailColors : #FFFFFFFF & #ADADAD59
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

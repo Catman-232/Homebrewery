@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_64 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -45,7 +46,7 @@ _readonlyDamageRange : (15, 22)
 _weaponConditionSlot : None
 weaponTexture : katar07Tex_00 (UnityEngine.Texture2D)
 weaponMesh : katar_07 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & 959595FF
+trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

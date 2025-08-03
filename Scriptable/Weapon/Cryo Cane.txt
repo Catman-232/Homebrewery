@@ -5,6 +5,7 @@ _itemDescription : Let them freeze.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_15 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : scepter04Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _scepter04 (UnityEngine.Mesh)
-trailColors : 00D1FFFF & 104565FF
+trailColors : #00D1FFFF & #104565FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

@@ -5,6 +5,7 @@ _itemDescription : A Rude Blade, but more... vile.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_70 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : blade04Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _lightWeapon_blade04 (UnityEngine.Mesh)
-trailColors : FF45DDFF & 6D018E59
+trailColors : #FF45DDFF & #6D018E59
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

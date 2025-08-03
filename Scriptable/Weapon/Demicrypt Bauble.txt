@@ -5,6 +5,7 @@ _itemDescription : The skull doesn't seem real.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_34 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (6, 14)
 _weaponConditionSlot : None
 weaponTexture : scepter05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter05 (UnityEngine.Mesh)
-trailColors : 711EC3FF & AD1AB2FF
+trailColors : #711EC3FF & #AD1AB2FF
 _textureColorAdjust : {
     _hue : 54
     _saturation : 2

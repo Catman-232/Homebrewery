@@ -5,6 +5,7 @@ _itemDescription : Sharp and twisted. Fires arrows that pierce.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_61 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -45,7 +46,7 @@ _readonlyDamageRange : (16, 24)
 _weaponConditionSlot : None
 weaponTexture : bow06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_06 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & FF0000FF
+trailColors : #FFFFFFFF & #FF0000FF
 _textureColorAdjust : {
     _hue : 6
     _saturation : 0.87

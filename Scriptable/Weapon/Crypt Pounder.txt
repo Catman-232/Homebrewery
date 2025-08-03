@@ -5,6 +5,7 @@ _itemDescription : Made with the bones of sinners.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_10 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : hammer02Tex (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_02 (UnityEngine.Mesh)
-trailColors : 3E00B0FF & 4528FFFF
+trailColors : #3E00B0FF & #4528FFFF
 _textureColorAdjust : {
     _hue : -18
     _saturation : 2

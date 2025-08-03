@@ -5,6 +5,7 @@ _itemDescription : It's hard to comprehend how terrible the malformed skull is.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_39 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 14
@@ -45,7 +46,7 @@ _readonlyDamageRange : (11, 18)
 _weaponConditionSlot : None
 weaponTexture : scepter05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter05 (UnityEngine.Mesh)
-trailColors : 711EC3FF & AD1AB2FF
+trailColors : #711EC3FF & #AD1AB2FF
 _textureColorAdjust : {
     _hue : 119
     _saturation : 2

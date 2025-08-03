@@ -5,6 +5,7 @@ _itemDescription : An Iron Axehammer that's seen better days. It's a little bit 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_09 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4
@@ -45,7 +46,7 @@ _readonlyDamageRange : (13, 16)
 _weaponConditionSlot : None
 weaponTexture : axeHammer03Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_03 (UnityEngine.Mesh)
-trailColors : BEBEBE72 & A6A6A6FF
+trailColors : #BEBEBE72 & #A6A6A6FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1

@@ -5,6 +5,7 @@ _itemDescription : Cold to the touch...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_40 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : katar05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : katar_04 (UnityEngine.Mesh)
-trailColors : 25B2FFFF & 006CFFFF
+trailColors : #25B2FFFF & #006CFFFF
 _textureColorAdjust : {
     _hue : 195
     _saturation : 2

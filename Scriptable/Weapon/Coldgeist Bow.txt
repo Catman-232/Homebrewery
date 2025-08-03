@@ -5,6 +5,7 @@ _itemDescription : Ruination of the lost frozen souls.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_46 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bow05Tex_01 (UnityEngine.Texture2D)
 weaponMesh : bow_05_alt00 (UnityEngine.Mesh)
-trailColors : 47ABFFFF & 005DFFFF
+trailColors : #47ABFFFF & #005DFFFF
 _textureColorAdjust : {
     _hue : -18
     _saturation : 1.06

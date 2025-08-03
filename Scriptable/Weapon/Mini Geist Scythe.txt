@@ -5,6 +5,7 @@ _itemDescription : The only best friend of a Mini Geist. The blade emanates mena
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_07 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4
@@ -45,7 +46,7 @@ _readonlyDamageRange : (9, 15)
 _weaponConditionSlot : None
 weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_04 (UnityEngine.Mesh)
-trailColors : FF9C34A5 & E26700FF
+trailColors : #FF9C34A5 & #E26700FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1

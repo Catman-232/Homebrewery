@@ -5,6 +5,7 @@ _itemDescription : Twisted, infused with nether magic.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_43 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -45,7 +46,7 @@ _readonlyDamageRange : (12, 18)
 _weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05_alt00 (UnityEngine.Mesh)
-trailColors : 7E1FB0FF & 5F298EFF
+trailColors : #7E1FB0FF & #5F298EFF
 _textureColorAdjust : {
     _hue : -284
     _saturation : 2

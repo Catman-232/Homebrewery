@@ -5,6 +5,7 @@ _itemDescription : The bones holding this bow together seem fresh.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_32 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (5, 14)
 _weaponConditionSlot : None
 weaponTexture : bow02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : bow_02 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & FF0000FF
+trailColors : #FFFFFFFF & #FF0000FF
 _textureColorAdjust : {
     _hue : 70
     _saturation : 2

@@ -5,6 +5,7 @@ _itemDescription : The blade of Wind Golems...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_78 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 24
@@ -45,7 +46,7 @@ _readonlyDamageRange : (28, 40)
 _weaponConditionSlot : None
 weaponTexture : blade08_tex00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade08 (UnityEngine.Mesh)
-trailColors : ABFF5DFF & 81D638FF
+trailColors : #ABFF5DFF & #81D638FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.45

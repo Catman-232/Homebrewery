@@ -5,6 +5,7 @@ _itemDescription : Shreds through the wailing souls.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_37 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -45,7 +46,7 @@ _readonlyDamageRange : (12, 17)
 _weaponConditionSlot : None
 weaponTexture : katar05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : katar_04 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & 959595FF
+trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

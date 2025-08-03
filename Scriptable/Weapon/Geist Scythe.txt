@@ -5,6 +5,7 @@ _itemDescription : The souls of the damned resonate within the blade.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_28 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (12, 22)
 _weaponConditionSlot : None
 weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
 weaponMesh : _geistScythe_big (UnityEngine.Mesh)
-trailColors : 34D6FFA5 & E26700FF
+trailColors : #34D6FFA5 & #E26700FF
 _textureColorAdjust : {
     _hue : -200
     _saturation : 2

@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_55 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -45,7 +46,7 @@ _readonlyDamageRange : (11, 21)
 _weaponConditionSlot : None
 weaponTexture : polearm02Tex_03 (UnityEngine.Texture2D)
 weaponMesh : polearm_02_alt01 (UnityEngine.Mesh)
-trailColors : FFFFFFA3 & 8C8C8C84
+trailColors : #FFFFFFA3 & #8C8C8C84
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.55

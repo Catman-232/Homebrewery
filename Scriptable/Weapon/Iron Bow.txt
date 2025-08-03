@@ -5,6 +5,7 @@ _itemDescription :
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_51 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (5, 10)
 _weaponConditionSlot : None
 weaponTexture : bow01Tex_02 (UnityEngine.Texture2D)
 weaponMesh : bow_01 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & FF0000FF
+trailColors : #FFFFFFFF & #FF0000FF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

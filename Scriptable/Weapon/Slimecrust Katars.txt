@@ -5,6 +5,7 @@ _itemDescription : Iron Katars that have been dulled by slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_21 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2
@@ -45,7 +46,7 @@ _readonlyDamageRange : (2, 5)
 _weaponConditionSlot : None
 weaponTexture : katar01Tex_02 (UnityEngine.Texture2D)
 weaponMesh : katar_01 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & 959595FF
+trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
     _hue : 6
     _saturation : 2

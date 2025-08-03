@@ -5,6 +5,7 @@ _itemDescription : Poke and prod the undead into submission.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_30 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 8
@@ -45,7 +46,7 @@ _readonlyDamageRange : (6, 12)
 _weaponConditionSlot : None
 weaponTexture : polearm02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : polearm_02 (UnityEngine.Mesh)
-trailColors : FFFFFFA3 & 8C8C8C84
+trailColors : #FFFFFFA3 & #8C8C8C84
 _textureColorAdjust : {
     _hue : 51
     _saturation : 1.277

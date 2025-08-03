@@ -5,6 +5,7 @@ _itemDescription : The tip of the spear drips with blood endlessly.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_69 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : polearm04Tex_01 (UnityEngine.Texture2D)
 weaponMesh : polearm_04_alt00 (UnityEngine.Mesh)
-trailColors : FF5858A3 & E2000084
+trailColors : #FF5858A3 & #E2000084
 _textureColorAdjust : {
     _hue : 1
     _saturation : 2

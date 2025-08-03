@@ -5,6 +5,7 @@ _itemDescription : Warmth eminates from the bright white gems.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_05 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2
@@ -45,7 +46,7 @@ _readonlyDamageRange : (3, 12)
 _weaponConditionSlot : None
 weaponTexture : scepter02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter02 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & ABAAAAFF
+trailColors : #FFFFFFFF & #ABAAAAFF
 _textureColorAdjust : {
     _hue : 1
     _saturation : 1

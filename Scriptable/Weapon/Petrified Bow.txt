@@ -5,6 +5,7 @@ _itemDescription : Lost souls of the damned are welded to this bow.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_35 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : bow05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_05 (UnityEngine.Mesh)
-trailColors : 8914C8FF & FF0000FF
+trailColors : #8914C8FF & #FF0000FF
 _textureColorAdjust : {
     _hue : 25
     _saturation : 1.55

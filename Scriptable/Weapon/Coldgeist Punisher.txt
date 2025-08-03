@@ -5,6 +5,7 @@ _itemDescription : The blade of the axe is forever frigid.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_41 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : axeHammer04Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_04 (UnityEngine.Mesh)
-trailColors : 00A4F3FF & 286EFFFF
+trailColors : #00A4F3FF & #286EFFFF
 _textureColorAdjust : {
     _hue : -27
     _saturation : 2

@@ -5,6 +5,7 @@ _itemDescription : Whispers of the dead are sealed in this sword.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_27 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
@@ -45,7 +46,7 @@ _readonlyDamageRange : (7, 13)
 _weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & A0B7AFFF
+trailColors : #FFFFFFFF & #A0B7AFFF
 _textureColorAdjust : {
     _hue : 152
     _saturation : 2

@@ -5,6 +5,7 @@ _itemDescription : Forged from corrupted frost, formally used by ancient sages.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_45 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -50,7 +51,7 @@ _weaponConditionSlot : {
 }
 weaponTexture : blade06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade06 (UnityEngine.Mesh)
-trailColors : 3BCFFFFF & 266BB9FF
+trailColors : #3BCFFFFF & #266BB9FF
 _textureColorAdjust : {
     _hue : -8
     _saturation : 1.51

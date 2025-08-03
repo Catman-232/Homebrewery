@@ -5,6 +5,7 @@ _itemDescription : Looks to have a worn out blade, but still sharp enough for it
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _wepIco_03 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4
@@ -45,7 +46,7 @@ _readonlyDamageRange : (5, 12)
 _weaponConditionSlot : None
 weaponTexture : _sword02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _mediumMelee_sword02 (UnityEngine.Mesh)
-trailColors : FFFFFFFF & A8A8A8FF
+trailColors : #FFFFFFFF & #A8A8A8FF
 _textureColorAdjust : {
     _hue : 0
     _saturation : 1.23
