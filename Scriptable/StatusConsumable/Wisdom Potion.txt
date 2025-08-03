@@ -5,6 +5,7 @@ _itemDescription : Intriguing.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_32 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 60

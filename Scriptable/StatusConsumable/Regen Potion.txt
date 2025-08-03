@@ -5,6 +5,7 @@ _itemDescription : Rejuvinating.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_31 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 60

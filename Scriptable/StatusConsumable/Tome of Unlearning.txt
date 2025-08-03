@@ -5,6 +5,7 @@ _itemDescription : Reading this tome unlearns all your Skills, reimbursing all y
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _conIco_05 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 2.5

@@ -5,6 +5,7 @@ _itemDescription : A little shot that can get you going!
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_34 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 60

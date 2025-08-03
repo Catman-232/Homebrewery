@@ -5,6 +5,7 @@ _itemDescription : A delicious treat amongst Sanctum.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_cake01 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 7

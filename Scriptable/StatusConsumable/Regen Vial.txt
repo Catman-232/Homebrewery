@@ -5,6 +5,7 @@ _itemDescription : Just enough to feel your wounds slowly heal.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_36 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 60

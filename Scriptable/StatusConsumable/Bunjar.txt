@@ -5,6 +5,7 @@ _itemDescription : A big healing salve.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_21 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 7

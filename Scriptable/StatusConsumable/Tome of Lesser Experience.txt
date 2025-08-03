@@ -5,6 +5,7 @@ _itemDescription : The knowledge this Tome provides gives a handful of experienc
 _destroyOnDrop : False
 _maxStackAmount : 5
 _itemIcon : _conIco_06 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 0

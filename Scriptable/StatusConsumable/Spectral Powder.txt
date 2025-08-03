@@ -5,6 +5,7 @@ _itemDescription : Potent mixture of grounded ghostly substance. Vanishes the us
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_27 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 15

@@ -5,6 +5,7 @@ _itemDescription : Liquid courage.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _conIco_30 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 60

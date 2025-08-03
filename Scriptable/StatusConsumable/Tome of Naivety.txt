@@ -5,6 +5,7 @@ _itemDescription : Reading this tome resets all of your Attributes, reimbursing 
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _conIco_08 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 2.5

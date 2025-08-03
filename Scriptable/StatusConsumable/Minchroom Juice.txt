@@ -5,6 +5,7 @@ _itemDescription : Tasty Minchroom blood.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_27 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 7
