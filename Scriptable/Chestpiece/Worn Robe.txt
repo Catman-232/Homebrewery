@@ -5,6 +5,7 @@ _itemDescription : Definitely been worn many times.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_16 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2

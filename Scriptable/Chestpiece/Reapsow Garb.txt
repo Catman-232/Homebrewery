@@ -5,6 +5,7 @@ _itemDescription : Fear the hidden.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_03 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12

@@ -5,6 +5,7 @@ _itemDescription : Worn by undead assassins.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_07 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16

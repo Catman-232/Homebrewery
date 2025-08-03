@@ -5,6 +5,7 @@ _itemDescription : Devout mystic sages of ancient times worn these in ceremonies
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_27 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 18

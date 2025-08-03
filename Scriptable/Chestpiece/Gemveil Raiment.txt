@@ -5,6 +5,7 @@ _itemDescription : Dazzling gems flicker on this loose but defensive chestpiece.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_25 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16

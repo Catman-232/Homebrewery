@@ -5,6 +5,7 @@ _itemDescription : Hail the Lord!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_02 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12

@@ -5,6 +5,7 @@ _itemDescription : Cracked and ravaged by slime.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_09 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 2

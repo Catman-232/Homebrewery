@@ -5,6 +5,7 @@ _itemDescription : Common clothing worn by Imps.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestpieceIco_imp01 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1

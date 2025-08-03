@@ -5,6 +5,7 @@ _itemDescription : So tired...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_18 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 11

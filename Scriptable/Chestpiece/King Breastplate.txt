@@ -5,6 +5,7 @@ _itemDescription : Bend the knee, to the King!
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_06 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 16

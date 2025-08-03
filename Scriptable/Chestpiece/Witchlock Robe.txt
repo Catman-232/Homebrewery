@@ -5,6 +5,7 @@ _itemDescription : Robe of the elite occult.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_01 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12

@@ -5,6 +5,7 @@ _itemDescription : Tis the season...
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _chestIco_36 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
 
 - ScriptableEquipment -
 _equipmentLevel : 1
