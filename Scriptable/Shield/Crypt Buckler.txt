@@ -5,6 +5,7 @@ _itemDescription : Used by ancient warriors of the past.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_03 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 4

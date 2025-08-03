@@ -5,6 +5,7 @@ _itemDescription : An emblem of an ancient sarcophogus.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_06 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6

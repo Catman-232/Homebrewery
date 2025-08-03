@@ -5,6 +5,7 @@ _itemDescription : Emblem of the twisted nether realm.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _shieldIco_07 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 14
