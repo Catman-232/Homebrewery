@@ -5,6 +5,7 @@ _itemDescription : Tears of a gem.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_11 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 22

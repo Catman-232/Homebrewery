@@ -5,6 +5,7 @@ _itemDescription : A long forgotten heirloom of Lord Zuulneruda.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_00 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 10

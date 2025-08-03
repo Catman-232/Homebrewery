@@ -5,6 +5,7 @@ _itemDescription : A design reminiscent of Angela Flux.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_12 (UnityEngine.Sprite)
+_itemRarity : Rare
 
 - ScriptableEquipment -
 _equipmentLevel : 12

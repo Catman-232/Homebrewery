@@ -5,6 +5,7 @@ _itemDescription : You feel strong like a golem wearing this.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_08 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16

@@ -5,6 +5,7 @@ _itemDescription : Evasive and light.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_06 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 16

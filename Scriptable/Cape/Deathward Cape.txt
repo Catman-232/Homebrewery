@@ -5,6 +5,7 @@ _itemDescription : You can hear the laughter from the skull motif.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _capIco_02 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 16
@@ -36,9 +37,7 @@ _statModifierCost : {
 
 - ScriptableArmor -
 _conditionResistances : [
-
     'Condition Resistance: Curse' ~ 0.018
-
 ]
 _canDyeArmor : True
 _colorAdjustParams : {
