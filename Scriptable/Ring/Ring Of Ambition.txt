@@ -5,6 +5,7 @@ _itemDescription : Something strikes you about this ring.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring04 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1

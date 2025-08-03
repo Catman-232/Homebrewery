@@ -5,6 +5,7 @@ _itemDescription : The pearls chime, providing a peace of mind and clarity.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring10 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 14

@@ -5,6 +5,7 @@ _itemDescription : It was once possible to get this. If you have it, you must've
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : equipCell_filter_ring (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 1

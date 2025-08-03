@@ -5,6 +5,7 @@ _itemDescription : Whispers of Zuulneruda's memories echo and reverberate inside
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring08 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 12

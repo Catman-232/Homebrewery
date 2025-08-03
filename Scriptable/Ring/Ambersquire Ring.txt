@@ -5,6 +5,7 @@ _itemDescription : Tough as nails.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring05 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6

@@ -5,6 +5,7 @@ _itemDescription : Slither through and past the doors.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring09 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 14

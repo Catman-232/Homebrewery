@@ -5,6 +5,7 @@ _itemDescription : The emerald glistens even from afar.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring06 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6

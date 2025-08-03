@@ -5,6 +5,7 @@ _itemDescription : The gems glimmer much like the gems of a Colossus.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring14 (UnityEngine.Sprite)
+_itemRarity : Exotic
 
 - ScriptableEquipment -
 _equipmentLevel : 18

@@ -5,6 +5,7 @@ _itemDescription : Sounds of the ocean waves through your ears.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : icon_ring07 (UnityEngine.Sprite)
+_itemRarity : Common
 
 - ScriptableEquipment -
 _equipmentLevel : 6
