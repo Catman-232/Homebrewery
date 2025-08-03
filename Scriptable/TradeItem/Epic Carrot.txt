@@ -5,3 +5,4 @@ _itemDescription : A carrot that is... well, quite epic actually. The taste of i
 _destroyOnDrop : True
 _maxStackAmount : 1
 _itemIcon : _tradIco_61 (UnityEngine.Sprite)
+_itemRarity : Exotic

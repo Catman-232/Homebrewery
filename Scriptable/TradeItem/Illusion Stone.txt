@@ -5,3 +5,4 @@ _itemDescription : This magical stone can be used to change the appearance of th
 _destroyOnDrop : False
 _maxStackAmount : 20
 _itemIcon : _tradIco_18 (UnityEngine.Sprite)
+_itemRarity : Common

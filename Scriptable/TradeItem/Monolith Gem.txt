@@ -5,3 +5,4 @@ _itemDescription : A hefty, green gem from a Monolith. Perhaps it is mutated.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_36 (UnityEngine.Sprite)
+_itemRarity : Common

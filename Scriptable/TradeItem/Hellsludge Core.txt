@@ -5,3 +5,4 @@ _itemDescription : A chunk of a Hellsludge.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_33 (UnityEngine.Sprite)
+_itemRarity : Common

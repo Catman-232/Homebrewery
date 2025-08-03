@@ -5,3 +5,4 @@ _itemDescription : The spores can frostbite something. Could be good to keep a r
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_34 (UnityEngine.Sprite)
+_itemRarity : Common

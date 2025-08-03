@@ -5,3 +5,4 @@ _itemDescription : The heart of a Monolith. Dark green energy pulsates from with
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_35 (UnityEngine.Sprite)
+_itemRarity : Common

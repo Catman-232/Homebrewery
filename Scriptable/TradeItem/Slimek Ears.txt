@@ -5,3 +5,4 @@ _itemDescription : Even sharper than normal Slime ears.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_03 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -5,3 +5,4 @@ _itemDescription : A chunk of a Slimek.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_02 (UnityEngine.Sprite)
+_itemRarity : Common

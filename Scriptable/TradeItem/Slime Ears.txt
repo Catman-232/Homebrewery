@@ -5,3 +5,4 @@ _itemDescription : These are somehow sharp on the ends, which can actually hurt.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_01 (UnityEngine.Sprite)
+_itemRarity : Common

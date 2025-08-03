@@ -5,3 +5,4 @@ _itemDescription : The spores can set something on fire. Could be good to cook s
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_25 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -5,3 +5,4 @@ _itemDescription : The once functioning heart of a Golem. Quite heavy.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_17 (UnityEngine.Sprite)
+_itemRarity : Common

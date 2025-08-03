@@ -5,3 +5,4 @@ _itemDescription : Shaking the bell doesn't make any noise.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_11 (UnityEngine.Sprite)
+_itemRarity : Common

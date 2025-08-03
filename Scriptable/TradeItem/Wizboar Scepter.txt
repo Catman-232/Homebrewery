@@ -5,3 +5,4 @@ _itemDescription : Teeming with electricity. Too big of a weapon to use on your 
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_15 (UnityEngine.Sprite)
+_itemRarity : Common

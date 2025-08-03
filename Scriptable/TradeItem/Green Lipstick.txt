@@ -5,3 +5,4 @@ _itemDescription : Tastes like sour apple candy.
 _destroyOnDrop : False
 _maxStackAmount : 10
 _itemIcon : _tradIco_13 (UnityEngine.Sprite)
+_itemRarity : Common

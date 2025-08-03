@@ -5,3 +5,4 @@ _itemDescription : A chunk of a Slime.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_00 (UnityEngine.Sprite)
+_itemRarity : Common

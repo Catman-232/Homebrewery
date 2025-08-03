@@ -5,3 +5,4 @@ _itemDescription : The foot of a corrupted sage. The blood that drips from it qu
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_38 (UnityEngine.Sprite)
+_itemRarity : Common

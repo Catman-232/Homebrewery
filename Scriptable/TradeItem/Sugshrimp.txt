@@ -5,3 +5,4 @@ _itemDescription : A very common fish that isn't very tasty.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_45 (UnityEngine.Sprite)
+_itemRarity : Common

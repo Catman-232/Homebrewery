@@ -6,3 +6,4 @@ _itemDescription : Allows the holder to revive a fallen soul.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _conIco_07 (UnityEngine.Sprite)
+_itemRarity : Common

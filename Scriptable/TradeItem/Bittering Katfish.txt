@@ -5,3 +5,4 @@ _itemDescription : Just plain ugly and bitter.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_47 (UnityEngine.Sprite)
+_itemRarity : Common

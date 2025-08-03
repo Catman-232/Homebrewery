@@ -5,3 +5,4 @@ _itemDescription : The swirly pupil rotates if you look at it long enough.
 _destroyOnDrop : False
 _maxStackAmount : 30
 _itemIcon : _tradIco_06 (UnityEngine.Sprite)
+_itemRarity : Common

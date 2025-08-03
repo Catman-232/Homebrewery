@@ -5,3 +5,4 @@ _itemDescription : Bottled spectral ashes of a restless ghost.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_10 (UnityEngine.Sprite)
+_itemRarity : Common

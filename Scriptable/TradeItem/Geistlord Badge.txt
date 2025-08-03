@@ -5,3 +5,4 @@ _itemDescription : An unholy badge shaped like a tombstone, dropped from a Geist
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_57 (UnityEngine.Sprite)
+_itemRarity : Rare

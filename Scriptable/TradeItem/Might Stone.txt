@@ -5,3 +5,4 @@ _itemDescription : Has capabilities to change a weapon damage scale to strength.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_41 (UnityEngine.Sprite)
+_itemRarity : Common

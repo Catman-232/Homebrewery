@@ -5,3 +5,4 @@ _itemDescription : Ammunition for bows.
 _destroyOnDrop : False
 _maxStackAmount : 999
 _itemIcon : _tradIco_29 (UnityEngine.Sprite)
+_itemRarity : Common

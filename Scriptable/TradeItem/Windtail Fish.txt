@@ -5,3 +5,4 @@ _itemDescription : A bizarre fish that swims backwards.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_46 (UnityEngine.Sprite)
+_itemRarity : Common

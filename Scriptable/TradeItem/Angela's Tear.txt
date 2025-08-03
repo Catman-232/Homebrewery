@@ -5,3 +5,4 @@ _itemDescription : Instantly revives the holder if they die.
 _destroyOnDrop : False
 _maxStackAmount : 1
 _itemIcon : _tradIco_31 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -5,3 +5,4 @@ _itemDescription : A pair of ghostly nails. How fashionable.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_05 (UnityEngine.Sprite)
+_itemRarity : Common

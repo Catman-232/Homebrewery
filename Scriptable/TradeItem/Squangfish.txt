@@ -5,3 +5,4 @@ _itemDescription : It can breathe out of water...!?
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_55 (UnityEngine.Sprite)
+_itemRarity : Common

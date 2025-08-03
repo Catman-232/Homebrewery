@@ -5,3 +5,4 @@ _itemDescription : Extremely large and long ears. Unlike other slime ears, these
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_14 (UnityEngine.Sprite)
+_itemRarity : Common

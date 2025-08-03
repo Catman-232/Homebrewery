@@ -5,3 +5,4 @@ _itemDescription : A badge with a tint of corruption, dropped from a Colossus. C
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_59 (UnityEngine.Sprite)
+_itemRarity : Rare

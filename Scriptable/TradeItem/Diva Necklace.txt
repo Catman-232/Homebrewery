@@ -5,3 +5,4 @@ _itemDescription : Too big to wear, though quite valuable.
 _destroyOnDrop : False
 _maxStackAmount : 99
 _itemIcon : _tradIco_12 (UnityEngine.Sprite)
+_itemRarity : Common

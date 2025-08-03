@@ -5,3 +5,4 @@ _itemDescription : The inside is very hot, containing a burning blue flame that 
 _destroyOnDrop : False
 _maxStackAmount : 15
 _itemIcon : _tradIco_24 (UnityEngine.Sprite)
+_itemRarity : Common

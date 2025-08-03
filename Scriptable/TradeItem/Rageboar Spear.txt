@@ -5,3 +5,4 @@ _itemDescription : The bloodstain on this spear means deadly business.
 _destroyOnDrop : False
 _maxStackAmount : 30
 _itemIcon : _tradIco_44 (UnityEngine.Sprite)
+_itemRarity : Common
