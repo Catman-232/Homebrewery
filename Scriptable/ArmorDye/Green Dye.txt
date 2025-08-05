@@ -16,7 +16,7 @@ _unperishable : False
 - ScriptableArmorDye -
 _dyeParams : {
     _hue : 0
-    _saturation : 1
+    _saturation : 1.5
     _brightness : 0.08
     _contrast : 1
 }

@@ -1,22 +1,22 @@
 - ScriptableItem -
-name : DYE_Red Dye
-_itemName : Red Dye
-_itemDescription : A vial of red dye.
+name : DYE_Lime Dye
+_itemName : Lime Dye
+_itemDescription : A vial of lime dye.
 _destroyOnDrop : False
 _maxStackAmount : 1
-_itemIcon : _dyeIco_red (UnityEngine.Sprite)
+_itemIcon : _dyeIco_lime (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 1.5
-_consumableObject : _consumableEffect_redDye (UnityEngine.GameObject)
+_consumableObject : _consumableEffect_limeDye (UnityEngine.GameObject)
 _useOnlyInTown : False
 _unperishable : False
 
 - ScriptableArmorDye -
 _dyeParams : {
-    _hue : -107
-    _saturation : 2
+    _hue : 327
+    _saturation : 1.35
     _brightness : 0
     _contrast : 1
 }

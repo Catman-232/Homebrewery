@@ -1,0 +1,22 @@
+- ScriptableItem -
+name : DYE_White Dye
+_itemName : White Dye
+_itemDescription : A vial of white dye.
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_white (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_whiteDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : 0
+    _saturation : 0
+    _brightness : 0.2
+    _contrast : 2
+}

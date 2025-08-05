@@ -1,0 +1,22 @@
+- ScriptableItem -
+name : DYE_Brown Dye
+_itemName : Brown Dye
+_itemDescription : A vial of brown dye.
+_destroyOnDrop : False
+_maxStackAmount : 1
+_itemIcon : _dyeIco_brown (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableConsumable -
+_consumableCooldown : 1.5
+_consumableObject : _consumableEffect_brownDye (UnityEngine.GameObject)
+_useOnlyInTown : False
+_unperishable : False
+
+- ScriptableArmorDye -
+_dyeParams : {
+    _hue : -86
+    _saturation : 0.612
+    _brightness : -0.051
+    _contrast : 1.701
+}

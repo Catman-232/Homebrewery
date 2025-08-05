@@ -1,22 +1,22 @@
 - ScriptableItem -
-name : DYE_Red Dye
-_itemName : Red Dye
-_itemDescription : A vial of red dye.
+name : DYE_Pink Dye
+_itemName : Pink Dye
+_itemDescription : A vial of pink dye.
 _destroyOnDrop : False
 _maxStackAmount : 1
-_itemIcon : _dyeIco_red (UnityEngine.Sprite)
+_itemIcon : _dyeIco_pink (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableConsumable -
 _consumableCooldown : 1.5
-_consumableObject : _consumableEffect_redDye (UnityEngine.GameObject)
+_consumableObject : _consumableEffect_pinkDye (UnityEngine.GameObject)
 _useOnlyInTown : False
 _unperishable : False
 
 - ScriptableArmorDye -
 _dyeParams : {
-    _hue : -107
+    _hue : -132
     _saturation : 2
-    _brightness : 0
+    _brightness : 0.1
     _contrast : 1
 }
