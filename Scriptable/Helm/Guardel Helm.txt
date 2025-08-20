@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : bumphat_tex00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 100
+_blendHelmValue : 100
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : True

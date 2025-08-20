@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : halo04Tex_01 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 0
+_blendHelmValue : 0
 _useHelmHairDisplay : False
 _hideEars : False
 _hideMisc : False

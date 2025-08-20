@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : deathKnightHelmTex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 0
+_blendHelmValue : 0
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : True

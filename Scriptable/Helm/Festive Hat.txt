@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : dreamerHelmTex01 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 80.4
+_blendHelmValue : 80.4
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : True

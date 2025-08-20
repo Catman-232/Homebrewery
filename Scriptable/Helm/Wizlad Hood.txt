@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : hoodTex02 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 100
+_blendHelmValue : 100
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : False

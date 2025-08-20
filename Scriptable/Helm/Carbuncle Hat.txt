@@ -47,7 +47,7 @@ _colorAdjustParams : {
 _armorTexture : carbuncleHatTex_00 (UnityEngine.Texture2D)
 
 - ScriptableHelm -
-n_blendHelmValueame : 44.4
+_blendHelmValue : 44.4
 _useHelmHairDisplay : True
 _hideEars : False
 _hideMisc : False
