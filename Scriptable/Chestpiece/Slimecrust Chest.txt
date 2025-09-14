@@ -3,6 +3,7 @@ name : (lv-2) CHESTPIECE_Slimecrust Chest
 _itemName : Slimecrust Chest
 _itemDescription : Cracked and ravaged by slime.
 _destroyOnDrop : False
+_vendorCost : 12
 _maxStackAmount : 1
 _itemIcon : _chestIco_09 (UnityEngine.Sprite)
 _itemRarity : Common

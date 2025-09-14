@@ -3,6 +3,7 @@ name : TRADEITEM_Angela's Tear
 _itemName : Angela's Tear
 _itemDescription : Instantly revives the holder if they die.
 _destroyOnDrop : False
+_vendorCost : 3500
 _maxStackAmount : 1
 _itemIcon : _tradIco_31 (UnityEngine.Sprite)
 _itemRarity : Common

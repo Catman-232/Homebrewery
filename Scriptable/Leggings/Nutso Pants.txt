@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Nutso Pants
 _itemName : Nutso Pants
 _itemDescription : Common clothing worn by Changs.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _legIco_11 (UnityEngine.Sprite)
 _itemRarity : Common

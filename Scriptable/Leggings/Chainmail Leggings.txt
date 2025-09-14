@@ -3,6 +3,7 @@ name : (lv-12) LEGGINGS_Chainmail Leggings
 _itemName : Chainmail Leggings
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 380
 _maxStackAmount : 1
 _itemIcon : _legIco_17 (UnityEngine.Sprite)
 _itemRarity : Common

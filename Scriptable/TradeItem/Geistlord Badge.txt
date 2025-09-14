@@ -3,6 +3,7 @@ name : TRADEITEM_Geistlord Badge
 _itemName : Geistlord Badge
 _itemDescription : An unholy badge shaped like a tombstone, dropped from a Geistlord. Can be traded for elusive treasures.
 _destroyOnDrop : False
+_vendorCost : 0
 _maxStackAmount : 99
 _itemIcon : _tradIco_57 (UnityEngine.Sprite)
 _itemRarity : Rare

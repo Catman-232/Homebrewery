@@ -3,6 +3,7 @@ name : DYE_Brown Dye
 _itemName : Brown Dye
 _itemDescription : A vial of brown dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_brown (UnityEngine.Sprite)
 _itemRarity : Common

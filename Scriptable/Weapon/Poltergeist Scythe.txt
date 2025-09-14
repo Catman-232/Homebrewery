@@ -3,6 +3,7 @@ name : (lv-14) WEAPON_Poltergeist Scythe (Great Weapon, Strength)
 _itemName : Poltergeist Scythe
 _itemDescription : The highest tier of a Geist's scythe.
 _destroyOnDrop : False
+_vendorCost : 200
 _maxStackAmount : 1
 _itemIcon : _wepIco_67 (UnityEngine.Sprite)
 _itemRarity : Rare

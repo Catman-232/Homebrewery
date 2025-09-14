@@ -3,6 +3,7 @@ name : (lv-24) LEGGINGS_Fender Leggings
 _itemName : Fender Leggings
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 2300
 _maxStackAmount : 1
 _itemIcon : _legIco_27 (UnityEngine.Sprite)
 _itemRarity : Rare

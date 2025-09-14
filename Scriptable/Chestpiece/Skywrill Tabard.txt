@@ -3,6 +3,7 @@ name : (lv-12) CHESTPIECE_Skywrill Tabard
 _itemName : Skywrill Tabard
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 98
 _maxStackAmount : 1
 _itemIcon : _chestIco_38 (UnityEngine.Sprite)
 _itemRarity : Common

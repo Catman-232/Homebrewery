@@ -3,6 +3,7 @@ name : (lv-6) SHIELD_Demicrypt Buckler
 _itemName : Demicrypt Buckler
 _itemDescription : An emblem of an ancient sarcophogus.
 _destroyOnDrop : False
+_vendorCost : 60
 _maxStackAmount : 1
 _itemIcon : _shieldIco_06 (UnityEngine.Sprite)
 _itemRarity : Common

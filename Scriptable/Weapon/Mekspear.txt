@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Mekspear (Polearm, Strength)
 _itemName : Mekspear
 _itemDescription : A usable partisan with a Mekboar's spear attached to it.
 _destroyOnDrop : False
+_vendorCost : 475
 _maxStackAmount : 1
 _itemIcon : _wepIco_65 (UnityEngine.Sprite)
 _itemRarity : Common

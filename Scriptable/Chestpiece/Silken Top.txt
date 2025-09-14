@@ -3,6 +3,7 @@ name : (lv-1) CHESTPIECE_Silken Top
 _itemName : Silken Top
 _itemDescription : Ancient silk cloth. This could've been around since the very beginning of time...
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _silkenTop (UnityEngine.Sprite)
 _itemRarity : Cosmetic

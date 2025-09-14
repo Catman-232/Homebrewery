@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Minchroom Juice
 _itemName : Minchroom Juice
 _itemDescription : Tasty Minchroom blood.
 _destroyOnDrop : False
+_vendorCost : 25
 _maxStackAmount : 99
 _itemIcon : _tradIco_27 (UnityEngine.Sprite)
 _itemRarity : Common

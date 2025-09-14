@@ -3,6 +3,7 @@ name : (lv-14) WEAPON_Necroroyal Bow (Bow, Dexterity)
 _itemName : Necroroyal Bow
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 379
 _maxStackAmount : 1
 _itemIcon : _wepIco_44 (UnityEngine.Sprite)
 _itemRarity : Common

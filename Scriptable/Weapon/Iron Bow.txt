@@ -3,6 +3,7 @@ name : (lv-6) WEAPON_Iron Bow (Bow, Dexterity)
 _itemName : Iron Bow
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 85
 _maxStackAmount : 1
 _itemIcon : _wepIco_51 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-18) RING_Earthwoken Ring
 _itemName : Earthwoken Ring
 _itemDescription : The gems glimmer much like the gems of a Colossus.
 _destroyOnDrop : False
+_vendorCost : 1450
 _maxStackAmount : 1
 _itemIcon : icon_ring14 (UnityEngine.Sprite)
 _itemRarity : Exotic

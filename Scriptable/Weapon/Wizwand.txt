@@ -3,6 +3,7 @@ name : (lv-12) WEAPON_Wizwand (Scepter, Mind)
 _itemName : Wizwand
 _itemDescription : Electrifying.
 _destroyOnDrop : False
+_vendorCost : 568
 _maxStackAmount : 1
 _itemIcon : _wepIco_66 (UnityEngine.Sprite)
 _itemRarity : Common

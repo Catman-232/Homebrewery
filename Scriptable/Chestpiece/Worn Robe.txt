@@ -3,6 +3,7 @@ name : (lv-2) CHESTPIECE_Worn Robe
 _itemName : Worn Robe
 _itemDescription : Definitely been worn many times.
 _destroyOnDrop : False
+_vendorCost : 12
 _maxStackAmount : 1
 _itemIcon : _chestIco_16 (UnityEngine.Sprite)
 _itemRarity : Common

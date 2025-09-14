@@ -3,6 +3,7 @@ name : (lv-14) HELM_Nethercrypt Halo
 _itemName : Nethercrypt Halo
 _itemDescription : Banished crown from the nether realms.
 _destroyOnDrop : False
+_vendorCost : 450
 _maxStackAmount : 1
 _itemIcon : _helmIco_14 (UnityEngine.Sprite)
 _itemRarity : Common

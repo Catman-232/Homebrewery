@@ -3,6 +3,7 @@ name : (lv-24) HELM_Wizlad Hood
 _itemName : Wizlad Hood
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1480
 _maxStackAmount : 1
 _itemIcon : _helmIco_29 (UnityEngine.Sprite)
 _itemRarity : Rare

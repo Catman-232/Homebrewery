@@ -3,6 +3,7 @@ name : (lv-22) HELM_Guardel Helm
 _itemName : Guardel Helm
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 850
 _maxStackAmount : 1
 _itemIcon : _helmIco_28 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-12) LEGGINGS_Lord Greaves
 _itemName : Lord Greaves
 _itemDescription : Your pants, sire?
 _destroyOnDrop : False
+_vendorCost : 800
 _maxStackAmount : 1
 _itemIcon : _legIco_01 (UnityEngine.Sprite)
 _itemRarity : Rare

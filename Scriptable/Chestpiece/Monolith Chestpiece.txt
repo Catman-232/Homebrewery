@@ -3,6 +3,7 @@ name : (lv-18) CHESTPIECE_Monolith Chestpiece
 _itemName : Monolith Chestpiece
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1350
 _maxStackAmount : 1
 _itemIcon : _chestIco_33 (UnityEngine.Sprite)
 _itemRarity : Rare

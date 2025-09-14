@@ -3,6 +3,7 @@ name : TRADEITEM_Mouth Eye
 _itemName : Mouth Eye
 _itemDescription : Squishy. Though, it can't be popped.
 _destroyOnDrop : False
+_vendorCost : 12
 _maxStackAmount : 45
 _itemIcon : _tradIco_19 (UnityEngine.Sprite)
 _itemRarity : Common

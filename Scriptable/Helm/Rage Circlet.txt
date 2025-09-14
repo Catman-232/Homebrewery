@@ -3,6 +3,7 @@ name : (lv-12) HELM_Rage Circlet
 _itemName : Rage Circlet
 _itemDescription : Fervor of angst and envy.
 _destroyOnDrop : False
+_vendorCost : 250
 _maxStackAmount : 1
 _itemIcon : _helmIco_10 (UnityEngine.Sprite)
 _itemRarity : Common

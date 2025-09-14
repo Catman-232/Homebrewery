@@ -3,6 +3,7 @@ name : TRADEITEM_Slime Ears
 _itemName : Slime Ears
 _itemDescription : These are somehow sharp on the ends, which can actually hurt.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 99
 _itemIcon : _tradIco_01 (UnityEngine.Sprite)
 _itemRarity : Common

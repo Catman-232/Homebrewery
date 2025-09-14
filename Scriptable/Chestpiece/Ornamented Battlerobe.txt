@@ -3,6 +3,7 @@ name : (lv-14) CHESTPIECE_Ornamented Battlerobe
 _itemName : Ornamented Battlerobe
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 490
 _maxStackAmount : 1
 _itemIcon : _chestIco_19 (UnityEngine.Sprite)
 _itemRarity : Common

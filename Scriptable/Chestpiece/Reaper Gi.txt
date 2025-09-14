@@ -3,6 +3,7 @@ name : (lv-16) CHESTPIECE_Reaper Gi
 _itemName : Reaper Gi
 _itemDescription : Worn by undead assassins.
 _destroyOnDrop : False
+_vendorCost : 1200
 _maxStackAmount : 1
 _itemIcon : _chestIco_07 (UnityEngine.Sprite)
 _itemRarity : Rare

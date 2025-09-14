@@ -3,6 +3,7 @@ name : TRADEITEM_Windtail Fish
 _itemName : Windtail Fish
 _itemDescription : A bizarre fish that swims backwards.
 _destroyOnDrop : False
+_vendorCost : 7
 _maxStackAmount : 99
 _itemIcon : _tradIco_46 (UnityEngine.Sprite)
 _itemRarity : Common

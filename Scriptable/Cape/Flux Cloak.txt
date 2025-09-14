@@ -3,6 +3,7 @@ name : (lv-12) CAPE_Flux Cloak
 _itemName : Flux Cloak
 _itemDescription : A design reminiscent of Angela Flux.
 _destroyOnDrop : False
+_vendorCost : 850
 _maxStackAmount : 1
 _itemIcon : _capIco_12 (UnityEngine.Sprite)
 _itemRarity : Rare

@@ -3,6 +3,7 @@ name : (lv-16) WEAPON_Coldgeist Blade (Sword, Strength)
 _itemName : Coldgeist Blade
 _itemDescription : Forged from corrupted frost, formally used by ancient sages.
 _destroyOnDrop : False
+_vendorCost : 798
 _maxStackAmount : 1
 _itemIcon : _wepIco_45 (UnityEngine.Sprite)
 _itemRarity : Rare

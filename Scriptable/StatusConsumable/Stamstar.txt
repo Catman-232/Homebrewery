@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Stamstar
 _itemName : Stamstar
 _itemDescription : Clenching this star gives a sudden boost of energy.
 _destroyOnDrop : False
+_vendorCost : 150
 _maxStackAmount : 99
 _itemIcon : _conIco_26 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : DYE_Red Dye
 _itemName : Red Dye
 _itemDescription : A vial of red dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_red (UnityEngine.Sprite)
 _itemRarity : Common

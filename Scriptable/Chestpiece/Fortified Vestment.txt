@@ -3,6 +3,7 @@ name : (lv-14) CHESTPIECE_Fortified Vestment
 _itemName : Fortified Vestment
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 760
 _maxStackAmount : 1
 _itemIcon : _chestIco_30 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-6) WEAPON_Demicrypt Blade (Sword, Strength)
 _itemName : Demicrypt Blade
 _itemDescription : Whispers of the dead are sealed in this sword.
 _destroyOnDrop : False
+_vendorCost : 50
 _maxStackAmount : 1
 _itemIcon : _wepIco_27 (UnityEngine.Sprite)
 _itemRarity : Common

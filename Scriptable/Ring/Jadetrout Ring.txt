@@ -3,6 +3,7 @@ name : (lv-16) RING_Jadetrout Ring
 _itemName : Jadetrout Ring
 _itemDescription : The tail of the fish on this ring moves rapidly.
 _destroyOnDrop : False
+_vendorCost : 815
 _maxStackAmount : 1
 _itemIcon : icon_ring13 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : TRADEITEM_Slimek Core
 _itemName : Slimek Core
 _itemDescription : A chunk of a Slimek.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 99
 _itemIcon : _tradIco_02 (UnityEngine.Sprite)
 _itemRarity : Common

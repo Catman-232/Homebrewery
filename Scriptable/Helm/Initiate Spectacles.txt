@@ -3,6 +3,7 @@ name : (lv-4) HELM_Initiate Spectacles
 _itemName : Initiate Spectacles
 _itemDescription : Used to read.
 _destroyOnDrop : False
+_vendorCost : 15
 _maxStackAmount : 1
 _itemIcon : _helmIco_02 (UnityEngine.Sprite)
 _itemRarity : Common

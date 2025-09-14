@@ -3,6 +3,7 @@ name : (lv-16) RING_Valor Ring
 _itemName : Valor Ring
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1280
 _maxStackAmount : 1
 _itemIcon : icon_ring02 (UnityEngine.Sprite)
 _itemRarity : Rare

@@ -3,6 +3,7 @@ name : DYE_Pink Dye
 _itemName : Pink Dye
 _itemDescription : A vial of pink dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_pink (UnityEngine.Sprite)
 _itemRarity : Common

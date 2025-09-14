@@ -3,6 +3,7 @@ name : (lv-1) CHESTPIECE_Sagecloth Top
 _itemName : Sagecloth Top
 _itemDescription : Common clothing worn by Kubolds.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _leggingIco_kubold01 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-24) LEGGINGS_Jadewail Trousers
 _itemName : Jadewail Trousers
 _itemDescription : Wailing jades, glistening in the night...
 _destroyOnDrop : False
+_vendorCost : 1268
 _maxStackAmount : 1
 _itemIcon : _legIco_26 (UnityEngine.Sprite)
 _itemRarity : Common

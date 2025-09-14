@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Cryptcall Bell (Magic Bell, Mind)
 _itemName : Cryptcall Bell
 _itemDescription : The bell tolls for the dead.
 _destroyOnDrop : False
+_vendorCost : 62
 _maxStackAmount : 1
 _itemIcon : _wepIco_29 (UnityEngine.Sprite)
 _itemRarity : Common

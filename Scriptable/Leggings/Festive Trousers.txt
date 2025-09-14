@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Festive Trousers
 _itemName : Festive Trousers
 _itemDescription : Merry pantsmas!
 _destroyOnDrop : False
+_vendorCost : 85
 _maxStackAmount : 1
 _itemIcon : _legIco_24 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

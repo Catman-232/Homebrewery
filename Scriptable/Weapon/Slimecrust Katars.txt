@@ -3,6 +3,7 @@ name : (lv-2) WEAPON_Slimecrust Katars (Fist Weapons, Dexterity)
 _itemName : Slimecrust Katars
 _itemDescription : Iron Katars that have been dulled by slime.
 _destroyOnDrop : False
+_vendorCost : 8
 _maxStackAmount : 1
 _itemIcon : _wepIco_21 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-22) LEGGINGS_Gemveil Leggings
 _itemName : Gemveil Leggings
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1240
 _maxStackAmount : 1
 _itemIcon : _legIco_25 (UnityEngine.Sprite)
 _itemRarity : Common

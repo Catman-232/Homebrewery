@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Bunpot
 _itemName : Bunpot
 _itemDescription : A small healing salve.
 _destroyOnDrop : False
+_vendorCost : 15
 _maxStackAmount : 99
 _itemIcon : _conIco_20 (UnityEngine.Sprite)
 _itemRarity : Common

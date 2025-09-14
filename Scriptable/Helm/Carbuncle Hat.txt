@@ -3,6 +3,7 @@ name : (lv-16) HELM_Carbuncle Hat
 _itemName : Carbuncle Hat
 _itemDescription : Hopefully nobody confuses you with a carbuncle wearing this...
 _destroyOnDrop : False
+_vendorCost : 890
 _maxStackAmount : 1
 _itemIcon : _helmIco_25 (UnityEngine.Sprite)
 _itemRarity : Rare

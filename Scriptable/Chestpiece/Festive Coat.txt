@@ -3,6 +3,7 @@ name : (lv-1) CHESTPIECE_Festive Coat
 _itemName : Festive Coat
 _itemDescription : Tis the season...
 _destroyOnDrop : False
+_vendorCost : 100
 _maxStackAmount : 1
 _itemIcon : _chestIco_36 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

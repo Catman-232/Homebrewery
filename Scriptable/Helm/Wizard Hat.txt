@@ -3,6 +3,7 @@ name : (lv-1) HELM_Wizard Hat
 _itemName : Wizard Hat
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 495
 _maxStackAmount : 1
 _itemIcon : _helmIco_16 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

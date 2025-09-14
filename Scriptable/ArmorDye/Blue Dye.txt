@@ -3,6 +3,7 @@ name : DYE_Blue Dye
 _itemName : Blue Dye
 _itemDescription : A vial of blue dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_blue (UnityEngine.Sprite)
 _itemRarity : Common

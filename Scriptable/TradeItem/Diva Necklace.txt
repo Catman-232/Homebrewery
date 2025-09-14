@@ -3,6 +3,7 @@ name : TRADEITEM_Diva Necklace
 _itemName : Diva Necklace
 _itemDescription : Too big to wear, though quite valuable.
 _destroyOnDrop : False
+_vendorCost : 120
 _maxStackAmount : 99
 _itemIcon : _tradIco_12 (UnityEngine.Sprite)
 _itemRarity : Common

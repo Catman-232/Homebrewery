@@ -3,6 +3,7 @@ name : (lv-4) LEGGINGS_Slimek Leggings
 _itemName : Slimek Leggings
 _itemDescription : Drenched in Slimek slime.
 _destroyOnDrop : False
+_vendorCost : 45
 _maxStackAmount : 1
 _itemIcon : _legIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

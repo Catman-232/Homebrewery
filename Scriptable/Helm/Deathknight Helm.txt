@@ -3,6 +3,7 @@ name : (lv-24) HELM_Deathknight Helm
 _itemName : Deathknight Helm
 _itemDescription : Visions of death and decay.
 _destroyOnDrop : False
+_vendorCost : 2150
 _maxStackAmount : 1
 _itemIcon : _helmIco_26 (UnityEngine.Sprite)
 _itemRarity : Rare

@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Tome of Unlearning
 _itemName : Tome of Unlearning
 _itemDescription : Reading this tome unlearns all your Skills, reimbursing all your spent Skill Points. <color=lime>Can only be used in a Safe Zone.</color>
 _destroyOnDrop : False
+_vendorCost : 1200
 _maxStackAmount : 1
 _itemIcon : _conIco_05 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -4,6 +4,7 @@ _itemName : Soul Pearl
 _itemDescription : Allows the holder to revive a fallen soul.
 <color=cyan>To revive someone, press the interact key when nearby them.</color>
 _destroyOnDrop : False
+_vendorCost : 3500
 _maxStackAmount : 1
 _itemIcon : _conIco_07 (UnityEngine.Sprite)
 _itemRarity : Common

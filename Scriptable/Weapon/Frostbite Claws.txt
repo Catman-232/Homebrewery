@@ -3,6 +3,7 @@ name : (lv-16) WEAPON_Frostbite Claws (Fist Weapons, Dexterity)
 _itemName : Frostbite Claws
 _itemDescription : Cold to the touch...
 _destroyOnDrop : False
+_vendorCost : 800
 _maxStackAmount : 1
 _itemIcon : _wepIco_40 (UnityEngine.Sprite)
 _itemRarity : Rare

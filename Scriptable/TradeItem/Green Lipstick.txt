@@ -3,6 +3,7 @@ name : TRADEITEM_Green Lipstick
 _itemName : Green Lipstick
 _itemDescription : Tastes like sour apple candy.
 _destroyOnDrop : False
+_vendorCost : 45
 _maxStackAmount : 10
 _itemIcon : _tradIco_13 (UnityEngine.Sprite)
 _itemRarity : Common

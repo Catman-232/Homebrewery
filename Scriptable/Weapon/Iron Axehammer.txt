@@ -3,6 +3,7 @@ name : (lv-6) WEAPON_Iron Axehammer (Hammer, Strength)
 _itemName : Iron Axehammer
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 150
 _maxStackAmount : 1
 _itemIcon : _wepIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-16) HELM_Knightguard Halo
 _itemName : Knightguard Halo
 _itemDescription : Visions of might and prowess.
 _destroyOnDrop : False
+_vendorCost : 1150
 _maxStackAmount : 1
 _itemIcon : _helmIco_18 (UnityEngine.Sprite)
 _itemRarity : Common

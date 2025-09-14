@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Bunjar
 _itemName : Bunjar
 _itemDescription : A big healing salve.
 _destroyOnDrop : False
+_vendorCost : 50
 _maxStackAmount : 99
 _itemIcon : _conIco_21 (UnityEngine.Sprite)
 _itemRarity : Common

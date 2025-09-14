@@ -3,6 +3,7 @@ name : (lv-1) WEAPON_Wood Sword (Sword, Strength)
 _itemName : Wood Sword
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _wepIco_woodSword (UnityEngine.Sprite)
 _itemRarity : Common

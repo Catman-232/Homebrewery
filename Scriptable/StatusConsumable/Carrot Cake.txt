@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Carrot Cake
 _itemName : Carrot Cake
 _itemDescription : A delicious treat amongst Sanctum.
 _destroyOnDrop : False
+_vendorCost : 60
 _maxStackAmount : 99
 _itemIcon : _conIco_cake01 (UnityEngine.Sprite)
 _itemRarity : Common

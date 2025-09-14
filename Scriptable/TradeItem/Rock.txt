@@ -3,6 +3,7 @@ name : TRADEITEM_Rock
 _itemName : Rock
 _itemDescription : Just an ordinary rock. Could be tossed at enemies.
 _destroyOnDrop : False
+_vendorCost : 3
 _maxStackAmount : 99
 _itemIcon : _tradIco_04 (UnityEngine.Sprite)
 _itemRarity : Common

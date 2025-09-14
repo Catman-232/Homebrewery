@@ -3,6 +3,7 @@ name : (lv-16) CHESTPIECE_Carbuncle Robe
 _itemName : Carbuncle Robe
 _itemDescription : The patterns on the cloth make an audible hum if you listen closely.
 _destroyOnDrop : False
+_vendorCost : 763
 _maxStackAmount : 1
 _itemIcon : _chestIco_24 (UnityEngine.Sprite)
 _itemRarity : Common

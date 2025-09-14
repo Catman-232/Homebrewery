@@ -3,6 +3,7 @@ name : (lv-16) WEAPON_Mithril Sword (Sword, Strength)
 _itemName : Mithril Sword
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 570
 _maxStackAmount : 1
 _itemIcon : _wepIco_52 (UnityEngine.Sprite)
 _itemRarity : Common

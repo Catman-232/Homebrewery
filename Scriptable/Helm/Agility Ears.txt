@@ -3,6 +3,7 @@ name : (lv-1) HELM_Agility Ears
 _itemName : Agility Ears
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 80
 _maxStackAmount : 1
 _itemIcon : _helmIco_30 (UnityEngine.Sprite)
 _itemRarity : Common

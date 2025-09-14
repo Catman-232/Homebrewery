@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Cryo Cane (Scepter, Mind)
 _itemName : Cryo Cane
 _itemDescription : Let them freeze.
 _destroyOnDrop : False
+_vendorCost : 263
 _maxStackAmount : 1
 _itemIcon : _wepIco_15 (UnityEngine.Sprite)
 _itemRarity : Common

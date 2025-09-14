@@ -3,6 +3,7 @@ name : (lv-12) WEAPON_Nethercrypt Blade (Sword, Strength)
 _itemName : Nethercrypt Blade
 _itemDescription : Twisted, infused with nether magic.
 _destroyOnDrop : False
+_vendorCost : 234
 _maxStackAmount : 1
 _itemIcon : _wepIco_43 (UnityEngine.Sprite)
 _itemRarity : Common

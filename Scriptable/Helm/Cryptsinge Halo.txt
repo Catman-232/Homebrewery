@@ -3,6 +3,7 @@ name : (lv-4) HELM_Cryptsinge Halo
 _itemName : Cryptsinge Halo
 _itemDescription : Rumination of the dead.
 _destroyOnDrop : False
+_vendorCost : 40
 _maxStackAmount : 1
 _itemIcon : _helmIco_06 (UnityEngine.Sprite)
 _itemRarity : Common

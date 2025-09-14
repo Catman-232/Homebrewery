@@ -3,6 +3,7 @@ name : (lv-14) SHIELD_Nethercrypt Shield
 _itemName : Nethercrypt Shield
 _itemDescription : Emblem of the twisted nether realm.
 _destroyOnDrop : False
+_vendorCost : 439
 _maxStackAmount : 1
 _itemIcon : _shieldIco_07 (UnityEngine.Sprite)
 _itemRarity : Common

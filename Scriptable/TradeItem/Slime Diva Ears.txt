@@ -3,6 +3,7 @@ name : TRADEITEM_Slime Diva Ears
 _itemName : Slime Diva Ears
 _itemDescription : Extremely large and long ears. Unlike other slime ears, these are not sharp to the touch, but rather soft.
 _destroyOnDrop : False
+_vendorCost : 50
 _maxStackAmount : 99
 _itemIcon : _tradIco_14 (UnityEngine.Sprite)
 _itemRarity : Common

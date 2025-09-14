@@ -3,6 +3,7 @@ name : (lv-20) WEAPON_Golemfist Katars (Fist Weapons, Dexterity)
 _itemName : Golemfist Katars
 _itemDescription : Pow!
 _destroyOnDrop : False
+_vendorCost : 1320
 _maxStackAmount : 1
 _itemIcon : _wepIco_73 (UnityEngine.Sprite)
 _itemRarity : Rare

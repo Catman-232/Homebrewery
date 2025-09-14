@@ -3,6 +3,7 @@ name : (lv-1) RING_Old Ring
 _itemName : Old Ring
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 23
 _maxStackAmount : 1
 _itemIcon : icon_ring01 (UnityEngine.Sprite)
 _itemRarity : Common

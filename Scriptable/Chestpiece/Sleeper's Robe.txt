@@ -3,6 +3,7 @@ name : (lv-11) CHESTPIECE_Sleeper's Robe
 _itemName : Sleeper's Robe
 _itemDescription : So tired...
 _destroyOnDrop : False
+_vendorCost : 300
 _maxStackAmount : 1
 _itemIcon : _chestIco_18 (UnityEngine.Sprite)
 _itemRarity : Common

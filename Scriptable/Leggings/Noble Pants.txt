@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Noble Pants
 _itemName : Noble Pants
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _legIco_16 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

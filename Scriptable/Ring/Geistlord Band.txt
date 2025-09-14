@@ -3,6 +3,7 @@ name : (lv-16) RING_Geistlord Band
 _itemName : Geistlord Band
 _itemDescription : Whispers of Kaluuz's memories echo and reverberate inside your soul.
 _destroyOnDrop : False
+_vendorCost : 1200
 _maxStackAmount : 1
 _itemIcon : icon_ring11 (UnityEngine.Sprite)
 _itemRarity : Exotic

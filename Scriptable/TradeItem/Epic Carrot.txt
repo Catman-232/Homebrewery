@@ -3,6 +3,7 @@ name : TRADEITEM_Epic Carrot
 _itemName : Epic Carrot
 _itemDescription : A carrot that is... well, quite epic actually. The taste of it is divine.
 _destroyOnDrop : True
+_vendorCost : 0
 _maxStackAmount : 1
 _itemIcon : _tradIco_61 (UnityEngine.Sprite)
 _itemRarity : Exotic

@@ -3,6 +3,7 @@ name : TRADEITEM_Mekboar Spear
 _itemName : Mekboar Spear
 _itemDescription : It is unknown how this spear was attached to a boar.
 _destroyOnDrop : False
+_vendorCost : 15
 _maxStackAmount : 30
 _itemIcon : _tradIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

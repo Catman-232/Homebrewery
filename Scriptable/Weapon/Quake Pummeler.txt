@@ -3,6 +3,7 @@ name : (lv-18) WEAPON_Quake Pummeler (Hammer, Strength)
 _itemName : Quake Pummeler
 _itemDescription : Smash them all into oblivion.
 _destroyOnDrop : False
+_vendorCost : 1895
 _maxStackAmount : 1
 _itemIcon : _wepIco_72 (UnityEngine.Sprite)
 _itemRarity : Rare

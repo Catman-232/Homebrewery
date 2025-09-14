@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Necro Caustics
 _itemName : Necro Caustics
 _itemDescription : Common clothing worn by Imps.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _leggingIco_imp02 (UnityEngine.Sprite)
 _itemRarity : Common

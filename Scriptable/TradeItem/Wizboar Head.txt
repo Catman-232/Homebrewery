@@ -3,6 +3,7 @@ name : TRADEITEM_Wizboar Head
 _itemName : Wizboar Head
 _itemDescription : It's still smiling.
 _destroyOnDrop : False
+_vendorCost : 20
 _maxStackAmount : 99
 _itemIcon : _tradIco_16 (UnityEngine.Sprite)
 _itemRarity : Common

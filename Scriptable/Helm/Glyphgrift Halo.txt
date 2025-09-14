@@ -3,6 +3,7 @@ name : (lv-16) HELM_Glyphgrift Halo
 _itemName : Glyphgrift Halo
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1350
 _maxStackAmount : 1
 _itemIcon : _helmIco_20 (UnityEngine.Sprite)
 _itemRarity : Common

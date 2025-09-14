@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Crypt Pounder (Hammer, Strength)
 _itemName : Crypt Pounder
 _itemDescription : Made with the bones of sinners.
 _destroyOnDrop : False
+_vendorCost : 650
 _maxStackAmount : 1
 _itemIcon : _wepIco_10 (UnityEngine.Sprite)
 _itemRarity : Rare

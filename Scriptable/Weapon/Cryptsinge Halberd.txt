@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Cryptsinge Halberd (Polearm)
 _itemName : Cryptsinge Halberd
 _itemDescription : Poke and prod the undead into submission.
 _destroyOnDrop : False
+_vendorCost : 300
 _maxStackAmount : 1
 _itemIcon : _wepIco_30 (UnityEngine.Sprite)
 _itemRarity : Common

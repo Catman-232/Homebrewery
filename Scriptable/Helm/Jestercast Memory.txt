@@ -3,6 +3,7 @@ name : (lv-16) HELM_Jestercast Memory
 _itemName : Jestercast Memory
 _itemDescription : The true fool is the enemy of the caster...
 _destroyOnDrop : False
+_vendorCost : 1230
 _maxStackAmount : 1
 _itemIcon : _helmIco_19 (UnityEngine.Sprite)
 _itemRarity : Common

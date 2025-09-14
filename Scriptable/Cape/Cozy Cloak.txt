@@ -3,6 +3,7 @@ name : (lv-14) CAPE_Cozy Cloak
 _itemName : Cozy Cloak
 _itemDescription : Keeps you warm in the cold weather.
 _destroyOnDrop : False
+_vendorCost : 600
 _maxStackAmount : 1
 _itemIcon : _capIco_09 (UnityEngine.Sprite)
 _itemRarity : Common

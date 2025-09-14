@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Rude Blade (Sword, Strength)
 _itemName : Rude Blade
 _itemDescription : Don't you have anything better to kill?
 _destroyOnDrop : False
+_vendorCost : 113
 _maxStackAmount : 1
 _itemIcon : _wepIco_16 (UnityEngine.Sprite)
 _itemRarity : Common

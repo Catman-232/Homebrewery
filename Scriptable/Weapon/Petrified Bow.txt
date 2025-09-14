@@ -3,6 +3,7 @@ name : (lv-12) WEAPON_Petrified Bow (Bow, Dexterity)
 _itemName : Petrified Bow
 _itemDescription : Lost souls of the damned are welded to this bow.
 _destroyOnDrop : False
+_vendorCost : 489
 _maxStackAmount : 1
 _itemIcon : _wepIco_35 (UnityEngine.Sprite)
 _itemRarity : Rare

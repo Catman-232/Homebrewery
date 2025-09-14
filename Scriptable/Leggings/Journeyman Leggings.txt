@@ -3,6 +3,7 @@ name : (lv-4) LEGGINGS_Journeyman Leggings
 _itemName : Journeyman Leggings
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 125
 _maxStackAmount : 1
 _itemIcon : _legIco_14 (UnityEngine.Sprite)
 _itemRarity : Common

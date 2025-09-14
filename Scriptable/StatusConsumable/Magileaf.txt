@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Magileaf
 _itemName : Magileaf
 _itemDescription : A small mind replenishing leaf.
 _destroyOnDrop : False
+_vendorCost : 25
 _maxStackAmount : 99
 _itemIcon : _conIco_24 (UnityEngine.Sprite)
 _itemRarity : Common

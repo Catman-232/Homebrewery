@@ -3,6 +3,7 @@ name : (lv-16) LEGGINGS_King Greaves
 _itemName : King Greaves
 _itemDescription : Your pants, my liege?
 _destroyOnDrop : False
+_vendorCost : 1000
 _maxStackAmount : 1
 _itemIcon : _legIco_05 (UnityEngine.Sprite)
 _itemRarity : Rare

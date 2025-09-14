@@ -3,6 +3,7 @@ name : (lv-1) CHESTPIECE_Nutso Top
 _itemName : Nutso Top
 _itemDescription : Common clothing worn by Chang.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _chestIco_13 (UnityEngine.Sprite)
 _itemRarity : Common

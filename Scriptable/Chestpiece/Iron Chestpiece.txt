@@ -3,6 +3,7 @@ name : (lv-6) CHESTPIECE_Iron Chestpiece
 _itemName : Iron Chestpiece
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 250
 _maxStackAmount : 1
 _itemIcon : _chestIco_15 (UnityEngine.Sprite)
 _itemRarity : Common

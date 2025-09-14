@@ -3,6 +3,7 @@ name : (lv-17) WEAPON_Serrated Blade (Sword, Strength)
 _itemName : Serrated Blade
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 730
 _maxStackAmount : 1
 _itemIcon : _wepIco_59 (UnityEngine.Sprite)
 _itemRarity : Common

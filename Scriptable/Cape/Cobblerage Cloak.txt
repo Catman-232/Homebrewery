@@ -3,6 +3,7 @@ name : (lv-16) CAPE_Cobblerage Cloak
 _itemName : Cobblerage Cloak
 _itemDescription : You feel strong like a golem wearing this.
 _destroyOnDrop : False
+_vendorCost : 1320
 _maxStackAmount : 1
 _itemIcon : _capIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

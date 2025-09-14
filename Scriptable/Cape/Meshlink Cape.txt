@@ -3,6 +3,7 @@ name : (lv-16) CAPE_Meshlink Cape
 _itemName : Meshlink Cape
 _itemDescription : Evasive and light.
 _destroyOnDrop : False
+_vendorCost : 865
 _maxStackAmount : 1
 _itemIcon : _capIco_06 (UnityEngine.Sprite)
 _itemRarity : Common

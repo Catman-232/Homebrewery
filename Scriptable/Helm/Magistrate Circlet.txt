@@ -3,6 +3,7 @@ name : (lv-12) HELM_Magistrate Circlet
 _itemName : Magistrate Circlet
 _itemDescription : Clears the mind, putting things at ease.
 _destroyOnDrop : False
+_vendorCost : 250
 _maxStackAmount : 1
 _itemIcon : _helmIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

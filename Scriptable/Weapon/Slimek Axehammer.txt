@@ -3,6 +3,7 @@ name : (lv-4) WEAPON_Slimek Axehammer (Hammer, Strength)
 _itemName : Slimek Axehammer
 _itemDescription : An Iron Axehammer that's seen better days. It's a little bit of a challenge to maintain a grip on this thing.
 _destroyOnDrop : False
+_vendorCost : 49
 _maxStackAmount : 1
 _itemIcon : _wepIco_09 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-2) WEAPON_Slimecrust Blade (Sword, Strength)
 _itemName : Slimecrust Blade
 _itemDescription : Looks to be an Iron Sword, but the blade is intensely dulled by slime.
 _destroyOnDrop : False
+_vendorCost : 7
 _maxStackAmount : 1
 _itemIcon : _wepIco_02 (UnityEngine.Sprite)
 _itemRarity : Common

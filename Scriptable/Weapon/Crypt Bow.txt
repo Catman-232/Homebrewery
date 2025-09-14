@@ -3,6 +3,7 @@ name : (lv-2) WEAPON_Crypt Bow (Bow, Dexterity)
 _itemName : Crypt Bow
 _itemDescription : Glue-like soot keeps the bones together.
 _destroyOnDrop : False
+_vendorCost : 45
 _maxStackAmount : 1
 _itemIcon : _wepIco_17 (UnityEngine.Sprite)
 _itemRarity : Common

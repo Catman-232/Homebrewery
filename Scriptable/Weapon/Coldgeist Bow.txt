@@ -3,6 +3,7 @@ name : (lv-16) WEAPON_Coldgeist Bow (Bow, Dexterity)
 _itemName : Coldgeist Bow
 _itemDescription : Ruination of the lost frozen souls.
 _destroyOnDrop : False
+_vendorCost : 875
 _maxStackAmount : 1
 _itemIcon : _wepIco_46 (UnityEngine.Sprite)
 _itemRarity : Rare

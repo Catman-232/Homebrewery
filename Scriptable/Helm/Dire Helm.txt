@@ -3,6 +3,7 @@ name : (lv-1) HELM_Dire Helm
 _itemName : Dire Helm
 _itemDescription : Once worn by a brave warrior.
 _destroyOnDrop : False
+_vendorCost : 320
 _maxStackAmount : 1
 _itemIcon : _helmIco_09 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

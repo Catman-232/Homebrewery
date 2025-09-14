@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Vampiric Leggings
 _itemName : Vampiric Leggings
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 300
 _maxStackAmount : 1
 _itemIcon : _legIco_00 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

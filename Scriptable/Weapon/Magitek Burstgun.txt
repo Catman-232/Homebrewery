@@ -3,6 +3,7 @@ name : (lv-20) WEAPON_Magitek Burstgun (Shotgun, Dexterity)
 _itemName : Magitek Burstgun
 _itemDescription : The mysterious components inside of this gun use energies from Blightwoods.
 _destroyOnDrop : False
+_vendorCost : 1150
 _maxStackAmount : 1
 _itemIcon : _wepIco_74 (UnityEngine.Sprite)
 _itemRarity : Common

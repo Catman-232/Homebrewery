@@ -3,6 +3,7 @@ name : (lv-2) WEAPON_Marrow Bauble (Scepter, Mind)
 _itemName : Marrow Bauble
 _itemDescription : Who's skull is this?
 _destroyOnDrop : False
+_vendorCost : 48
 _maxStackAmount : 1
 _itemIcon : _wepIco_33 (UnityEngine.Sprite)
 _itemRarity : Common

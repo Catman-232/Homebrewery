@@ -3,6 +3,7 @@ name : (lv-6) WEAPON_Demicrypt Bauble (Scepter, Mind)
 _itemName : Demicrypt Bauble
 _itemDescription : The skull doesn't seem real.
 _destroyOnDrop : False
+_vendorCost : 86
 _maxStackAmount : 1
 _itemIcon : _wepIco_34 (UnityEngine.Sprite)
 _itemRarity : Common

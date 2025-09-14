@@ -3,6 +3,7 @@ name : (lv-2) CHESTPIECE_Ghostly Tabard
 _itemName : Ghostly Tabard
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 30
 _maxStackAmount : 1
 _itemIcon : _chestIco_34 (UnityEngine.Sprite)
 _itemRarity : Common

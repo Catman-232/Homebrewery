@@ -3,6 +3,7 @@ name : (lv-10) STATUSCONSUMABLE_Wisdom Potion
 _itemName : Wisdom Potion
 _itemDescription : Intriguing.
 _destroyOnDrop : False
+_vendorCost : 345
 _maxStackAmount : 99
 _itemIcon : _conIco_32 (UnityEngine.Sprite)
 _itemRarity : Common

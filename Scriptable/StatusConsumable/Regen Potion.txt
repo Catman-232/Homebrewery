@@ -3,6 +3,7 @@ name : (lv-10) STATUSCONSUMABLE_Regen Potion
 _itemName : Regen Potion
 _itemDescription : Rejuvinating.
 _destroyOnDrop : False
+_vendorCost : 280
 _maxStackAmount : 99
 _itemIcon : _conIco_31 (UnityEngine.Sprite)
 _itemRarity : Common

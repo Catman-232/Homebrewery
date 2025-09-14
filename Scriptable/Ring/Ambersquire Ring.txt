@@ -3,6 +3,7 @@ name : (lv-6) RING_Ambersquire Ring
 _itemName : Ambersquire Ring
 _itemDescription : Tough as nails.
 _destroyOnDrop : False
+_vendorCost : 150
 _maxStackAmount : 1
 _itemIcon : icon_ring05 (UnityEngine.Sprite)
 _itemRarity : Common

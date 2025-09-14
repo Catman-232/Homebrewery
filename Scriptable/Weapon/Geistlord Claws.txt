@@ -3,6 +3,7 @@ name : (lv-12) WEAPON_Geistlord Claws (Fist Weapon, Dexterity)
 _itemName : Geistlord Claws
 _itemDescription : Shreds through the wailing souls.
 _destroyOnDrop : False
+_vendorCost : 480
 _maxStackAmount : 1
 _itemIcon : _wepIco_37 (UnityEngine.Sprite)
 _itemRarity : Rare

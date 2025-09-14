@@ -3,6 +3,7 @@ name : (lv-14) WEAPON_Nethercrypt Bauble (Magic Scepter)
 _itemName : Nethercrypt Bauble
 _itemDescription : It's hard to comprehend how terrible the malformed skull is.
 _destroyOnDrop : False
+_vendorCost : 215
 _maxStackAmount : 1
 _itemIcon : _wepIco_39 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : TRADEITEM_Deathgel Core
 _itemName : Deathgel Core
 _itemDescription : A chunk of a Deathgel.
 _destroyOnDrop : False
+_vendorCost : 25
 _maxStackAmount : 99
 _itemIcon : _tradIco_32 (UnityEngine.Sprite)
 _itemRarity : Common

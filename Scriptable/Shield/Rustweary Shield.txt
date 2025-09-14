@@ -3,6 +3,7 @@ name : (lv-16) SHIELD_Rustweary Shield
 _itemName : Rustweary Shield
 _itemDescription : The face is worried.
 _destroyOnDrop : False
+_vendorCost : 1260
 _maxStackAmount : 1
 _itemIcon : _shieldIco_10 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-22) CHESTPIECE_Earthbind Tabard
 _itemName : Earthbind Tabard
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 1150
 _maxStackAmount : 1
 _itemIcon : _chestIco_42 (UnityEngine.Sprite)
 _itemRarity : Common

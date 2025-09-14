@@ -3,6 +3,7 @@ name : (lv-4) CHESTPIECE_Journeyman Vest
 _itemName : Journeyman Vest
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 50
 _maxStackAmount : 1
 _itemIcon : _chestIco_21 (UnityEngine.Sprite)
 _itemRarity : Common

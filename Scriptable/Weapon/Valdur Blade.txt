@@ -3,6 +3,7 @@ name : (lv-24) WEAPON_Valdur Blade (Sword, Strength)
 _itemName : Valdur Blade
 _itemDescription : The blade of Wind Golems...
 _destroyOnDrop : False
+_vendorCost : 2300
 _maxStackAmount : 1
 _itemIcon : _wepIco_78 (UnityEngine.Sprite)
 _itemRarity : Rare

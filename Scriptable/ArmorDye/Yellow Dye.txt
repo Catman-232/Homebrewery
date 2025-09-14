@@ -3,6 +3,7 @@ name : DYE_Yellow Dye
 _itemName : Yellow Dye
 _itemDescription : A vial of yellow dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_yellow (UnityEngine.Sprite)
 _itemRarity : Common

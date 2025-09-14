@@ -3,6 +3,7 @@ name : TRADEITEM_Mekboar Head
 _itemName : Mekboar Head
 _itemDescription : The snout continues to pulse and wiggle around.
 _destroyOnDrop : False
+_vendorCost : 12
 _maxStackAmount : 99
 _itemIcon : _tradIco_09 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-4) SHIELD_Crypt Buckler
 _itemName : Crypt Buckler
 _itemDescription : Used by ancient warriors of the past.
 _destroyOnDrop : False
+_vendorCost : 35
 _maxStackAmount : 1
 _itemIcon : _shieldIco_03 (UnityEngine.Sprite)
 _itemRarity : Common

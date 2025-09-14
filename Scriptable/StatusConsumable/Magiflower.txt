@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Magiflower
 _itemName : Magiflower
 _itemDescription : A gratuitous mind replenishing flower.
 _destroyOnDrop : False
+_vendorCost : 200
 _maxStackAmount : 99
 _itemIcon : _conIco_25 (UnityEngine.Sprite)
 _itemRarity : Common

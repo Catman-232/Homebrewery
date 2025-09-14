@@ -3,6 +3,7 @@ name : (lv-12) CHESTPIECE_Golem Chestpiece
 _itemName : Golem Chestpiece
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 478
 _maxStackAmount : 1
 _itemIcon : _chestIco_29 (UnityEngine.Sprite)
 _itemRarity : Common

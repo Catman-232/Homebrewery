@@ -3,6 +3,7 @@ name : (lv-14) CAPE_Nethercrypt Cloak
 _itemName : Nethercrypt Cloak
 _itemDescription : Rug for the feet of the dead.
 _destroyOnDrop : False
+_vendorCost : 536
 _maxStackAmount : 1
 _itemIcon : _capIco_01 (UnityEngine.Sprite)
 _itemRarity : Common

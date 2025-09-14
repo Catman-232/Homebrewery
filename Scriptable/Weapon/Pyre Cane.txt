@@ -3,6 +3,7 @@ name : (lv-12) WEAPON_Pyre Cane (Magic Scepter)
 _itemName : Pyre Cane
 _itemDescription : Let them burn.
 _destroyOnDrop : False
+_vendorCost : 250
 _maxStackAmount : 1
 _itemIcon : _wepIco_13 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Agility Vial
 _itemName : Agility Vial
 _itemDescription : A little shot that can get you going!
 _destroyOnDrop : False
+_vendorCost : 78
 _maxStackAmount : 99
 _itemIcon : _conIco_34 (UnityEngine.Sprite)
 _itemRarity : Common

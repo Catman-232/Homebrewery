@@ -3,6 +3,7 @@ name : (lv-10) STATUSCONSUMABLE_Bolster Potion
 _itemName : Bolster Potion
 _itemDescription : Liquid courage.
 _destroyOnDrop : False
+_vendorCost : 350
 _maxStackAmount : 99
 _itemIcon : _conIco_30 (UnityEngine.Sprite)
 _itemRarity : Common

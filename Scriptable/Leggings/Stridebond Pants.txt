@@ -3,6 +3,7 @@ name : (lv-16) LEGGINGS_Stridebond Pants
 _itemName : Stridebond Pants
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 962
 _maxStackAmount : 1
 _itemIcon : _legIco_19 (UnityEngine.Sprite)
 _itemRarity : Common

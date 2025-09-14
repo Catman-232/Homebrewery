@@ -3,6 +3,7 @@ name : (lv-12) HELM_Focus Circlet
 _itemName : Focus Circlet
 _itemDescription : Keep still.
 _destroyOnDrop : False
+_vendorCost : 250
 _maxStackAmount : 1
 _itemIcon : _helmIco_11 (UnityEngine.Sprite)
 _itemRarity : Common

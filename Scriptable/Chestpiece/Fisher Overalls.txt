@@ -3,6 +3,7 @@ name : (lv-1) CHESTPIECE_Fisher Overalls
 _itemName : Fisher Overalls
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 800
 _maxStackAmount : 1
 _itemIcon : _chestIco_45 (UnityEngine.Sprite)
 _itemRarity : Cosmetic

@@ -3,6 +3,7 @@ name : (lv-1) HELM_Leather Cap
 _itemName : Leather Cap
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 13
 _maxStackAmount : 1
 _itemIcon : _helmIco_24 (UnityEngine.Sprite)
 _itemRarity : Common

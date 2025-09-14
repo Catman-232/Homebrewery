@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Tome of Naivety
 _itemName : Tome of Naivety
 _itemDescription : Reading this tome resets all of your Attributes, reimbursing your Attribute Points. <color=lime>Can only be used in a Safe Zone.</color>
 _destroyOnDrop : False
+_vendorCost : 1500
 _maxStackAmount : 1
 _itemIcon : _conIco_08 (UnityEngine.Sprite)
 _itemRarity : Common

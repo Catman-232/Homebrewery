@@ -3,6 +3,7 @@ name : (lv-16) HELM_Mithril Halo
 _itemName : Mithril Halo
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 850
 _maxStackAmount : 1
 _itemIcon : _helmIco_17 (UnityEngine.Sprite)
 _itemRarity : Common

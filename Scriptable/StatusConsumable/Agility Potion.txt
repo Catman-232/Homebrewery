@@ -3,6 +3,7 @@ name : (lv-10) STATUSCONSUMABLE_Agility Potion
 _itemName : Agility Potion
 _itemDescription : Quite the rush!
 _destroyOnDrop : False
+_vendorCost : 230
 _maxStackAmount : 99
 _itemIcon : _conIco_33 (UnityEngine.Sprite)
 _itemRarity : Common

@@ -3,6 +3,7 @@ name : (lv-16) CHESTPIECE_Gemveil Raiment
 _itemName : Gemveil Raiment
 _itemDescription : Dazzling gems flicker on this loose but defensive chestpiece.
 _destroyOnDrop : False
+_vendorCost : 1112
 _maxStackAmount : 1
 _itemIcon : _chestIco_25 (UnityEngine.Sprite)
 _itemRarity : Common

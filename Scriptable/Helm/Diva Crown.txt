@@ -3,6 +3,7 @@ name : (lv-6) HELM_Diva Crown
 _itemName : Diva Crown
 _itemDescription : A crown worn by a Slime Diva. Contains unusual power.
 _destroyOnDrop : False
+_vendorCost : 136
 _maxStackAmount : 1
 _itemIcon : _helmIco_12 (UnityEngine.Sprite)
 _itemRarity : Rare

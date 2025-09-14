@@ -3,6 +3,7 @@ name : (lv-10) HELM_Journeyman Spectacles
 _itemName : Journeyman Spectacles
 _itemDescription : Used to read harder-- now with color!
 _destroyOnDrop : False
+_vendorCost : 120
 _maxStackAmount : 1
 _itemIcon : _helmIco_02 (UnityEngine.Sprite)
 _itemRarity : Common

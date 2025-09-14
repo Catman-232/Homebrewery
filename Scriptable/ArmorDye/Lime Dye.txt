@@ -3,6 +3,7 @@ name : DYE_Lime Dye
 _itemName : Lime Dye
 _itemDescription : A vial of lime dye.
 _destroyOnDrop : False
+_vendorCost : 160
 _maxStackAmount : 1
 _itemIcon : _dyeIco_lime (UnityEngine.Sprite)
 _itemRarity : Common

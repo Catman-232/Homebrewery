@@ -3,6 +3,7 @@ name : TRADEITEM_Geist Collar
 _itemName : Geist Collar
 _itemDescription : Shaking the bell doesn't make any noise.
 _destroyOnDrop : False
+_vendorCost : 4
 _maxStackAmount : 99
 _itemIcon : _tradIco_11 (UnityEngine.Sprite)
 _itemRarity : Common

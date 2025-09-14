@@ -3,6 +3,7 @@ name : (lv-6) RING_Sapphireweave Ring
 _itemName : Sapphireweave Ring
 _itemDescription : Sounds of the ocean waves through your ears.
 _destroyOnDrop : False
+_vendorCost : 150
 _maxStackAmount : 1
 _itemIcon : icon_ring07 (UnityEngine.Sprite)
 _itemRarity : Common

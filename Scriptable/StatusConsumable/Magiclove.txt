@@ -3,6 +3,7 @@ name : (lv-0) STATUSCONSUMABLE_Magiclove
 _itemName : Magiclove
 _itemDescription : A large mind replenishing clove.
 _destroyOnDrop : False
+_vendorCost : 80
 _maxStackAmount : 99
 _itemIcon : _conIco_23 (UnityEngine.Sprite)
 _itemRarity : Common

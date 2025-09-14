@@ -3,6 +3,7 @@ name : (lv-12) RING_Students Ring
 _itemName : Students Ring
 _itemDescription : Excelsior!
 _destroyOnDrop : False
+_vendorCost : 165
 _maxStackAmount : 1
 _itemIcon : icon_ring03 (UnityEngine.Sprite)
 _itemRarity : Common

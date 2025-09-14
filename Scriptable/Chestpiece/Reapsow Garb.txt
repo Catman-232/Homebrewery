@@ -3,6 +3,7 @@ name : (lv-12) CHESTPIECE_Reapsow Garb
 _itemName : Reapsow Garb
 _itemDescription : Fear the hidden.
 _destroyOnDrop : False
+_vendorCost : 680
 _maxStackAmount : 1
 _itemIcon : _chestIco_03 (UnityEngine.Sprite)
 _itemRarity : Rare

@@ -3,6 +3,7 @@ name : TRADEITEM_Sugshrimp
 _itemName : Sugshrimp
 _itemDescription : A very common fish that isn't very tasty.
 _destroyOnDrop : False
+_vendorCost : 5
 _maxStackAmount : 99
 _itemIcon : _tradIco_45 (UnityEngine.Sprite)
 _itemRarity : Common

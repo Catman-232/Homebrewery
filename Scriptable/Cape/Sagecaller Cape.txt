@@ -3,6 +3,7 @@ name : (lv-16) CAPE_Sagecaller Cape
 _itemName : Sagecaller Cape
 _itemDescription : Brimming with magical power.
 _destroyOnDrop : False
+_vendorCost : 923
 _maxStackAmount : 1
 _itemIcon : _capIco_07 (UnityEngine.Sprite)
 _itemRarity : Common

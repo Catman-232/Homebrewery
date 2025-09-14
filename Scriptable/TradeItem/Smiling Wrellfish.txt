@@ -3,6 +3,7 @@ name : TRADEITEM_Smiling Wrellfish
 _itemName : Smiling Wrellfish
 _itemDescription : The smile on this fish could drive you insane.
 _destroyOnDrop : False
+_vendorCost : 8
 _maxStackAmount : 99
 _itemIcon : _tradIco_49 (UnityEngine.Sprite)
 _itemRarity : Common

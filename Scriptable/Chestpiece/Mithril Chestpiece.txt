@@ -3,6 +3,7 @@ name : (lv-16) CHESTPIECE_Mithril Chestpiece
 _itemName : Mithril Chestpiece
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 700
 _maxStackAmount : 1
 _itemIcon : _chestIco_23 (UnityEngine.Sprite)
 _itemRarity : Common

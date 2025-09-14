@@ -3,6 +3,7 @@ name : (lv-16) CHESTPIECE_King Breastplate
 _itemName : King Breastplate
 _itemDescription : Bend the knee, to the King!
 _destroyOnDrop : False
+_vendorCost : 1200
 _maxStackAmount : 1
 _itemIcon : _chestIco_06 (UnityEngine.Sprite)
 _itemRarity : Rare

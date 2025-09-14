@@ -3,6 +3,7 @@ name : (lv-18) LEGGINGS_Magilord Boots
 _itemName : Magilord Boots
 _itemDescription : Keeps the toes warm.
 _destroyOnDrop : False
+_vendorCost : 1530
 _maxStackAmount : 1
 _itemIcon : _legIco_21 (UnityEngine.Sprite)
 _itemRarity : Rare

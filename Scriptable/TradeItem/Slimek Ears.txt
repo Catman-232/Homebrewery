@@ -3,6 +3,7 @@ name : TRADEITEM_Slimek Ears
 _itemName : Slimek Ears
 _itemDescription : Even sharper than normal Slime ears.
 _destroyOnDrop : False
+_vendorCost : 14
 _maxStackAmount : 99
 _itemIcon : _tradIco_03 (UnityEngine.Sprite)
 _itemRarity : Common

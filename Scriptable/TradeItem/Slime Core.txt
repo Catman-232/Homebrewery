@@ -3,6 +3,7 @@ name : TRADEITEM_Slime Core
 _itemName : Slime Core
 _itemDescription : A chunk of a Slime.
 _destroyOnDrop : False
+_vendorCost : 7
 _maxStackAmount : 99
 _itemIcon : _tradIco_00 (UnityEngine.Sprite)
 _itemRarity : Common

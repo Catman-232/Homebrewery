@@ -3,6 +3,7 @@ name : (lv-16) WEAPON_Serrated Spear (Polearm, Strength)
 _itemName : Serrated Spear
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 985
 _maxStackAmount : 1
 _itemIcon : _wepIco_60 (UnityEngine.Sprite)
 _itemRarity : Common

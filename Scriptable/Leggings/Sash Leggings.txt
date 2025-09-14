@@ -3,6 +3,7 @@ name : (lv-8) LEGGINGS_Sash Leggings
 _itemName : Sash Leggings
 _itemDescription : Tight.
 _destroyOnDrop : False
+_vendorCost : 120
 _maxStackAmount : 1
 _itemIcon : _legIco_13 (UnityEngine.Sprite)
 _itemRarity : Common

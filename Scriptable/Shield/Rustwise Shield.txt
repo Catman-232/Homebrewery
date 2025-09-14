@@ -3,6 +3,7 @@ name : (lv-16) SHIELD_Rustwise Shield
 _itemName : Rustwise Shield
 _itemDescription : The face is confident.
 _destroyOnDrop : False
+_vendorCost : 1260
 _maxStackAmount : 1
 _itemIcon : _shieldIco_11 (UnityEngine.Sprite)
 _itemRarity : Common

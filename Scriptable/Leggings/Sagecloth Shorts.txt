@@ -3,6 +3,7 @@ name : (lv-1) LEGGINGS_Sagecloth Shorts
 _itemName : Sagecloth Shorts
 _itemDescription : Common clothing worn by Kubolds.
 _destroyOnDrop : False
+_vendorCost : 10
 _maxStackAmount : 1
 _itemIcon : _leggingIco_kubold02 (UnityEngine.Sprite)
 _itemRarity : Common

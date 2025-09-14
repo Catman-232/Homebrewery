@@ -3,6 +3,7 @@ name : (lv-4) CHESTPIECE_Slimek Chest
 _itemName : Slimek Chest
 _itemDescription : Sturdy enough to widthstand some further damage.
 _destroyOnDrop : False
+_vendorCost : 60
 _maxStackAmount : 1
 _itemIcon : _chestIco_10 (UnityEngine.Sprite)
 _itemRarity : Common

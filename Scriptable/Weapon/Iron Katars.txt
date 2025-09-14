@@ -3,6 +3,7 @@ name : (lv-8) WEAPON_Iron Katars (Fist Weapons, Dexterity)
 _itemName : Iron Katars
 _itemDescription : 
 _destroyOnDrop : False
+_vendorCost : 60
 _maxStackAmount : 1
 _itemIcon : _wepIco_22 (UnityEngine.Sprite)
 _itemRarity : Common

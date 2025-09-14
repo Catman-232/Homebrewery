@@ -3,6 +3,7 @@ name : TRADEITEM_Bronze Arrows
 _itemName : Bronze Arrows
 _itemDescription : Ammunition for bows.
 _destroyOnDrop : False
+_vendorCost : 3
 _maxStackAmount : 999
 _itemIcon : _tradIco_29 (UnityEngine.Sprite)
 _itemRarity : Common
