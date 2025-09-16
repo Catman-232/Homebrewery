@@ -54,3 +54,7 @@ _textureColorAdjust : {
     _brightness : 0
     _contrast : 1
 }
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : weapon_pickup (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : forceshotgun_lv1 (UnityEngine.AudioClip)

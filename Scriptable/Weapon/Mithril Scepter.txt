@@ -54,3 +54,7 @@ _textureColorAdjust : {
     _brightness : -0.06
     _contrast : 1
 }
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : weapon_scepterSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _spinScepter (UnityEngine.AudioClip)

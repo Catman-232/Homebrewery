@@ -54,3 +54,7 @@ _textureColorAdjust : {
     _brightness : -0.13
     _contrast : 1.35
 }
+_weaponTakeOutSfxIndex : 2
+_setWeaponTakeOutSfx : _polearmTakeOut01 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : _polearmSwing03 (UnityEngine.AudioClip)

@@ -54,3 +54,7 @@ _textureColorAdjust : {
     _brightness : 0.12
     _contrast : 2
 }
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : bow_takeOut (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : bow_fire01 (UnityEngine.AudioClip)

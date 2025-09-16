@@ -54,3 +54,7 @@ _textureColorAdjust : {
     _brightness : 0
     _contrast : 1.2
 }
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingLight (UnityEngine.AudioClip)
