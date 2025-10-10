@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Mekboar Nosering
+_itemName : Mekboar Nosering
+_itemDescription : A nose ring for Mekboars.
+_destroyOnDrop : False
+_vendorCost : 54
+_maxStackAmount : 99
+_itemIcon : _tradIco_70 (UnityEngine.Sprite)
+_itemRarity : Common

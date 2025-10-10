@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Fluxfern
+_itemName : Fluxfern
+_itemDescription : Mystical flux magic is held within it.
+_destroyOnDrop : False
+_vendorCost : 20
+_maxStackAmount : 99
+_itemIcon : _tradIco_80 (UnityEngine.Sprite)
+_itemRarity : Common

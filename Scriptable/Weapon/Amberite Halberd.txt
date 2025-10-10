@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-12) WEAPON_Amberite Halberd (Polearm, Strength)
+_itemName : Amberite Halberd
+_itemDescription : The prodding stick.
+_destroyOnDrop : False
+_vendorCost : 920
+_maxStackAmount : 1
+_itemIcon : _wepIco_97 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 9
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 2
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 14
+_damageBonus : 13
+_readonlyDamageRange : (14, 30)
+_weaponConditionSlot : None
+weaponTexture : polearm08Tex_00 (UnityEngine.Texture2D)
+weaponMesh : polearm_08 (UnityEngine.Mesh)
+trailColors : #FFC75FFF & #FAE0C0FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_weaponTakeOutSfxIndex : 2
+_setWeaponTakeOutSfx : _polearmTakeOut01 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : _polearmSwing03 (UnityEngine.AudioClip)

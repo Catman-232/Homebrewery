@@ -1,0 +1,59 @@
+- ScriptableItem -
+name : (lv-20) LEGGINGS_Temrak Britches
+_itemName : Temrak Britches
+_itemDescription : Magical britches, sewn by... boars?
+_destroyOnDrop : False
+_vendorCost : 1245
+_maxStackAmount : 1
+_itemIcon : _legIco_30 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 20
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 3
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 8
+    _magicDefense : 6
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mekboar Spine (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _lgTex_53 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 
+_legPieceTexture_01 : _lgTex_53 (UnityEngine.Texture2D)
+_legPieceRender_02 : armorRender_belt_00 (ScriptableArmorRender)
+_legPieceTexture_02 : beltSash01_tex03 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_53 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_53 (UnityEngine.Texture2D)

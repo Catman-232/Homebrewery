@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-24) WEAPON_Voalstark Wand (Scepter, Mind)
+_itemName : Voalstark Wand
+_itemDescription : A mysterious wand created by corrupted Oathkin. 
+_destroyOnDrop : False
+_vendorCost : 1375
+_maxStackAmount : 1
+_itemIcon : _wepIco_88 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 8
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 13
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_1H
+_weaponHoldClipIndex : 0
+_combatElement : Nature - ID: 3
+_weaponProjectileSet : weaponProjectileSet_scepter(voalstark) (ScriptableWeaponProjectileSet)
+_weaponDamage : 21
+_damageBonus : 12
+_readonlyDamageRange : (21, 36)
+_weaponConditionSlot : None
+weaponTexture : scepter08Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _scepter08 (UnityEngine.Mesh)
+trailColors : #22E73DFF & #56DD4AFF
+_textureColorAdjust : {
+    _hue : -18
+    _saturation : 2
+    _brightness : 0
+    _contrast : 1.432
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _scepterSheathe_01 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : _scepterSwing_00 (UnityEngine.AudioClip)

@@ -14,12 +14,12 @@ _classRequirement :
 _statArray : {
     _maxHealth : 0
     _maxMana : 0
-    _maxStamina : 3
+    _maxStamina : 5
     _experience : 0
     _attackPower : 5
     _magicPower : 0
     _dexPower : 0
-    _criticalRate : 0
+    _criticalRate : 0.0078
     _magicCriticalRate : 0
     _evasion : 0
     _defense : 0

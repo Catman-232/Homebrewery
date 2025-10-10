@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-12) WEAPON_Pyre Cane (Magic Scepter)
+name : (lv-12) WEAPON_Pyre Cane (Scepter, Mind)
 _itemName : Pyre Cane
 _itemDescription : Let them burn.
 _destroyOnDrop : False

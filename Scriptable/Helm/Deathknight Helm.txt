@@ -22,22 +22,21 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 20
-    _magicDefense : 8
+    _defense : 19
+    _magicDefense : 5
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0
     _earthResist : 0
     _holyResist : 0
-    _shadowResist : 5
+    _shadowResist : 3
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Maw Eye (ScriptableTradeItem)
+    _scriptItem : TRADEITEM_Deathknight Gauntlet (ScriptableTradeItem)
     _scriptItemQuantity : 3
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

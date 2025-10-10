@@ -33,11 +33,10 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)
-    _scriptItemQuantity : 3
+    _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : -162

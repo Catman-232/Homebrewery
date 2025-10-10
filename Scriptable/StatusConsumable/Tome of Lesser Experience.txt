@@ -9,7 +9,7 @@ _itemIcon : _conIco_06 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableConsumable -
-_consumableCooldown : 0
+_consumableCooldown : 0.2
 _consumableObject : _consumableEffect_experienceConsumable (UnityEngine.GameObject)
 _useOnlyInTown : False
 _unperishable : False

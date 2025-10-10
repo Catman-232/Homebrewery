@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-26) WEAPON_Fier Blade (Sword, Strength)
+_itemName : Fier Blade
+_itemDescription : The red and blue blade!
+_destroyOnDrop : False
+_vendorCost : 2820
+_maxStackAmount : 1
+_itemIcon : _wepIco_103 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 26
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 8
+    _experience : 0
+    _attackPower : 18
+    _magicPower : 12
+    _dexPower : 0
+    _criticalRate : 0.03
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 30
+_damageBonus : 12
+_readonlyDamageRange : (30, 45)
+_weaponConditionSlot : None
+weaponTexture : blade11Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_blade11 (UnityEngine.Mesh)
+trailColors : #FF5F5FFF & #53CCFFFF
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.53
+    _brightness : 0
+    _contrast : 1.2
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _mediumSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

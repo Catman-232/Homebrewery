@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-12) WEAPON_Amberite Sword (Sword, Strength)
+_itemName : Amberite Sword
+_itemDescription : A long, thin blade made of amberite.
+_destroyOnDrop : False
+_vendorCost : 312
+_maxStackAmount : 1
+_itemIcon : _wepIco_94 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : 
+_weaponDamage : 16
+_damageBonus : 3
+_readonlyDamageRange : (16, 22)
+_weaponConditionSlot : None
+weaponTexture : blade10Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_blade10 (UnityEngine.Mesh)
+trailColors : #FFC75FFF & #FAE0C0FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _mediumSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Barknaught Face
+_itemName : Barknaught Face
+_itemDescription : The face of a Barknaught. If only you could wear it...
+_destroyOnDrop : False
+_vendorCost : 50
+_maxStackAmount : 99
+_itemIcon : _tradIco_88 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-6) WEAPON_Dense Hammer (Hammer, Strength)
+_itemName : Dense Hammer
+_itemDescription : Condense them down to ground meat!
+_destroyOnDrop : False
+_vendorCost : 230
+_maxStackAmount : 1
+_itemIcon : _wepIco_93 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 16
+_damageBonus : 12
+_readonlyDamageRange : (16, 31)
+_weaponConditionSlot : None
+weaponTexture : _heavyWeapon01Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _heavyWeapon_01 (UnityEngine.Mesh)
+trailColors : #BEBEBE72 & #A6A6A6FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 0.91
+    _brightness : -0.04
+    _contrast : 1.1
+}
+_weaponTakeOutSfxIndex : 3
+_setWeaponTakeOutSfx : _weaponSheathe_woodMelee02 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingHeavy (UnityEngine.AudioClip)

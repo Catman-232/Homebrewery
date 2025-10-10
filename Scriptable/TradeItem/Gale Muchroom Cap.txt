@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Gale Muchroom Cap
+_itemName : Gale Muchroom Cap
+_itemDescription : You could throw this like a frizbee and it wouldn't ever hit the ground.
+_destroyOnDrop : False
+_vendorCost : 32
+_maxStackAmount : 99
+_itemIcon : _tradIco_87 (UnityEngine.Sprite)
+_itemRarity : Common

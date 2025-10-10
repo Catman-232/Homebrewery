@@ -1,0 +1,59 @@
+- ScriptableItem -
+name : (lv-12) LEGGINGS_Amberite Leggings
+_itemName : Amberite Leggings
+_itemDescription : The amberite plating on these leggings could blind someone.
+_destroyOnDrop : False
+_vendorCost : 420
+_maxStackAmount : 1
+_itemIcon : _legIco_32 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 2
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 9
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1.2
+    _brightness : 0.01
+    _contrast : 1.11
+}
+_armorTexture : _lgTex_56 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 00_armorRender_legCuffs_00 (ScriptableArmorRender)
+_legPieceTexture_01 : _lgTex_56 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_56 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_56 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_56 (UnityEngine.Texture2D)

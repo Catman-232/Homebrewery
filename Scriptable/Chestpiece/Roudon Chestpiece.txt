@@ -1,0 +1,67 @@
+- ScriptableItem -
+name : (lv-20) CHESTPIECE_Roudon Chestpiece
+_itemName : Roudon Chestpiece
+_itemDescription : A bold, slab of steel.
+_destroyOnDrop : False
+_vendorCost : 1274
+_maxStackAmount : 1
+_itemIcon : _chestIco_47 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 20
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.038
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 21
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 21
+    _saturation : 0.65
+    _brightness : -0.12
+    _contrast : 1.16
+}
+_armorTexture : _chTex_52 (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : True
+_textureArms : False
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

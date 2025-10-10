@@ -17,7 +17,7 @@ _statArray : {
     _maxStamina : 0
     _experience : 0
     _attackPower : 0
-    _magicPower : 6
+    _magicPower : 2
     _dexPower : 0
     _criticalRate : 0
     _magicCriticalRate : 0.002
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 0

@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-26) WEAPON_Ryzer Greataxe (Great Weapon, Strength)
+_itemName : Ryzer Greataxe
+_itemDescription : Foes are on the chopping block!
+_destroyOnDrop : False
+_vendorCost : 2050
+_maxStackAmount : 1
+_itemIcon : _wepIco_102 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 26
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 12
+    _experience : 0
+    _attackPower : 16
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0072
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 1
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 48
+_damageBonus : 13
+_readonlyDamageRange : (48, 64)
+_weaponConditionSlot : None
+weaponTexture : heavyAxe03Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _heavyWeapon_axe03 (UnityEngine.Mesh)
+trailColors : #A587B4C9 & #AD93B0FF
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 0.83
+    _brightness : -0.07
+    _contrast : 1.14
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _heavySheath_02 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingHeavy (UnityEngine.AudioClip)

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Mekboar Nail
+_itemName : Mekboar Nail
+_itemDescription : A nail specifically for a Mekboar's weapon attachment.
+_destroyOnDrop : False
+_vendorCost : 30
+_maxStackAmount : 99
+_itemIcon : _tradIco_68 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-24) WEAPON_Torrentius Longbow (Bow, Dexterity)
+_itemName : Torrentius Longbow
+_itemDescription : Fires piercing shrapnel of Valdur.
+_destroyOnDrop : False
+_vendorCost : 1487
+_maxStackAmount : 1
+_itemIcon : _wepIco_86 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 5
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 18
+    _criticalRate : 0.0125
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Windcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Nature - ID: 3
+_weaponProjectileSet : weaponProjectileSet_arrow_torrentius (ScriptableWeaponProjectileSet)
+_weaponDamage : 25
+_damageBonus : 14
+_readonlyDamageRange : (25, 42)
+_weaponConditionSlot : None
+weaponTexture : bow07Tex_00 (UnityEngine.Texture2D)
+weaponMesh : bow_07 (UnityEngine.Mesh)
+trailColors : #4CFF45FF & #167D33FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 0.78
+    _brightness : 0
+    _contrast : 2
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : bow_takeOut (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : bow_fire01 (UnityEngine.AudioClip)

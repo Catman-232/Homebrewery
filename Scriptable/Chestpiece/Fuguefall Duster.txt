@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0.023
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 16
+    _defense : 17
     _magicDefense : 10
     _fireResist : 0
     _waterResist : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 1

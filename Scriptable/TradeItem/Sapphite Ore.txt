@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Sapphite Ore
+_itemName : Sapphite Ore
+_itemDescription : The crystals audibly shimmer.
+_destroyOnDrop : False
+_vendorCost : 120
+_maxStackAmount : 99
+_itemIcon : _tradIco_63 (UnityEngine.Sprite)
+_itemRarity : Common

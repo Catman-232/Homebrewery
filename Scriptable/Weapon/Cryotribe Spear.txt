@@ -32,8 +32,8 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 0
+    _scriptItem : TRADEITEM_Aqua Muchroom Cap (ScriptableTradeItem)
+    _scriptItemQuantity : 1
 }
 
 - ScriptableWeapon -
@@ -42,8 +42,8 @@ _weaponHoldClipIndex : 2
 _combatElement : Water - ID: 2
 _weaponProjectileSet : 
 _weaponDamage : 25
-_damageBonus : 8
-_readonlyDamageRange : (25, 36)
+_damageBonus : 12
+_readonlyDamageRange : (25, 40)
 _weaponConditionSlot : {
     _scriptableCondition : Cold - ID: 8
     _chance : 0.08

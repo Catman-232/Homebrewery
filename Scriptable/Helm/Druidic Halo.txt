@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-22) HELM_Druidic Halo
+_itemName : Druidic Halo
+_itemDescription : Blending in with nature.
+_destroyOnDrop : False
+_vendorCost : 1380
+_maxStackAmount : 1
+_itemIcon : _helmIco_31 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 7
+    _dexPower : 2
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 7
+    _magicDefense : 8
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 1
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Barknaught Face (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : halo10Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_halo_01 (ScriptableArmorRender)
+_helmOverrideMesh : _helm_halo_10 (UnityEngine.Mesh)

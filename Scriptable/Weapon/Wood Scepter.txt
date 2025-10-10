@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-1) WEAPON_Wood Scepter (Magic Scepter)
+name : (lv-1) WEAPON_Wood Scepter (Scepter, Mind)
 _itemName : Wood Scepter
 _itemDescription : 
 _destroyOnDrop : False

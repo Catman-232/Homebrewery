@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Aqua Muchroom Cap
+_itemName : Aqua Muchroom Cap
+_itemDescription : Contains enough water to fill a small crater.
+_destroyOnDrop : False
+_vendorCost : 36
+_maxStackAmount : 99
+_itemIcon : _tradIco_86 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -37,10 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : [
-    'Condition Resistance: Curse' ~ 0.018
-]
-_canDyeArmor : True
+_canDyeArmor : False
 _colorAdjustParams : {
     _hue : 11
     _saturation : 0.94

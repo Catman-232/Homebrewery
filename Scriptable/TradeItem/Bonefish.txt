@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Bonefish
+_itemName : Bonefish
+_itemDescription : An undead fish with glowing eyes.
+_destroyOnDrop : False
+_vendorCost : 18
+_maxStackAmount : 99
+_itemIcon : _tradIco_101 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Iron Cluster
+_itemName : Iron Cluster
+_itemDescription : A cluster of iron pieces, which can be used to create things.
+_destroyOnDrop : False
+_vendorCost : 15
+_maxStackAmount : 99
+_itemIcon : _tradIco_91 (UnityEngine.Sprite)
+_itemRarity : Common

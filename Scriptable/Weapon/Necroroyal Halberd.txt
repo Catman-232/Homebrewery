@@ -16,12 +16,12 @@ _statArray : {
     _maxMana : 0
     _maxStamina : 0
     _experience : 0
-    _attackPower : 4
+    _attackPower : 6
     _magicPower : 0
     _dexPower : 0
     _criticalRate : 0
     _magicCriticalRate : 0
-    _evasion : 0.018
+    _evasion : 0
     _defense : 0
     _magicDefense : 0
     _fireResist : 0
@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 2
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 10
-_damageBonus : 6
-_readonlyDamageRange : (10, 19)
+_weaponDamage : 7
+_damageBonus : 12
+_readonlyDamageRange : (7, 22)
 _weaponConditionSlot : None
 weaponTexture : polearm02Tex_02 (UnityEngine.Texture2D)
 weaponMesh : polearm_02_alt00 (UnityEngine.Mesh)

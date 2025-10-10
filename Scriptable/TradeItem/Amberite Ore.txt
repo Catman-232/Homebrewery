@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Amberite Ore
+_itemName : Amberite Ore
+_itemDescription : The glistening gems are as bright as the sun.
+_destroyOnDrop : False
+_vendorCost : 80
+_maxStackAmount : 99
+_itemIcon : _tradIco_62 (UnityEngine.Sprite)
+_itemRarity : Common

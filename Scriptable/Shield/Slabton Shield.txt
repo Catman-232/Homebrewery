@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-12) SHIELD_Slabton Shield
+_itemName : Slabton Shield
+_itemDescription : A heavy slab of stone, resembling a hog-like face.
+_destroyOnDrop : False
+_vendorCost : 340
+_maxStackAmount : 1
+_itemIcon : _shieldIco_13 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 5
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_07 (UnityEngine.Mesh)
+_shieldTexture : shield07Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 12
+    _saturation : 2
+    _brightness : 0.01
+    _contrast : 1.29
+}

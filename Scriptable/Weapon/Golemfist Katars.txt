@@ -18,11 +18,11 @@ _statArray : {
     _experience : 0
     _attackPower : 0
     _magicPower : 0
-    _dexPower : 5
+    _dexPower : 15
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 3
+    _defense : 5
     _magicDefense : 0
     _fireResist : 0
     _waterResist : 0
@@ -41,9 +41,9 @@ weaponType : Dexterity_Melee_2H
 _weaponHoldClipIndex : 0
 _combatElement : Earth - ID: 4
 _weaponProjectileSet : 
-_weaponDamage : 20
-_damageBonus : 8
-_readonlyDamageRange : (20, 31)
+_weaponDamage : 30
+_damageBonus : 15
+_readonlyDamageRange : (30, 48)
 _weaponConditionSlot : {
     _scriptableCondition : Gash - ID: 0
     _chance : 0.12

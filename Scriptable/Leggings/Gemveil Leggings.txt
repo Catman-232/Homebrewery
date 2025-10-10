@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 13
+    _defense : 16
     _magicDefense : 4
     _fireResist : 0
     _waterResist : 0
@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
+    _scriptItem : TRADEITEM_Deathknight Gauntlet (ScriptableTradeItem)
     _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

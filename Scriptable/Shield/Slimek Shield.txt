@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-4) SHIELD_Slimek Shield
+_itemName : Slimek Shield
+_itemDescription : A violated iron shield, coated in Slimek slime.
+_destroyOnDrop : False
+_vendorCost : 32
+_maxStackAmount : 1
+_itemIcon : _shieldIco_17 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 4
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 2
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Slimek Core (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_02 (UnityEngine.Mesh)
+_shieldTexture : shield02Tex_04 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}

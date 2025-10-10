@@ -33,7 +33,7 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Hellsludge Core (ScriptableTradeItem)
-    _scriptItemQuantity : 5
+    _scriptItemQuantity : 1
 }
 
 - ScriptableWeapon -

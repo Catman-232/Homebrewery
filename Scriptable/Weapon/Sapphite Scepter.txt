@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-18) WEAPON_Sapphite Scepter (Scepter, Mind)
+_itemName : Sapphite Scepter
+_itemDescription : How's it feeling?
+_destroyOnDrop : False
+_vendorCost : 1420
+_maxStackAmount : 1
+_itemIcon : _wepIco_98 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 8
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.014
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_1H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : weaponProjectileSet_scepter(sapphite) (ScriptableWeaponProjectileSet)
+_weaponDamage : 19
+_damageBonus : 12
+_readonlyDamageRange : (19, 34)
+_weaponConditionSlot : None
+weaponTexture : _scepter09Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _scepter09 (UnityEngine.Mesh)
+trailColors : #00D1FFFF & #104565FF
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.34
+    _brightness : -0.02
+    _contrast : 1.5
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : weapon_scepterSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _spinScepter (UnityEngine.AudioClip)

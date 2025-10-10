@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-26) WEAPON_Follycannon (Shotgun, Dexterity)
+_itemName : Follycannon
+_itemDescription : A smaller replica of a Boomboar's cannon, though much stronger, and more versatile.
+_destroyOnDrop : False
+_vendorCost : 2150
+_maxStackAmount : 1
+_itemIcon : _wepIco_89 (UnityEngine.Sprite)
+_itemRarity : Exotic
+
+- ScriptableEquipment -
+_equipmentLevel : 26
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 4
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 21
+    _criticalRate : 0.024
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Boomboar Pouch (ScriptableTradeItem)
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Ranged_2H
+_weaponHoldClipIndex : 1
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : weaponProjectileSet_follycannon (ScriptableWeaponProjectileSet)
+_weaponDamage : 48
+_damageBonus : 14
+_readonlyDamageRange : (48, 65)
+_weaponConditionSlot : None
+weaponTexture : gun01Tex_00 (UnityEngine.Texture2D)
+weaponMesh : gun_01 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #FF0000FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1.2
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : weapon_pickup (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 2
+_setWeaponSwingSfx : forceshotgun_lv2 (UnityEngine.AudioClip)

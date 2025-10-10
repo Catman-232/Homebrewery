@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-6) HELM_Dense Helm
+_itemName : Dense Helm
+_itemDescription : Are you dense in the head?
+_destroyOnDrop : False
+_vendorCost : 100
+_maxStackAmount : 1
+_itemIcon : _helmIco_37 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 6
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1.08
+    _brightness : -0.12
+    _contrast : 1.12
+}
+_armorTexture : _helm00Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 80.5
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : True
+_isFullHelm : False
+_helmRender : helmRender_wizardHat01 (ScriptableArmorRender)
+_helmOverrideMesh : _helm_00 (UnityEngine.Mesh)

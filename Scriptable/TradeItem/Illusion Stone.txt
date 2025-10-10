@@ -3,7 +3,7 @@ name : TRADEITEM_Illusion Stone
 _itemName : Illusion Stone
 _itemDescription : This magical stone can be used to change the appearance of things.
 _destroyOnDrop : False
-_vendorCost : 300
+_vendorCost : 350
 _maxStackAmount : 20
 _itemIcon : _tradIco_18 (UnityEngine.Sprite)
 _itemRarity : Common

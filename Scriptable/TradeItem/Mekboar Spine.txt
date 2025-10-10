@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Mekboar Spine
+_itemName : Mekboar Spine
+_itemDescription : An artificially made spine to hold the weapon of a Mekboar.
+_destroyOnDrop : False
+_vendorCost : 45
+_maxStackAmount : 99
+_itemIcon : _tradIco_67 (UnityEngine.Sprite)
+_itemRarity : Common

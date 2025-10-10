@@ -22,14 +22,14 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 2
+    _defense : 5
     _magicDefense : 0
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0
     _earthResist : 0
     _holyResist : 0
-    _shadowResist : 1
+    _shadowResist : 0
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)

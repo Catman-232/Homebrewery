@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-6) WEAPON_Deathgel Shivs (Fist Weapon, Dexterity)
+name : (lv-6) WEAPON_Deathgel Shivs (Fist Weapons, Dexterity)
 _itemName : Deathgel Shivs
 _itemDescription : Rotted, deadly Deathgel ears.
 _destroyOnDrop : False
@@ -18,7 +18,7 @@ _statArray : {
     _experience : 0
     _attackPower : 0
     _magicPower : 0
-    _dexPower : 3
+    _dexPower : 2
     _criticalRate : 0.002
     _magicCriticalRate : 0
     _evasion : 0

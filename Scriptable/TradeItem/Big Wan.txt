@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Big Wan
+_itemName : Big Wan
+_itemDescription : A mighty fish that took some wrangling to get.
+_destroyOnDrop : False
+_vendorCost : 1200
+_maxStackAmount : 99
+_itemIcon : _tradIco_102 (UnityEngine.Sprite)
+_itemRarity : Rare

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Amberite Ingot
+_itemName : Amberite Ingot
+_itemDescription : A reinforced bar of Amberite ore. Can be used to create armor or weapons.
+_destroyOnDrop : False
+_vendorCost : 120
+_maxStackAmount : 99
+_itemIcon : _tradIco_95 (UnityEngine.Sprite)
+_itemRarity : Common

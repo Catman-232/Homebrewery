@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-6) WEAPON_Dense Spear (Polearm, Strength)
+_itemName : Dense Spear
+_itemDescription : The density of this spear is remarkable.
+_destroyOnDrop : False
+_vendorCost : 168
+_maxStackAmount : 1
+_itemIcon : _wepIco_91 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0018
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 2
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 10
+_damageBonus : 8
+_readonlyDamageRange : (10, 21)
+_weaponConditionSlot : None
+weaponTexture : polearm07Tex_00 (UnityEngine.Texture2D)
+weaponMesh : polearm_07 (UnityEngine.Mesh)
+trailColors : #FFFFFFA3 & #8C8C8C84
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.5
+    _brightness : 0
+    _contrast : 1.1
+}
+_weaponTakeOutSfxIndex : 2
+_setWeaponTakeOutSfx : _polearmTakeOut01 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : _polearmSwing03 (UnityEngine.AudioClip)

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Demigolem Gem
+_itemName : Demigolem Gem
+_itemDescription : A gem of a Demigolem.
+_destroyOnDrop : False
+_vendorCost : 28
+_maxStackAmount : 99
+_itemIcon : _tradIco_85 (UnityEngine.Sprite)
+_itemRarity : Common

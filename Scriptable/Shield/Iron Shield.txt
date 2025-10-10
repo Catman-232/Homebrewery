@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 3
+    _defense : 4
     _magicDefense : 0
     _fireResist : 0
     _waterResist : 0

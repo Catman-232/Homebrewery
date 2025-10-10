@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-24) RING_Valdur Effigy
+_itemName : Valdur Effigy
+_itemDescription : A small figure depicting Valdur, the Wind Golem. It contains incredible power.
+_destroyOnDrop : False
+_vendorCost : 2480
+_maxStackAmount : 1
+_itemIcon : icon_ring16 (UnityEngine.Sprite)
+_itemRarity : Exotic
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 13
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0075
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 8
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 3
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : 

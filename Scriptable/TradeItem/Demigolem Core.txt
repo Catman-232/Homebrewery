@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Demigolem Core
+_itemName : Demigolem Core
+_itemDescription : The heart of a Demigolem. Out of any golem core, this one stands out being the most intimidating.
+_destroyOnDrop : False
+_vendorCost : 50
+_maxStackAmount : 99
+_itemIcon : _tradIco_84 (UnityEngine.Sprite)
+_itemRarity : Common

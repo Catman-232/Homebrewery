@@ -3,7 +3,7 @@ name : (lv-22) WEAPON_Deathknight Runeblade (Great Weapon, Strength)
 _itemName : Deathknight Runeblade
 _itemDescription : Do not listen to what this blade tells you.
 _destroyOnDrop : False
-_vendorCost : 985
+_vendorCost : 1685
 _maxStackAmount : 1
 _itemIcon : _wepIco_75 (UnityEngine.Sprite)
 _itemRarity : Rare
@@ -32,8 +32,8 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 0
+    _scriptItem : TRADEITEM_Deathknight Gauntlet (ScriptableTradeItem)
+    _scriptItemQuantity : 2
 }
 
 - ScriptableWeapon -

@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-2) RING_The One Ring
+_itemName : The One Ring
+_itemDescription : It's that one ring, the one that... well, could rule them all. Probably.
+_destroyOnDrop : False
+_vendorCost : 80
+_maxStackAmount : 1
+_itemIcon : icon_ring19 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 2
+_classRequirement : 
+_statArray : {
+    _maxHealth : 1
+    _maxMana : 1
+    _maxStamina : 1
+    _experience : 0
+    _attackPower : 1
+    _magicPower : 1
+    _dexPower : 1
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : 

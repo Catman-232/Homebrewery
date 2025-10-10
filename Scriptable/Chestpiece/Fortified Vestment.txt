@@ -1,29 +1,29 @@
 - ScriptableItem -
-name : (lv-14) CHESTPIECE_Fortified Vestment
+name : (lv-20) CHESTPIECE_Fortified Vestment
 _itemName : Fortified Vestment
 _itemDescription : 
 _destroyOnDrop : False
-_vendorCost : 760
+_vendorCost : 1168
 _maxStackAmount : 1
 _itemIcon : _chestIco_30 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 14
+_equipmentLevel : 20
 _classRequirement : 
 _statArray : {
-    _maxHealth : 3
+    _maxHealth : 4
     _maxMana : 0
     _maxStamina : 0
     _experience : 0
-    _attackPower : 0
+    _attackPower : 6
     _magicPower : 0
     _dexPower : 0
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 9
-    _magicDefense : 2
+    _defense : 24
+    _magicDefense : 4
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0
@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 0
+    _scriptItem : TRADEITEM_Mekboar Spine (ScriptableTradeItem)
+    _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : -21
@@ -63,6 +62,6 @@ _robeSkirtTexture :
 _hipMeshDisplay : 00_armorRender_hipMesh_01 (ScriptableArmorRender)
 _hipMeshTexture : hipMesh_01_tex_00 (UnityEngine.Texture2D)
 _armCuffRender : 00_armorRender_armCuffs_02 (ScriptableArmorRender)
-_shoulderpadMesh : 
-_shoulderpadTexture : 
-_shoulderPadDisplayType : None
+_shoulderpadMesh : vikingArmor_shoulderPad (UnityEngine.Mesh)
+_shoulderpadTexture : _building01 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Right

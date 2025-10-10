@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Vampiric Coat
 _itemName : Vampiric Coat
-_itemDescription : 
+_itemDescription : I'm interested in this.
 _destroyOnDrop : False
 _vendorCost : 450
 _maxStackAmount : 1
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

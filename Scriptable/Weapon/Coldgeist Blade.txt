@@ -42,13 +42,13 @@ _weaponHoldClipIndex : 0
 _combatElement : Water - ID: 2
 _weaponProjectileSet : 
 _weaponDamage : 19
-_damageBonus : 1
-_readonlyDamageRange : (19, 23)
+_damageBonus : 3
+_readonlyDamageRange : (19, 25)
 _weaponConditionSlot : {
     _scriptableCondition : Cold - ID: 8
     _chance : 0.1
-    _bonusPower : 3
-    _bonusDuration : 0
+    _bonusPower : 5
+    _bonusDuration : 1
 }
 weaponTexture : blade06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade06 (UnityEngine.Mesh)

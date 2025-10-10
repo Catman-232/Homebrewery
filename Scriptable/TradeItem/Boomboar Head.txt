@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Boomboar Head
+_itemName : Boomboar Head
+_itemDescription : The face of a maniac. You don't trust this face.
+_destroyOnDrop : False
+_vendorCost : 42
+_maxStackAmount : 99
+_itemIcon : _tradIco_64 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -3,7 +3,7 @@ name : (lv-6) HELM_Diva Crown
 _itemName : Diva Crown
 _itemDescription : A crown worn by a Slime Diva. Contains unusual power.
 _destroyOnDrop : False
-_vendorCost : 136
+_vendorCost : 235
 _maxStackAmount : 1
 _itemIcon : _helmIco_12 (UnityEngine.Sprite)
 _itemRarity : Rare
@@ -33,11 +33,10 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Slime Diva Ears (ScriptableTradeItem)
-    _scriptItemQuantity : 3
+    _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

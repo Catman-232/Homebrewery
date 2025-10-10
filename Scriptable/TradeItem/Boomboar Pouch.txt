@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Boomboar Pouch
+_itemName : Boomboar Pouch
+_itemDescription : A pouch of cannonballs that are magically tucked inside. Rather than a fleshy organ, the pouch is made of leather.
+_destroyOnDrop : False
+_vendorCost : 120
+_maxStackAmount : 99
+_itemIcon : _tradIco_71 (UnityEngine.Sprite)
+_itemRarity : Common

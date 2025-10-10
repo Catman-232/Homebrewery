@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Deathknight Gauntlet
+_itemName : Deathknight Gauntlet
+_itemDescription : A gauntlet of a Death Knight. The flesh of a Carbuncle is still inside of it.
+_destroyOnDrop : False
+_vendorCost : 30
+_maxStackAmount : 99
+_itemIcon : _tradIco_83 (UnityEngine.Sprite)
+_itemRarity : Common

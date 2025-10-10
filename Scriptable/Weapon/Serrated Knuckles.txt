@@ -14,7 +14,7 @@ _classRequirement :
 _statArray : {
     _maxHealth : 0
     _maxMana : 0
-    _maxStamina : 6
+    _maxStamina : 3
     _experience : 0
     _attackPower : 0
     _magicPower : 0

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Firebreath Gland
+_itemName : Firebreath Gland
+_itemDescription : Slippery and slimey... disgusting.
+_destroyOnDrop : False
+_vendorCost : 32
+_maxStackAmount : 99
+_itemIcon : _tradIco_81 (UnityEngine.Sprite)
+_itemRarity : Common

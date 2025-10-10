@@ -1,0 +1,67 @@
+- ScriptableItem -
+name : (lv-18) CHESTPIECE_Sapphite Guard
+_itemName : Sapphite Guard
+_itemDescription : Ideally worn by magical knights.
+_destroyOnDrop : False
+_vendorCost : 1560
+_maxStackAmount : 1
+_itemIcon : _chestIco_55 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 16
+    _maxStamina : 8
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 12
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 15
+    _magicDefense : 10
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -7
+    _saturation : 2
+    _brightness : -0.04
+    _contrast : 1.09
+}
+_armorTexture : _chTex_60a (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : _chTex_60_leg (UnityEngine.Texture2D)
+_boobOverrideTexture : _chTex_60b (UnityEngine.Texture2D)
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 00_armorRender_hipMesh_01 (ScriptableArmorRender)
+_hipMeshTexture : hipMesh_01_tex03 (UnityEngine.Texture2D)
+_armCuffRender : 00_armorRender_armCuffs_01 (ScriptableArmorRender)
+_shoulderpadMesh : shoulderpad_pad01 (UnityEngine.Mesh)
+_shoulderpadTexture : blue3 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : Both

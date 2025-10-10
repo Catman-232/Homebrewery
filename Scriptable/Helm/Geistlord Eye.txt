@@ -3,7 +3,7 @@ name : (lv-16) HELM_Geistlord Eye
 _itemName : Geistlord Eye
 _itemDescription : Madness beyond comprehension.
 _destroyOnDrop : False
-_vendorCost : 3000
+_vendorCost : 900
 _maxStackAmount : 1
 _itemIcon : _helmIco_15 (UnityEngine.Sprite)
 _itemRarity : Exotic
@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 9
+    _defense : 3
     _magicDefense : 12
     _fireResist : 0
     _waterResist : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

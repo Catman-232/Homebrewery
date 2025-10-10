@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Vout Wing
+_itemName : Vout Wing
+_itemDescription : A beautiful wing of a Vout.
+_destroyOnDrop : False
+_vendorCost : 28
+_maxStackAmount : 99
+_itemIcon : _tradIco_73 (UnityEngine.Sprite)
+_itemRarity : Common

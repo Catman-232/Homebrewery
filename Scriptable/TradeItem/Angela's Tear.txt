@@ -6,4 +6,4 @@ _destroyOnDrop : False
 _vendorCost : 3500
 _maxStackAmount : 1
 _itemIcon : _tradIco_31 (UnityEngine.Sprite)
-_itemRarity : Common
+_itemRarity : Rare

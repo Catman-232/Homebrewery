@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Sugeel
+_itemName : Sugeel
+_itemDescription : A cousin of the Sugshrimp family.
+_destroyOnDrop : False
+_vendorCost : 20
+_maxStackAmount : 99
+_itemIcon : _tradIco_103 (UnityEngine.Sprite)
+_itemRarity : Common

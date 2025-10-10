@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Experience Bond
+_itemName : Experience Bond
+_itemDescription : A special token to acquire a subclass tome. Find the Mad Statue in Sanctum to trade it.
+_destroyOnDrop : False
+_vendorCost : 0
+_maxStackAmount : 1
+_itemIcon : _tradIco_100 (UnityEngine.Sprite)
+_itemRarity : Rare

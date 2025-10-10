@@ -13,7 +13,7 @@ _equipmentLevel : 16
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
-    _maxMana : 10
+    _maxMana : 8
     _maxStamina : 0
     _experience : 0
     _attackPower : 0
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
-_canDyeArmor : True
+_canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1
     _saturation : 2

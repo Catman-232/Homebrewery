@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Starlight Gem
+_itemName : Starlight Gem
+_itemDescription : A rare gem that sings a beautiful light.
+_destroyOnDrop : False
+_vendorCost : 850
+_maxStackAmount : 99
+_itemIcon : _tradIco_99 (UnityEngine.Sprite)
+_itemRarity : Rare

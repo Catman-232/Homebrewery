@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-24) HELM_Boarus Helm
+_itemName : Boarus Helm
+_itemDescription : Oink!
+_destroyOnDrop : False
+_vendorCost : 1560
+_maxStackAmount : 1
+_itemIcon : _helmIco_33 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 24
+_classRequirement : 
+_statArray : {
+    _maxHealth : 5
+    _maxMana : 0
+    _maxStamina : 15
+    _experience : 0
+    _attackPower : 6
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 23
+    _magicDefense : 3
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Warboar Axe (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1.3
+    _brightness : 0.1
+    _contrast : 1.39
+}
+_armorTexture : fullHelm00Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 100
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : True
+_isFullHelm : True
+_helmRender : helmRender_fullHelm (ScriptableArmorRender)
+_helmOverrideMesh : _fullhelm_00 (UnityEngine.Mesh)

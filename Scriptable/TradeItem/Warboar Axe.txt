@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Warboar Axe
+_itemName : Warboar Axe
+_itemDescription : A very, very large axe that is branded by a Warboar. It is so heavy that Warboars typically spin with them to attack their foes.
+_destroyOnDrop : False
+_vendorCost : 50
+_maxStackAmount : 99
+_itemIcon : _tradIco_69 (UnityEngine.Sprite)
+_itemRarity : Common

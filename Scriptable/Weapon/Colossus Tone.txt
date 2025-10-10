@@ -32,8 +32,8 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Soul Pearl (ScriptableTradeItem)
-    _scriptItemQuantity : 3
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
+    _scriptItemQuantity : 1
 }
 
 - ScriptableWeapon -
@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_2H
 _weaponHoldClipIndex : 0
 _combatElement : Earth - ID: 4
 _weaponProjectileSet : weaponProjectileSet_bell_colossusTone (ScriptableWeaponProjectileSet)
-_weaponDamage : 24
+_weaponDamage : 26
 _damageBonus : 3
-_readonlyDamageRange : (24, 30)
+_readonlyDamageRange : (26, 32)
 _weaponConditionSlot : {
     _scriptableCondition : Gash - ID: 0
     _chance : 0.1

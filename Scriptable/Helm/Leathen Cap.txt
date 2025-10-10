@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-22) HELM_Leathen Cap
+_itemName : Leathen Cap
+_itemDescription : Worn by quick-witted bandits.
+_destroyOnDrop : False
+_vendorCost : 1237
+_maxStackAmount : 1
+_itemIcon : _helmIco_32 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 3
+    _maxStamina : 7
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 12
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : nubcapTex02 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 100
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_nubCap (ScriptableArmorRender)
+_helmOverrideMesh : helm_nubcap_01 (UnityEngine.Mesh)

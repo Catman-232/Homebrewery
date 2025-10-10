@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-18) WEAPON_Rummok Bladerings (Fist Weapons, Dexterity)
+_itemName : Rummok Bladerings
+_itemDescription : Built using Mekboar noserings.
+_destroyOnDrop : False
+_vendorCost : 980
+_maxStackAmount : 1
+_itemIcon : _wepIco_81 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 12
+    _criticalRate : 0.0047
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mekboar Nosering (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 24
+_damageBonus : 13
+_readonlyDamageRange : (24, 40)
+_weaponConditionSlot : None
+weaponTexture : katar09Tex_00 (UnityEngine.Texture2D)
+weaponMesh : katar_09 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #959595FF
+_textureColorAdjust : {
+    _hue : 72
+    _saturation : 1.66
+    _brightness : 0.03
+    _contrast : 1.21
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingLight (UnityEngine.AudioClip)

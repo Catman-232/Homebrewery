@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Vinethorn
+_itemName : Vinethorn
+_itemDescription : Damn it! Got pricked!
+_destroyOnDrop : False
+_vendorCost : 42
+_maxStackAmount : 99
+_itemIcon : _tradIco_82 (UnityEngine.Sprite)
+_itemRarity : Common

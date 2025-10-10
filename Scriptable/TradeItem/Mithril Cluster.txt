@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Mithril Cluster
+_itemName : Mithril Cluster
+_itemDescription : A cluster of mithril pieces, which can be used to create things.
+_destroyOnDrop : False
+_vendorCost : 20
+_maxStackAmount : 99
+_itemIcon : _tradIco_92 (UnityEngine.Sprite)
+_itemRarity : Common

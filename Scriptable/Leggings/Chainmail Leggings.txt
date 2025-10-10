@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
-_canDyeArmor : True
+_canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1
     _saturation : 1

@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-20) WEAPON_Nulrok Spear (Polearm, Strength)
+_itemName : Nulrok Spear
+_itemDescription : 
+_destroyOnDrop : False
+_vendorCost : 1360
+_maxStackAmount : 1
+_itemIcon : _wepIco_80 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 20
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 12
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0068
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mekboar Nosering (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 2
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 23
+_damageBonus : 12
+_readonlyDamageRange : (23, 38)
+_weaponConditionSlot : None
+weaponTexture : polearm06Tex_00 (UnityEngine.Texture2D)
+weaponMesh : polearm_06 (UnityEngine.Mesh)
+trailColors : #FFFFFFA3 & #8C8C8C84
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.15
+    _brightness : -0.02
+    _contrast : 1.48
+}
+_weaponTakeOutSfxIndex : 2
+_setWeaponTakeOutSfx : _polearmTakeOut01 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : _polearmSwing03 (UnityEngine.AudioClip)

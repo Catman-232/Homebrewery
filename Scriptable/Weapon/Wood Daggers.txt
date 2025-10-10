@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-1) WEAPON_Wood Daggers (Fist Weapon, Dexterity)
+name : (lv-1) WEAPON_Wood Daggers (Fist Weapons, Dexterity)
 _itemName : Wood Daggers
 _itemDescription : 
 _destroyOnDrop : False
@@ -54,7 +54,7 @@ _textureColorAdjust : {
     _brightness : 0
     _contrast : 1
 }
-_weaponTakeOutSfxIndex : 0
-_setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _weaponSheathe_woodMelee01 (UnityEngine.AudioClip)
 _weaponSwingSfxIndex : 0
 _setWeaponSwingSfx : _swingLight (UnityEngine.AudioClip)

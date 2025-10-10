@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-20) WEAPON_Nulrok Mace (Mace, Strength)
+_itemName : Nulrok Mace
+_itemDescription : Bash them all in!
+_destroyOnDrop : False
+_vendorCost : 980
+_maxStackAmount : 1
+_itemIcon : _wepIco_79 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 20
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 14
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0087
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 1
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 21
+_damageBonus : 8
+_readonlyDamageRange : (21, 32)
+_weaponConditionSlot : None
+weaponTexture : mace02Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_mace02 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #A4A4A4FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.28
+    _brightness : 0.11
+    _contrast : 1.5
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _mediumSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

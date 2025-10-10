@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-6) WEAPON_Dense Mace (Sword, Strength)
+_itemName : Dense Mace
+_itemDescription : A dense, heavy mace. That's a lot of damage!
+_destroyOnDrop : False
+_vendorCost : 98
+_maxStackAmount : 1
+_itemIcon : _wepIco_90 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 3
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 1
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 8
+_damageBonus : 9
+_readonlyDamageRange : (8, 20)
+_weaponConditionSlot : None
+weaponTexture : mace05Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_mace05 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #ADADAD59
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1.4
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _weaponSheathe_woodMelee (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

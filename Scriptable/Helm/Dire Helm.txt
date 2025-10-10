@@ -1,28 +1,28 @@
 - ScriptableItem -
-name : (lv-1) HELM_Dire Helm
+name : (lv-22) HELM_Dire Helm
 _itemName : Dire Helm
 _itemDescription : Once worn by a brave warrior.
 _destroyOnDrop : False
-_vendorCost : 320
+_vendorCost : 1360
 _maxStackAmount : 1
 _itemIcon : _helmIco_09 (UnityEngine.Sprite)
-_itemRarity : Cosmetic
+_itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 1
+_equipmentLevel : 22
 _classRequirement : 
 _statArray : {
-    _maxHealth : 0
+    _maxHealth : 3
     _maxMana : 0
     _maxStamina : 0
     _experience : 0
-    _attackPower : 0
+    _attackPower : 5
     _magicPower : 0
     _dexPower : 0
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 0
+    _defense : 21
     _magicDefense : 0
     _fireResist : 0
     _waterResist : 0
@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
+    _scriptItem : TRADEITEM_Rageboar Head (ScriptableTradeItem)
     _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

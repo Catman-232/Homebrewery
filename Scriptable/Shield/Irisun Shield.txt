@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-22) SHIELD_Irisun Shield
+_itemName : Irisun Shield
+_itemDescription : The gem in the middle contains a considerable amount of mana.
+_destroyOnDrop : False
+_vendorCost : 1300
+_maxStackAmount : 1
+_itemIcon : _shieldIco_14 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 15
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 8
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 13
+    _magicDefense : 15
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Barknaught Face (ScriptableTradeItem)
+    _scriptItemQuantity : 2
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_08 (UnityEngine.Mesh)
+_shieldTexture : shield08Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : -11
+    _saturation : 1.4
+    _brightness : 0.08
+    _contrast : 1.16
+}

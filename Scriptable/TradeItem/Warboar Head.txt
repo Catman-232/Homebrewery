@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Warboar Head
+_itemName : Warboar Head
+_itemDescription : The head of one devastating boar.
+_destroyOnDrop : False
+_vendorCost : 60
+_maxStackAmount : 99
+_itemIcon : _tradIco_65 (UnityEngine.Sprite)
+_itemRarity : Common

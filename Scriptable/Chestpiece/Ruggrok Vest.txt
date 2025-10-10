@@ -1,0 +1,67 @@
+- ScriptableItem -
+name : (lv-22) CHESTPIECE_Ruggrok Vest
+_itemName : Ruggrok Vest
+_itemDescription : Security!!
+_destroyOnDrop : False
+_vendorCost : 1290
+_maxStackAmount : 1
+_itemIcon : _chestIco_48 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 4
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 20
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 14
+    _magicDefense : 16
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Mekboar Spine (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _chTex_53 (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : True
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : 
+_neckCollarTexture : 
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 
+_shoulderpadMesh : _shoulderpad_01 (UnityEngine.Mesh)
+_shoulderpadTexture : shoulderpad00Tex_02 (UnityEngine.Texture2D)
+_shoulderPadDisplayType : None

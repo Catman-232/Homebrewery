@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 0
+    _scriptItem : TRADEITEM_Deathknight Gauntlet (ScriptableTradeItem)
+    _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

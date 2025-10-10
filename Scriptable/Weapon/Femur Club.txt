@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-2) WEAPON_Femur Club (Mace, Strength)
+_itemName : Femur Club
+_itemDescription : It's not possible that this would be a Wisp's femur... it's only a floating head!
+_destroyOnDrop : False
+_vendorCost : 12
+_maxStackAmount : 1
+_itemIcon : _wepIco_87 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 2
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Ghostdust (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 1
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 3
+_damageBonus : 3
+_readonlyDamageRange : (3, 9)
+_weaponConditionSlot : None
+weaponTexture : mace04Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_mace04 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #ADADAD59
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _weaponSheathe_woodMelee (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : melee_swipe (UnityEngine.AudioClip)

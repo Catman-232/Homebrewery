@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Rock (ScriptableTradeItem)
-    _scriptItemQuantity : 5
+    _scriptItem : 
+    _scriptItemQuantity : 0
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

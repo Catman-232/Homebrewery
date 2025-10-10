@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) LEGGINGS_Vampiric Leggings
 _itemName : Vampiric Leggings
-_itemDescription : 
+_itemDescription : The trousers of a master's master.
 _destroyOnDrop : False
 _vendorCost : 300
 _maxStackAmount : 1
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

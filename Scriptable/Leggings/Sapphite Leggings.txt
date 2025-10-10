@@ -1,0 +1,59 @@
+- ScriptableItem -
+name : (lv-18) LEGGINGS_Sapphite Leggings
+_itemName : Sapphite Leggings
+_itemDescription : Dazzling, yet revealing.
+_destroyOnDrop : False
+_vendorCost : 1215
+_maxStackAmount : 1
+_itemIcon : _legIco_34 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 5
+    _maxStamina : 2
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 5
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 7
+    _magicDefense : 8
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -7
+    _saturation : 2
+    _brightness : -0.04
+    _contrast : 1.09
+}
+_armorTexture : _lgTex_58 (UnityEngine.Texture2D)
+
+- ScriptableLeggings -
+_textureUpperLegOnly : False
+_textureFeet : True
+_legPieceRender_01 : 00_armorRender_legCuffs_00 (ScriptableArmorRender)
+_legPieceTexture_01 : _lgTex_58 (UnityEngine.Texture2D)
+_legPieceRender_02 : 
+_legPieceTexture_02 : _lgTex_58 (UnityEngine.Texture2D)
+_legPieceRender_03 : 
+_legPieceTexture_03 : _lgTex_58 (UnityEngine.Texture2D)
+_legPieceRender_04 : 
+_legPieceTexture_04 : _lgTex_58 (UnityEngine.Texture2D)

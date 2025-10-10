@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-12) LEGGINGS_Darkcloth Pants
 _itemName : Darkcloth Pants
-_itemDescription : 
+_itemDescription : Keep it dark, keep it subtle.
 _destroyOnDrop : False
 _vendorCost : 615
 _maxStackAmount : 1
@@ -13,17 +13,17 @@ _equipmentLevel : 12
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
-    _maxMana : 5
-    _maxStamina : 0
+    _maxMana : 0
+    _maxStamina : 3
     _experience : 0
     _attackPower : 0
-    _magicPower : 5
-    _dexPower : 4
+    _magicPower : 1
+    _dexPower : 3
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 5
-    _magicDefense : 8
+    _defense : 4
+    _magicDefense : 0
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-6) SHIELD_Dense Shield
+_itemName : Dense Shield
+_itemDescription : That's one heavy shield! Oh yeah, it's dense too. Forgot about that.
+_destroyOnDrop : False
+_vendorCost : 185
+_maxStackAmount : 1
+_itemIcon : _shieldIco_18 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 3
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 6
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_11 (UnityEngine.Mesh)
+_shieldTexture : shield11Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.269
+    _brightness : -0.074
+    _contrast : 1.139
+}

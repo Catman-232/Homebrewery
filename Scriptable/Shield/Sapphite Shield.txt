@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-18) SHIELD_Sapphite Shield
+_itemName : Sapphite Shield
+_itemDescription : The sapphite can show your reflection.
+_destroyOnDrop : False
+_vendorCost : 1320
+_maxStackAmount : 1
+_itemIcon : _shieldIco_19 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 8
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 7
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 12
+    _magicDefense : 10
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_12 (UnityEngine.Mesh)
+_shieldTexture : shield12Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : -7
+    _saturation : 2
+    _brightness : -0.04
+    _contrast : 1.09
+}

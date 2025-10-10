@@ -26,7 +26,7 @@ _statArray : {
     _magicDefense : 10
     _fireResist : 0
     _waterResist : 0
-    _natureResist : 1
+    _natureResist : 0
     _earthResist : 0
     _holyResist : 0
     _shadowResist : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 1

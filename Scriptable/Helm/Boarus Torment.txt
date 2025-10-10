@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-26) HELM_Boarus Torment
+_itemName : Boarus Torment
+_itemDescription : A horn resembling the downfall of a civilization.
+_destroyOnDrop : False
+_vendorCost : 3500
+_maxStackAmount : 1
+_itemIcon : _helmIco_42 (UnityEngine.Sprite)
+_itemRarity : Exotic
+
+- ScriptableEquipment -
+_equipmentLevel : 26
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 12
+    _magicPower : 12
+    _dexPower : 12
+    _criticalRate : 0.023
+    _magicCriticalRate : 0.023
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_canDyeArmor : True
+_colorAdjustParams : {
+    _hue : 0
+    _saturation : 1
+    _brightness : 0
+    _contrast : 1
+}
+_armorTexture : _helm03Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 0
+_useHelmHairDisplay : False
+_hideEars : False
+_hideMisc : False
+_isFullHelm : False
+_helmRender : helmRender_wizardHat01 (ScriptableArmorRender)
+_helmOverrideMesh : _helm_03 (UnityEngine.Mesh)

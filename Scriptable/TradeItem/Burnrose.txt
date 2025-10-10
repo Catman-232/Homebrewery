@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Burnrose
+_itemName : Burnrose
+_itemDescription : A rose with hot and spicy petals.
+_destroyOnDrop : False
+_vendorCost : 35
+_maxStackAmount : 99
+_itemIcon : _tradIco_26 (UnityEngine.Sprite)
+_itemRarity : Common

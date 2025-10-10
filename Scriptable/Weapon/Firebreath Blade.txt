@@ -1,0 +1,65 @@
+- ScriptableItem -
+name : (lv-22) WEAPON_Firebreath Blade (Sword, Strength)
+_itemName : Firebreath Blade
+_itemDescription : A burning flame of a Firebreath's gland.
+_destroyOnDrop : False
+_vendorCost : 1840
+_maxStackAmount : 1
+_itemIcon : _wepIco_85 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 3
+    _dexPower : 0
+    _criticalRate : 0.012
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Firebreath Gland (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_combatElement : Fire - ID: 1
+_weaponProjectileSet : 
+_weaponDamage : 30
+_damageBonus : 4
+_readonlyDamageRange : (30, 37)
+_weaponConditionSlot : {
+    _scriptableCondition : Burn - ID: 7
+    _chance : 0.08
+    _bonusPower : 3
+    _bonusDuration : 1
+}
+weaponTexture : blade09Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _weapon_blade09 (UnityEngine.Mesh)
+trailColors : #FF5E00FF & #CF0000FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.65
+    _brightness : 0
+    _contrast : 1.16
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _mediumSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

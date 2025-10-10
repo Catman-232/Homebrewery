@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-12) WEAPON_Geistlord Claws (Fist Weapon, Dexterity)
+name : (lv-12) WEAPON_Geistlord Claws (Fist Weapons, Dexterity)
 _itemName : Geistlord Claws
 _itemDescription : Shreds through the wailing souls.
 _destroyOnDrop : False

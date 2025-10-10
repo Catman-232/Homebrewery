@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-18) WEAPON_Sapphite Bell (Magic Bell, Mind)
+_itemName : Sapphite Bell
+_itemDescription : A bell that chimes the luxurious sound of flux magic.
+_destroyOnDrop : False
+_vendorCost : 1285
+_maxStackAmount : 1
+_itemIcon : _wepIco_99 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 3
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 12
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.0023
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Mind_Ranged_2H
+_weaponHoldClipIndex : 0
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : weaponProjectileSet_bell_sapphite (ScriptableWeaponProjectileSet)
+_weaponDamage : 20
+_damageBonus : 12
+_readonlyDamageRange : (20, 35)
+_weaponConditionSlot : None
+weaponTexture : bell06Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _bell_06 (UnityEngine.Mesh)
+trailColors : #45A7FFFF & #2455F5FF
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.34
+    _brightness : -0.02
+    _contrast : 1.5
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _takeOutBell3 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _bellSwing04 (UnityEngine.AudioClip)

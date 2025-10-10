@@ -20,7 +20,7 @@ _statArray : {
     _magicPower : 3
     _dexPower : 0
     _criticalRate : 0
-    _magicCriticalRate : 0.0075
+    _magicCriticalRate : 0
     _evasion : 0
     _defense : 0
     _magicDefense : 0
@@ -33,7 +33,7 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Ghostdust (ScriptableTradeItem)
-    _scriptItemQuantity : 5
+    _scriptItemQuantity : 3
 }
 
 - ScriptableWeapon -

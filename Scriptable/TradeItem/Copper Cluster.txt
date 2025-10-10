@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Copper Cluster
+_itemName : Copper Cluster
+_itemDescription : A cluster of copper pieces, which can be used to create things.
+_destroyOnDrop : False
+_vendorCost : 12
+_maxStackAmount : 99
+_itemIcon : _tradIco_90 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Boomboar Gear
+_itemName : Boomboar Gear
+_itemDescription : A base of a Boomboar's cannon. It is extremely heavy.
+_destroyOnDrop : False
+_vendorCost : 60
+_maxStackAmount : 99
+_itemIcon : _tradIco_66 (UnityEngine.Sprite)
+_itemRarity : Common

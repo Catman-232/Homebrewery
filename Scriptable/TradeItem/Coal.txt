@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Coal
+_itemName : Coal
+_itemDescription : Some coal from mined ore.
+_destroyOnDrop : False
+_vendorCost : 10
+_maxStackAmount : 99
+_itemIcon : _tradIco_89 (UnityEngine.Sprite)
+_itemRarity : Common

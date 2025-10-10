@@ -1,0 +1,65 @@
+- ScriptableItem -
+name : (lv-12) WEAPON_Dolkin's Axe (Great Weapon, Strength)
+_itemName : Dolkin's Axe
+_itemDescription : A heavy axe that's hot when hit, but cool enough to hold forever.
+_destroyOnDrop : False
+_vendorCost : 620
+_maxStackAmount : 1
+_itemIcon : _wepIco_84 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 2
+    _experience : 0
+    _attackPower : 5
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0.0034
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Burnrose (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_2H
+_weaponHoldClipIndex : 1
+_combatElement : Fire - ID: 1
+_weaponProjectileSet : 
+_weaponDamage : 20
+_damageBonus : 16
+_readonlyDamageRange : (20, 39)
+_weaponConditionSlot : {
+    _scriptableCondition : Burn - ID: 7
+    _chance : 0.2
+    _bonusPower : 0
+    _bonusDuration : -1
+}
+weaponTexture : heavyAxe02Tex_00 (UnityEngine.Texture2D)
+weaponMesh : _heavyWeapon_axe02 (UnityEngine.Mesh)
+trailColors : #FF2E0D72 & #FF1447FF
+_textureColorAdjust : {
+    _hue : -11
+    _saturation : 2
+    _brightness : 0
+    _contrast : 1.73
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _heavySheath_02 (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingHeavy (UnityEngine.AudioClip)

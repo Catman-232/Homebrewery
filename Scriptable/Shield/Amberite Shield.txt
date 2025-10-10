@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-12) SHIELD_Amberite Shield
+_itemName : Amberite Shield
+_itemDescription : A rigorous, striking, square shield.
+_destroyOnDrop : False
+_vendorCost : 280
+_maxStackAmount : 1
+_itemIcon : _shieldIco_16 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 5
+    _experience : 0
+    _attackPower : 3
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 12
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_10 (UnityEngine.Mesh)
+_shieldTexture : shield10Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.38
+    _brightness : 0.01
+    _contrast : 1.07
+}

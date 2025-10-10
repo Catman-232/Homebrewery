@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-6) WEAPON_Dense Katars (Fist Weapons, Dexterity)
+_itemName : Dense Katars
+_itemDescription : Dense and deadly.
+_destroyOnDrop : False
+_vendorCost : 142
+_maxStackAmount : 1
+_itemIcon : _wepIco_92 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 6
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 4
+    _criticalRate : 0.012
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 5
+_damageBonus : 6
+_readonlyDamageRange : (5, 14)
+_weaponConditionSlot : None
+weaponTexture : katar10Tex_00 (UnityEngine.Texture2D)
+weaponMesh : katar_10 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #959595FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.5
+    _brightness : -0.12
+    _contrast : 1.1
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingLight (UnityEngine.AudioClip)

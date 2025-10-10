@@ -3,7 +3,7 @@ name : (lv-10) HELM_Geistlord Crown
 _itemName : Geistlord Crown
 _itemDescription : Can you handle the madness that ensues?
 _destroyOnDrop : False
-_vendorCost : 1200
+_vendorCost : 650
 _maxStackAmount : 1
 _itemIcon : _helmIco_13 (UnityEngine.Sprite)
 _itemRarity : Exotic
@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 4
+    _defense : 2
     _magicDefense : 6
     _fireResist : 0
     _waterResist : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

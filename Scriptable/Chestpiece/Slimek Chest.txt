@@ -33,11 +33,10 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Slimek Core (ScriptableTradeItem)
-    _scriptItemQuantity : 10
+    _scriptItemQuantity : 2
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 0

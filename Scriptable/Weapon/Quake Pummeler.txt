@@ -32,7 +32,7 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Soul Pearl (ScriptableTradeItem)
+    _scriptItem : TRADEITEM_Earthcore Badge (ScriptableTradeItem)
     _scriptItemQuantity : 1
 }
 

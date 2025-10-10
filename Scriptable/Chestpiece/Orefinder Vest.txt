@@ -1,0 +1,67 @@
+- ScriptableItem -
+name : (lv-1) CHESTPIECE_Orefinder Vest
+_itemName : Orefinder Vest
+_itemDescription : A dedicated miners vest!
+_destroyOnDrop : False
+_vendorCost : 250
+_maxStackAmount : 1
+_itemIcon : _chestIco_54 (UnityEngine.Sprite)
+_itemRarity : Cosmetic
+
+- ScriptableEquipment -
+_equipmentLevel : 1
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 0
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : -72
+    _saturation : 1.18
+    _brightness : -0.02
+    _contrast : 1.11
+}
+_armorTexture : _chTex_59 (UnityEngine.Texture2D)
+
+- ScriptableChestpiece -
+_lockBoobs : False
+_disableJiggleBoobBones : False
+_textureArms : False
+_legOverlayTexture : 
+_boobOverrideTexture : 
+_neckCollarMesh : mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture : _capeTex_03 (UnityEngine.Texture2D)
+_chestRenderDisplay : 
+_chestRenderTexture : 
+_chestRenderBoobTexture : 
+_robeSkirtRender : 
+_robeSkirtTexture : 
+_hipMeshDisplay : 
+_hipMeshTexture : 
+_armCuffRender : 00_armorRender_armCuffs_00 (ScriptableArmorRender)
+_shoulderpadMesh : 
+_shoulderpadTexture : 
+_shoulderPadDisplayType : None

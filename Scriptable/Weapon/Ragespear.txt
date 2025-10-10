@@ -16,7 +16,7 @@ _statArray : {
     _maxMana : 0
     _maxStamina : 8
     _experience : 0
-    _attackPower : 7
+    _attackPower : 10
     _magicPower : 0
     _dexPower : 0
     _criticalRate : 0.045
@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 2
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 20
-_damageBonus : 2
-_readonlyDamageRange : (20, 25)
+_weaponDamage : 25
+_damageBonus : 9
+_readonlyDamageRange : (25, 37)
 _weaponConditionSlot : {
     _scriptableCondition : Gash - ID: 0
     _chance : 0.08

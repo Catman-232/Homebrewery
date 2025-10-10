@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-22) HELM_Guardel Helm
 _itemName : Guardel Helm
-_itemDescription : 
+_itemDescription : A hat made of pure stone, yet can be worn light as a feather.
 _destroyOnDrop : False
 _vendorCost : 850
 _maxStackAmount : 1
@@ -22,7 +22,7 @@ _statArray : {
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 18
+    _defense : 15
     _magicDefense : 5
     _fireResist : 0
     _waterResist : 0
@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 0
+    _scriptItem : TRADEITEM_Demigolem Core (ScriptableTradeItem)
+    _scriptItemQuantity : 2
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 360

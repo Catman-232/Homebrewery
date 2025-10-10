@@ -1,0 +1,47 @@
+- ScriptableItem -
+name : (lv-22) SHIELD_Daemon Shield
+_itemName : Daemon Shield
+_itemDescription : Keep your eyes away from the front of this shield!
+_destroyOnDrop : False
+_vendorCost : 1586
+_maxStackAmount : 1
+_itemIcon : _shieldIco_15 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 22
+_classRequirement : 
+_statArray : {
+    _maxHealth : 7
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 8
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 18
+    _magicDefense : 2
+    _fireResist : 3
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Demigolem Gem (ScriptableTradeItem)
+    _scriptItemQuantity : 3
+}
+
+- ScriptableShield -
+_shieldMesh : _shield_09 (UnityEngine.Mesh)
+_shieldTexture : shield09Tex_00 (UnityEngine.Texture2D)
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.31
+    _brightness : 0.02
+    _contrast : 1.1
+}

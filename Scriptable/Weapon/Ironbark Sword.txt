@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-2) WEAPON_Ironbark Sword (Sword, Strength)
+_itemName : Ironbark Sword
+_itemDescription : Stronger and more fierce than your standard wood sword.
+_destroyOnDrop : False
+_vendorCost : 45
+_maxStackAmount : 1
+_itemIcon : _wepIco_83 (UnityEngine.Sprite)
+_itemRarity : Rare
+
+- ScriptableEquipment -
+_equipmentLevel : 2
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : 
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Strength_Melee_1H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 2
+_damageBonus : 8
+_readonlyDamageRange : (2, 13)
+_weaponConditionSlot : None
+weaponTexture : _sword01Tex_wood (UnityEngine.Texture2D)
+weaponMesh : _mediumMelee_sword01 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #A8A8A8FF
+_textureColorAdjust : {
+    _hue : -38
+    _saturation : 0.282
+    _brightness : 0
+    _contrast : 1.296
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : _weaponSheathe_woodMelee (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingMedium (UnityEngine.AudioClip)

@@ -5,7 +5,7 @@ _itemDescription : Used to test texturing.
 _destroyOnDrop : False
 _vendorCost : 1
 _maxStackAmount : 1
-_itemIcon : _abIco00 (UnityEngine.Sprite)
+_itemIcon : _genericRobeIco_01 (UnityEngine.Sprite)
 _itemRarity : Cosmetic
 
 - ScriptableEquipment -
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 9

@@ -9,7 +9,7 @@ _itemIcon : _capIco_04 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 4
+_equipmentLevel : 2
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : -300

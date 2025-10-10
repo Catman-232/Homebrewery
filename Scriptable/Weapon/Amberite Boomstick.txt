@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-12) WEAPON_Amberite Boomstick (Shotgun, Dexterity)
+_itemName : Amberite Boomstick
+_itemDescription : This... is... my... BOOMSTICK!
+_destroyOnDrop : False
+_vendorCost : 260
+_maxStackAmount : 1
+_itemIcon : _wepIco_96 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 0
+    _dexPower : 3
+    _criticalRate : 0.004
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Ranged_2H
+_weaponHoldClipIndex : 1
+_combatElement : Normal - ID: 0
+_weaponProjectileSet : weaponProjectileSet_gun_00 (ScriptableWeaponProjectileSet)
+_weaponDamage : 15
+_damageBonus : 3
+_readonlyDamageRange : (15, 21)
+_weaponConditionSlot : None
+weaponTexture : gun02Tex_00 (UnityEngine.Texture2D)
+weaponMesh : gun_02 (UnityEngine.Mesh)
+trailColors : #FFFFFFFF & #FF0000FF
+_textureColorAdjust : {
+    _hue : 1
+    _saturation : 1.22
+    _brightness : -0.06
+    _contrast : 1.14
+}
+_weaponTakeOutSfxIndex : 1
+_setWeaponTakeOutSfx : weapon_pickup (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 1
+_setWeaponSwingSfx : forceshotgun_lv1 (UnityEngine.AudioClip)

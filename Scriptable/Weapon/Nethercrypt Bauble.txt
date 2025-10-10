@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-14) WEAPON_Nethercrypt Bauble (Magic Scepter)
+name : (lv-14) WEAPON_Nethercrypt Bauble (Scepter, Mind)
 _itemName : Nethercrypt Bauble
 _itemDescription : It's hard to comprehend how terrible the malformed skull is.
 _destroyOnDrop : False

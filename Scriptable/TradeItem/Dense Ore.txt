@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Dense Ore
+_itemName : Dense Ore
+_itemDescription : A dark, dense clump of standard ore.
+_destroyOnDrop : False
+_vendorCost : 24
+_maxStackAmount : 99
+_itemIcon : _tradIco_94 (UnityEngine.Sprite)
+_itemRarity : Common

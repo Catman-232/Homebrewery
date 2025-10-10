@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-11) CHESTPIECE_Sleeper's Robe
+name : (lv-10) CHESTPIECE_Sleeper's Robe
 _itemName : Sleeper's Robe
 _itemDescription : So tired...
 _destroyOnDrop : False
@@ -9,7 +9,7 @@ _itemIcon : _chestIco_18 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 11
+_equipmentLevel : 10
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 1

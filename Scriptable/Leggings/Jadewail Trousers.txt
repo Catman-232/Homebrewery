@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-24) LEGGINGS_Jadewail Trousers
+name : (lv-20) LEGGINGS_Jadewail Trousers
 _itemName : Jadewail Trousers
 _itemDescription : Wailing jades, glistening in the night...
 _destroyOnDrop : False
@@ -9,7 +9,7 @@ _itemIcon : _legIco_26 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 24
+_equipmentLevel : 20
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
@@ -17,12 +17,12 @@ _statArray : {
     _maxStamina : 0
     _experience : 0
     _attackPower : 0
-    _magicPower : 4
-    _dexPower : 2
+    _magicPower : 3
+    _dexPower : 4
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 10
+    _defense : 9
     _magicDefense : 7
     _fireResist : 0
     _waterResist : 0
@@ -32,12 +32,11 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
+    _scriptItem : TRADEITEM_Gale Muchroom Cap (ScriptableTradeItem)
     _scriptItemQuantity : 1
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : False
 _colorAdjustParams : {
     _hue : 1

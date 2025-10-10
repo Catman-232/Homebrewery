@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Dense Ingot
+_itemName : Dense Ingot
+_itemDescription : A reinforced bar of dense ore. Can be used to create armor or weapons.
+_destroyOnDrop : False
+_vendorCost : 45
+_maxStackAmount : 99
+_itemIcon : _tradIco_98 (UnityEngine.Sprite)
+_itemRarity : Common

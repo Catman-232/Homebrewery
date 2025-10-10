@@ -1,0 +1,60 @@
+- ScriptableItem -
+name : (lv-18) WEAPON_Sapphite Katars (Fist Weapons, Dexterity)
+_itemName : Sapphite Katars
+_itemDescription : Shank em' with the beauty of sapphite.
+_destroyOnDrop : False
+_vendorCost : 1100
+_maxStackAmount : 1
+_itemIcon : _wepIco_101 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 18
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 8
+    _experience : 0
+    _attackPower : 0
+    _magicPower : 3
+    _dexPower : 15
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 0
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Sapphite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableWeapon -
+weaponType : Dexterity_Melee_2H
+_weaponHoldClipIndex : 0
+_combatElement : None
+_weaponProjectileSet : 
+_weaponDamage : 28
+_damageBonus : 14
+_readonlyDamageRange : (28, 45)
+_weaponConditionSlot : None
+weaponTexture : katar11Tex_00 (UnityEngine.Texture2D)
+weaponMesh : katar_11 (UnityEngine.Mesh)
+trailColors : #00D1FFFF & #104565FF
+_textureColorAdjust : {
+    _hue : 0
+    _saturation : 1.34
+    _brightness : 0.13
+    _contrast : 1.5
+}
+_weaponTakeOutSfxIndex : 0
+_setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)
+_weaponSwingSfxIndex : 0
+_setWeaponSwingSfx : _swingLight (UnityEngine.AudioClip)

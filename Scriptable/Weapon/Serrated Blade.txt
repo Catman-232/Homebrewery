@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-17) WEAPON_Serrated Blade (Sword, Strength)
+name : (lv-16) WEAPON_Serrated Blade (Sword, Strength)
 _itemName : Serrated Blade
 _itemDescription : 
 _destroyOnDrop : False
@@ -9,7 +9,7 @@ _itemIcon : _wepIco_59 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 17
+_equipmentLevel : 16
 _classRequirement : 
 _statArray : {
     _maxHealth : 0

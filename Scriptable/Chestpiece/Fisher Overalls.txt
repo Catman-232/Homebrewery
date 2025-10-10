@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-1) CHESTPIECE_Fisher Overalls
 _itemName : Fisher Overalls
-_itemDescription : 
+_itemDescription : Is fishing all you do?
 _destroyOnDrop : False
 _vendorCost : 800
 _maxStackAmount : 1
@@ -37,7 +37,6 @@ _statModifierCost : {
 }
 
 - ScriptableArmor -
-_conditionResistances : []
 _canDyeArmor : True
 _colorAdjustParams : {
     _hue : 0

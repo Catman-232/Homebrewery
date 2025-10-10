@@ -1,0 +1,56 @@
+- ScriptableItem -
+name : (lv-12) HELM_Amberite Helm
+_itemName : Amberite Helm
+_itemDescription : Those are some long lookin horns you got there!
+_destroyOnDrop : False
+_vendorCost : 250
+_maxStackAmount : 1
+_itemIcon : _helmIco_38 (UnityEngine.Sprite)
+_itemRarity : Common
+
+- ScriptableEquipment -
+_equipmentLevel : 12
+_classRequirement : 
+_statArray : {
+    _maxHealth : 0
+    _maxMana : 0
+    _maxStamina : 0
+    _experience : 0
+    _attackPower : 4
+    _magicPower : 0
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0
+    _evasion : 0
+    _defense : 10
+    _magicDefense : 0
+    _fireResist : 0
+    _waterResist : 0
+    _natureResist : 0
+    _earthResist : 0
+    _holyResist : 0
+    _shadowResist : 0
+}
+_statModifierCost : {
+    _scriptItem : TRADEITEM_Amberite Ingot (ScriptableTradeItem)
+    _scriptItemQuantity : 1
+}
+
+- ScriptableArmor -
+_canDyeArmor : False
+_colorAdjustParams : {
+    _hue : 1
+    _saturation : 1.2
+    _brightness : 0.01
+    _contrast : 1.11
+}
+_armorTexture : _helm01Tex_00 (UnityEngine.Texture2D)
+
+- ScriptableHelm -
+_blendHelmValue : 84.5
+_useHelmHairDisplay : True
+_hideEars : False
+_hideMisc : True
+_isFullHelm : False
+_helmRender : helmRender_wizardHat01 (ScriptableArmorRender)
+_helmOverrideMesh : _helm_01 (UnityEngine.Mesh)

@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Sapphite Ingot
+_itemName : Sapphite Ingot
+_itemDescription : A reinforced bar of Sapphite ore. Can be used to create armor or weapons.
+_destroyOnDrop : False
+_vendorCost : 182
+_maxStackAmount : 99
+_itemIcon : _tradIco_96 (UnityEngine.Sprite)
+_itemRarity : Common

@@ -16,7 +16,7 @@ _statArray : {
     _maxMana : 0
     _maxStamina : 0
     _experience : 0
-    _attackPower : 5
+    _attackPower : 6
     _magicPower : 0
     _dexPower : 0
     _criticalRate : 0

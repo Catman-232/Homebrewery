@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Vout Antennae
+_itemName : Vout Antennae
+_itemDescription : Vouts can detect flux energies from miles away with these.
+_destroyOnDrop : False
+_vendorCost : 16
+_maxStackAmount : 99
+_itemIcon : _tradIco_74 (UnityEngine.Sprite)
+_itemRarity : Common
