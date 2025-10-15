@@ -21,8 +21,8 @@ _statArray : {
     _dexPower : 12
     _criticalRate : 0
     _magicCriticalRate : 0
-    _evasion : 0
-    _defense : 16
+    _evasion : 0.015
+    _defense : 20
     _magicDefense : 10
     _fireResist : 0
     _waterResist : 0
