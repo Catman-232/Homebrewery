@@ -4,6 +4,6 @@ _itemName : Maw Eye
 _itemDescription : There's a glare of anxiety in the dilated pupil.
 _destroyOnDrop : False
 _vendorCost : 12
-_maxStackAmount : 45
+_maxStackAmount : 99
 _itemIcon : _tradIco_37 (UnityEngine.Sprite)
 _itemRarity : Common

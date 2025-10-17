@@ -4,6 +4,6 @@ _itemName : Blightwood Log
 _itemDescription : The inside is very hot, containing a burning blue flame that never seems to go out.
 _destroyOnDrop : False
 _vendorCost : 12
-_maxStackAmount : 15
+_maxStackAmount : 99
 _itemIcon : _tradIco_24 (UnityEngine.Sprite)
 _itemRarity : Common

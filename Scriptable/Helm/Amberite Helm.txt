@@ -49,7 +49,7 @@ _armorTexture : _helm01Tex_00 (UnityEngine.Texture2D)
 - ScriptableHelm -
 _blendHelmValue : 84.5
 _useHelmHairDisplay : True
-_hideEars : False
+_hideEars : True
 _hideMisc : True
 _isFullHelm : False
 _helmRender : helmRender_wizardHat01 (ScriptableArmorRender)

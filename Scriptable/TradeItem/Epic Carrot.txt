@@ -6,4 +6,4 @@ _destroyOnDrop : True
 _vendorCost : 0
 _maxStackAmount : 1
 _itemIcon : _tradIco_61 (UnityEngine.Sprite)
-_itemRarity : Exotic
+_itemRarity : Quest

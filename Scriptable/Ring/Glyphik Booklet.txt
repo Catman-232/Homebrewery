@@ -1,11 +1,11 @@
 - ScriptableItem -
-name : (lv-26) RING_Tessellated Drive
-_itemName : Tessellated Drive
-_itemDescription : A strange, advanced piece of technology. Perhaps used as a controller for Galius' weapon.
+name : (lv-26) RING_Glyphik Booklet
+_itemName : Glyphik Booklet
+_itemDescription : A valuable booklet containing mystical, magical prowess. Angela would read this often.
 _destroyOnDrop : False
-_vendorCost : 3450
+_vendorCost : 3600
 _maxStackAmount : 1
-_itemIcon : icon_ring18 (UnityEngine.Sprite)
+_itemIcon : icon_ring21 (UnityEngine.Sprite)
 _itemRarity : Exotic
 
 - ScriptableEquipment -
@@ -13,17 +13,17 @@ _equipmentLevel : 26
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
-    _maxMana : 15
-    _maxStamina : 10
+    _maxMana : 20
+    _maxStamina : 0
     _experience : 0
     _attackPower : 0
-    _magicPower : 0
-    _dexPower : 20
-    _criticalRate : 0.0248
-    _magicCriticalRate : 0
+    _magicPower : 28
+    _dexPower : 0
+    _criticalRate : 0
+    _magicCriticalRate : 0.025
     _evasion : 0
     _defense : 0
-    _magicDefense : 0
+    _magicDefense : 12
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0

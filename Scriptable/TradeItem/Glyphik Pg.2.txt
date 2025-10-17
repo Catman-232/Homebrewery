@@ -1,0 +1,9 @@
+- ScriptableItem -
+name : TRADEITEM_Glyphik Pg.2
+_itemName : Glyphik Pg.2
+_itemDescription : The second page to the Glyphik booklet. Bring it to Angela once you've collected every page!
+_destroyOnDrop : False
+_vendorCost : 0
+_maxStackAmount : 1
+_itemIcon : _tradIco_76 (UnityEngine.Sprite)
+_itemRarity : Quest
