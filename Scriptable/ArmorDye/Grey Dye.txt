@@ -12,7 +12,8 @@ _itemRarity : Common
 _consumableCooldown : 1.5
 _consumableObject : _consumableEffect_greyDye (UnityEngine.GameObject)
 _useOnlyInTown : False
-_unperishable : False
+_unperishable : True
+(Dyes are not actually unperishable in vanilla, HB sets them to be!)
 
 - ScriptableArmorDye -
 _dyeParams : {

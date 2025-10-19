@@ -1,7 +1,8 @@
 - ScriptableItem -
 name : TRADEITEM_Soul Pearl
 _itemName : Soul Pearl
-_itemDescription : Allows the holder to revive a fallen soul.
+_itemDescription : Allows the holder to instantly revive a fallen soul without cast time.
+
 <color=cyan>To revive someone, press the interact key when nearby them.</color>
 _destroyOnDrop : False
 _vendorCost : 3500
