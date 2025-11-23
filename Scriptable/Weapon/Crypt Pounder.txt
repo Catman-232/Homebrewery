@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 0
 _combatElement : Shadow - ID: 6
 _weaponProjectileSet : 
-_weaponDamage : 18
-_damageBonus : 7
-_readonlyDamageRange : (18, 28)
+_weaponDamage : 23
+_damageBonus : 10
+_readonlyDamageRange : (23, 36)
 _weaponConditionSlot : {
     _scriptableCondition : Hex - ID: 5
     _chance : 0.12

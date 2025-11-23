@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 0
 _combatElement : Shadow - ID: 6
 _weaponProjectileSet : weaponProjectileSet_arrow_shadow (ScriptableWeaponProjectileSet)
-_weaponDamage : 12
-_damageBonus : 3
-_readonlyDamageRange : (12, 18)
+_weaponDamage : 16
+_damageBonus : 4
+_readonlyDamageRange : (16, 23)
 _weaponConditionSlot : {
     _scriptableCondition : Hex - ID: 5
     _chance : 0.062

@@ -13,7 +13,7 @@ _equipmentLevel : 24
 _classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
 _statArray : {
     _maxHealth : 0
-    _maxMana : 15
+    _maxMana : 23
     _maxStamina : 0
     _experience : 0
     _attackPower : 0

@@ -13,7 +13,7 @@ _equipmentLevel : 12
 _classRequirement : 01_CLASS_mystic (ScriptablePlayerBaseClass)
 _statArray : {
     _maxHealth : 0
-    _maxMana : 2
+    _maxMana : 12
     _maxStamina : 0
     _experience : 0
     _attackPower : 0
@@ -52,8 +52,8 @@ _disableJiggleBoobBones : False
 _textureArms : True
 _legOverlayTexture : 
 _boobOverrideTexture : _chTex_28b (UnityEngine.Texture2D)
-_neckCollarMesh : 
-_neckCollarTexture : 
+_neckCollarMesh : mysticArmor_collar (UnityEngine.Mesh)
+_neckCollarTexture : _chTex_28a (UnityEngine.Texture2D)
 _chestRenderDisplay : 
 _chestRenderTexture : 
 _chestRenderBoobTexture : 

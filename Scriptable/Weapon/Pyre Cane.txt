@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : Fire - ID: 1
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_fire)_00 (ScriptableWeaponProjectileSet)
-_weaponDamage : 9
+_weaponDamage : 12
 _damageBonus : 1
-_readonlyDamageRange : (9, 13)
+_readonlyDamageRange : (12, 16)
 _weaponConditionSlot : {
     _scriptableCondition : Burn - ID: 7
     _chance : 0.012

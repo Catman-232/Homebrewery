@@ -33,7 +33,7 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Slime Core (ScriptableTradeItem)
-    _scriptItemQuantity : 3
+    _scriptItemQuantity : 1
 }
 
 - ScriptableWeapon -

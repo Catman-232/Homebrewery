@@ -32,8 +32,8 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : 
-    _scriptItemQuantity : 1
+    _scriptItem : TRADEITEM_Ghostdust (ScriptableTradeItem)
+    _scriptItemQuantity : 2
 }
 
 - ScriptableArmor -

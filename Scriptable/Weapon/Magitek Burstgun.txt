@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 1
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : weaponProjectileSet_magitekBurstGun (ScriptableWeaponProjectileSet)
-_weaponDamage : 20
+_weaponDamage : 23
 _damageBonus : 4
-_readonlyDamageRange : (20, 27)
+_readonlyDamageRange : (23, 30)
 _weaponConditionSlot : None
 weaponTexture : gun00Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_00 (UnityEngine.Mesh)

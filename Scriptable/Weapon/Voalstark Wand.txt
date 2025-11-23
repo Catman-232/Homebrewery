@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : Nature - ID: 3
 _weaponProjectileSet : weaponProjectileSet_scepter(voalstark) (ScriptableWeaponProjectileSet)
-_weaponDamage : 21
-_damageBonus : 12
-_readonlyDamageRange : (21, 36)
+_weaponDamage : 25
+_damageBonus : 14
+_readonlyDamageRange : (25, 42)
 _weaponConditionSlot : None
 weaponTexture : scepter08Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter08 (UnityEngine.Mesh)

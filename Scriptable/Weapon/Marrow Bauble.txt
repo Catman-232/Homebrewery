@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : Shadow - ID: 6
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_shadow) (ScriptableWeaponProjectileSet)
-_weaponDamage : 5
+_weaponDamage : 7
 _damageBonus : 6
-_readonlyDamageRange : (5, 14)
+_readonlyDamageRange : (7, 16)
 _weaponConditionSlot : None
 weaponTexture : scepter05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter05 (UnityEngine.Mesh)

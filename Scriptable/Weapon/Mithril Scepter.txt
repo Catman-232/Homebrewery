@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : None
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_normal) (ScriptableWeaponProjectileSet)
-_weaponDamage : 12
-_damageBonus : 5
-_readonlyDamageRange : (12, 20)
+_weaponDamage : 17
+_damageBonus : 0
+_readonlyDamageRange : (17, 20)
 _weaponConditionSlot : None
 weaponTexture : scepter02Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _scepter02_alt00 (UnityEngine.Mesh)

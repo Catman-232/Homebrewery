@@ -33,7 +33,7 @@ _statArray : {
 }
 _statModifierCost : {
     _scriptItem : TRADEITEM_Deathgel Core (ScriptableTradeItem)
-    _scriptItemQuantity : 5
+    _scriptItemQuantity : 2
 }
 
 - ScriptableWeapon -
@@ -41,9 +41,9 @@ weaponType : Dexterity_Melee_2H
 _weaponHoldClipIndex : 0
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 4
-_damageBonus : 8
-_readonlyDamageRange : (4, 15)
+_weaponDamage : 7
+_damageBonus : 4
+_readonlyDamageRange : (7, 14)
 _weaponConditionSlot : None
 weaponTexture : katar03Tex_01 (UnityEngine.Texture2D)
 weaponMesh : katar_03 (UnityEngine.Mesh)

@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 2
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 8
-_damageBonus : 5
-_readonlyDamageRange : (8, 16)
+_weaponDamage : 13
+_damageBonus : 7
+_readonlyDamageRange : (13, 23)
 _weaponConditionSlot : None
 weaponTexture : polearm04Tex_00 (UnityEngine.Texture2D)
 weaponMesh : polearm_04 (UnityEngine.Mesh)

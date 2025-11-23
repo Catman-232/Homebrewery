@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 1
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : weaponProjectileSet_follycannon (ScriptableWeaponProjectileSet)
-_weaponDamage : 52
-_damageBonus : 15
-_readonlyDamageRange : (52, 70)
+_weaponDamage : 56
+_damageBonus : 16
+_readonlyDamageRange : (56, 75)
 _weaponConditionSlot : None
 weaponTexture : gun01Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_01 (UnityEngine.Mesh)

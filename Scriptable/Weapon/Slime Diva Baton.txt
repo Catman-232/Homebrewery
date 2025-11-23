@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : None
 _weaponProjectileSet : weaponProjectileSet_slmDivaBaton (ScriptableWeaponProjectileSet)
-_weaponDamage : 12
+_weaponDamage : 13
 _damageBonus : 2
-_readonlyDamageRange : (12, 17)
+_readonlyDamageRange : (13, 18)
 _weaponConditionSlot : None
 weaponTexture : slimeDivaStaffTex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter03 (UnityEngine.Mesh)

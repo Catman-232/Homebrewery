@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 1
 _combatElement : Fire - ID: 1
 _weaponProjectileSet : 
-_weaponDamage : 20
+_weaponDamage : 24
 _damageBonus : 16
-_readonlyDamageRange : (20, 39)
+_readonlyDamageRange : (24, 43)
 _weaponConditionSlot : {
     _scriptableCondition : Burn - ID: 7
     _chance : 0.2

@@ -41,9 +41,9 @@ weaponType : Mind_Ranged_1H
 _weaponHoldClipIndex : 0
 _combatElement : Water - ID: 2
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_water)_00 (ScriptableWeaponProjectileSet)
-_weaponDamage : 8
+_weaponDamage : 10
 _damageBonus : 3
-_readonlyDamageRange : (8, 14)
+_readonlyDamageRange : (10, 16)
 _weaponConditionSlot : {
     _scriptableCondition : Cold - ID: 8
     _chance : 0.2

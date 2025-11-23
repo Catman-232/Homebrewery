@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 0
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
-_weaponDamage : 5
+_weaponDamage : 7
 _damageBonus : 6
-_readonlyDamageRange : (5, 14)
+_readonlyDamageRange : (7, 16)
 _weaponConditionSlot : None
 weaponTexture : bow02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : bow_02 (UnityEngine.Mesh)

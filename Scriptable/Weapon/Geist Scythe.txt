@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 1
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 12
+_weaponDamage : 18
 _damageBonus : 7
-_readonlyDamageRange : (12, 22)
+_readonlyDamageRange : (18, 28)
 _weaponConditionSlot : None
 weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
 weaponMesh : _geistScythe_big (UnityEngine.Mesh)

@@ -1,15 +1,15 @@
 - ScriptableItem -
-name : (lv-6) WEAPON_Dense Katars (Fist Weapons, Dexterity)
-_itemName : Dense Katars
-_itemDescription : Dense and deadly.
+name : (lv-4) WEAPON_Cryptsinge Katars (Fist Weapons, Dexterity)
+_itemName : Cryptsinge Katars
+_itemDescription : Cryptic blades...
 _destroyOnDrop : False
-_vendorCost : 142
+_vendorCost : 12
 _maxStackAmount : 1
-_itemIcon : _wepIco_92 (UnityEngine.Sprite)
+_itemIcon : _wepIco_104 (UnityEngine.Sprite)
 _itemRarity : Common
 
 - ScriptableEquipment -
-_equipmentLevel : 6
+_equipmentLevel : 4
 _classRequirement : 
 _statArray : {
     _maxHealth : 0
@@ -18,8 +18,8 @@ _statArray : {
     _experience : 0
     _attackPower : 0
     _magicPower : 0
-    _dexPower : 4
-    _criticalRate : 0.012
+    _dexPower : 0
+    _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
     _defense : 0
@@ -32,7 +32,7 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Dense Ingot (ScriptableTradeItem)
+    _scriptItem : TRADEITEM_Ghostdust (ScriptableTradeItem)
     _scriptItemQuantity : 1
 }
 
@@ -41,18 +41,18 @@ weaponType : Dexterity_Melee_2H
 _weaponHoldClipIndex : 0
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 8
-_damageBonus : 6
-_readonlyDamageRange : (8, 17)
+_weaponDamage : 4
+_damageBonus : 5
+_readonlyDamageRange : (4, 12)
 _weaponConditionSlot : None
-weaponTexture : katar10Tex_00 (UnityEngine.Texture2D)
-weaponMesh : katar_10 (UnityEngine.Mesh)
+weaponTexture : katar01Tex_01 (UnityEngine.Texture2D)
+weaponMesh : katar_01 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #959595FF
 _textureColorAdjust : {
-    _hue : 1
-    _saturation : 1.5
-    _brightness : -0.12
-    _contrast : 1.1
+    _hue : 120
+    _saturation : 1.687
+    _brightness : -0.349
+    _contrast : 1.339
 }
 _weaponTakeOutSfxIndex : 0
 _setWeaponTakeOutSfx : _lightSheath (UnityEngine.AudioClip)

@@ -41,9 +41,9 @@ weaponType : Strength_Melee_2H
 _weaponHoldClipIndex : 0
 _combatElement : None
 _weaponProjectileSet : 
-_weaponDamage : 16
+_weaponDamage : 20
 _damageBonus : 12
-_readonlyDamageRange : (16, 31)
+_readonlyDamageRange : (20, 35)
 _weaponConditionSlot : None
 weaponTexture : _heavyWeapon01Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_01 (UnityEngine.Mesh)

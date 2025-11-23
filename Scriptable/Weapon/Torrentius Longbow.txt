@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 0
 _combatElement : Nature - ID: 3
 _weaponProjectileSet : weaponProjectileSet_arrow_torrentius (ScriptableWeaponProjectileSet)
-_weaponDamage : 25
+_weaponDamage : 30
 _damageBonus : 14
-_readonlyDamageRange : (25, 42)
+_readonlyDamageRange : (30, 47)
 _weaponConditionSlot : None
 weaponTexture : bow07Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_07 (UnityEngine.Mesh)

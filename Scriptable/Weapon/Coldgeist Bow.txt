@@ -41,9 +41,9 @@ weaponType : Dexterity_Ranged_2H
 _weaponHoldClipIndex : 0
 _combatElement : Water - ID: 2
 _weaponProjectileSet : weaponProjectileSet_arrow_water (ScriptableWeaponProjectileSet)
-_weaponDamage : 20
-_damageBonus : 3
-_readonlyDamageRange : (20, 26)
+_weaponDamage : 24
+_damageBonus : 4
+_readonlyDamageRange : (24, 31)
 _weaponConditionSlot : {
     _scriptableCondition : Cold - ID: 8
     _chance : 0.1
