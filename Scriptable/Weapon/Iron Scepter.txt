@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Mind_Ranged_1H
-_weaponHoldClipIndex : 0
+weaponType : Scepter
 _combatElement : None
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_normal) (ScriptableWeaponProjectileSet)
 _weaponDamage : 7

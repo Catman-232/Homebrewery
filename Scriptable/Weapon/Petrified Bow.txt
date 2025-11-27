@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bow
 _combatElement : Shadow - ID: 6
 _weaponProjectileSet : weaponProjectileSet_arrow_shadow (ScriptableWeaponProjectileSet)
 _weaponDamage : 16

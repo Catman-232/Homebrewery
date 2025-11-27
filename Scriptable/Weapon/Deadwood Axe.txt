@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-16) WEAPON_Deadwood Axe (Hammer, Strength)
+name : (lv-16) WEAPON_Deadwood Axe (Greatblade, Strength)
 _itemName : Deadwood Axe
 _itemDescription : This was wedged deep into a Deadwood. Origins of the cause is a mystery.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 32

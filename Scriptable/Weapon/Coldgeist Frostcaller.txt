@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Mind_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bell
 _combatElement : Water - ID: 2
 _weaponProjectileSet : weaponProjectileSet_bell_coldgeist (ScriptableWeaponProjectileSet)
 _weaponDamage : 19

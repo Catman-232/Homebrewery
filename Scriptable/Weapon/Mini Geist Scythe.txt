@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-4) WEAPON_Mini Geist Scythe (Great Weapon, Strength)
+name : (lv-4) WEAPON_Mini Geist Scythe (Greatblade, Strength)
 _itemName : Mini Geist Scythe
 _itemDescription : The only best friend of a Mini Geist. The blade emanates menacingly.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 12

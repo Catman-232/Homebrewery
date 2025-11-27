@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-4) WEAPON_Wood Spear (Polearm)
+name : (lv-4) WEAPON_Wood Spear (Polearm, Strength)
 _itemName : Wood Spear
 _itemDescription : 
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 2
+weaponType : Polearm
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 3

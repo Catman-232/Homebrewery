@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-14) WEAPON_Hellsludge Shivs (Fist Weapons, Dexterity)
+name : (lv-14) WEAPON_Hellsludge Shivs (Katars, Dexterity)
 _itemName : Hellsludge Shivs
 _itemDescription : Hot, hot, hot to the touch!
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : Fire - ID: 1
 _weaponProjectileSet : 
 _weaponDamage : 13

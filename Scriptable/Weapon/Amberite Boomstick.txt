@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Ranged_2H
-_weaponHoldClipIndex : 1
+weaponType : Shotgun
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : weaponProjectileSet_gun_00 (ScriptableWeaponProjectileSet)
 _weaponDamage : 15

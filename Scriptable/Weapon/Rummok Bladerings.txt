@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-18) WEAPON_Rummok Bladerings (Fist Weapons, Dexterity)
+name : (lv-18) WEAPON_Rummok Bladerings (Katars, Dexterity)
 _itemName : Rummok Bladerings
 _itemDescription : Built using Mekboar noserings.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 24

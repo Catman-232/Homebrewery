@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-16) WEAPON_Serrated Knuckles (Fist Weapons, Dexterity)
+name : (lv-16) WEAPON_Serrated Knuckles (Katars, Dexterity)
 _itemName : Serrated Knuckles
 _itemDescription : 
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 15

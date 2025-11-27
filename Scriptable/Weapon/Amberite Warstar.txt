@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-12) WEAPON_Amberite Warstar (Great Weapon, Strength)
+name : (lv-12) WEAPON_Amberite Warstar (Greatblade, Strength)
 _itemName : Amberite Warstar
 _itemDescription : A shining star, right to the face!
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 30

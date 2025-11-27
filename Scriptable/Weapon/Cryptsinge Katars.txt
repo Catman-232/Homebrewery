@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-4) WEAPON_Cryptsinge Katars (Fist Weapons, Dexterity)
+name : (lv-4) WEAPON_Cryptsinge Katars (Katars, Dexterity)
 _itemName : Cryptsinge Katars
 _itemDescription : Cryptic blades...
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 4

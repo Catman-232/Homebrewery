@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-16) WEAPON_Coldgeist Punisher (Great Weapon, Strength)
+name : (lv-16) WEAPON_Coldgeist Punisher (Greatblade, Strength)
 _itemName : Coldgeist Punisher
 _itemDescription : The blade of the axe is forever frigid.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : Water - ID: 2
 _weaponProjectileSet : 
 _weaponDamage : 36

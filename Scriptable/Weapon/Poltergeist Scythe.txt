@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-14) WEAPON_Poltergeist Scythe (Great Weapon, Strength)
+name : (lv-14) WEAPON_Poltergeist Scythe (Greatblade, Strength)
 _itemName : Poltergeist Scythe
 _itemDescription : The highest tier of a Geist's scythe.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 28

@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-2) WEAPON_Slimecrust Katars (Fist Weapons, Dexterity)
+name : (lv-2) WEAPON_Slimecrust Katars (Katars, Dexterity)
 _itemName : Slimecrust Katars
 _itemDescription : Iron Katars that have been dulled by slime.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 2

@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-12) WEAPON_Dolkin's Axe (Great Weapon, Strength)
+name : (lv-12) WEAPON_Dolkin's Axe (Greatblade, Strength)
 _itemName : Dolkin's Axe
 _itemDescription : A heavy axe that's hot when hit, but cool enough to hold forever.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : Fire - ID: 1
 _weaponProjectileSet : 
 _weaponDamage : 24

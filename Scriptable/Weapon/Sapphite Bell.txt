@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Mind_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bell
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : weaponProjectileSet_bell_sapphite (ScriptableWeaponProjectileSet)
 _weaponDamage : 20

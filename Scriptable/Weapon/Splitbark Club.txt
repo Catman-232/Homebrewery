@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-4) WEAPON_Splitbark Club (Sword, Strength)
+name : (lv-4) WEAPON_Splitbark Club (Mace, Strength)
 _itemName : Splitbark Club
 _itemDescription : No bad thoughts. Bonk.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_1H
-_weaponHoldClipIndex : 1
+weaponType : Mace
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 8

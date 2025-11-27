@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_1H
-_weaponHoldClipIndex : 0
+weaponType : Sword
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 16

@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bow
 _combatElement : Nature - ID: 3
 _weaponProjectileSet : weaponProjectileSet_arrow_torrentius (ScriptableWeaponProjectileSet)
 _weaponDamage : 30

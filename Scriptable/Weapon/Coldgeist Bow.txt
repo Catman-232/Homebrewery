@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bow
 _combatElement : Water - ID: 2
 _weaponProjectileSet : weaponProjectileSet_arrow_water (ScriptableWeaponProjectileSet)
 _weaponDamage : 24

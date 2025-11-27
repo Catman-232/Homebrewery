@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-12) WEAPON_Geistlord Claws (Fist Weapons, Dexterity)
+name : (lv-12) WEAPON_Geistlord Claws (Katars, Dexterity)
 _itemName : Geistlord Claws
 _itemDescription : Shreds through the wailing souls.
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : Shadow - ID: 6
 _weaponProjectileSet : 
 _weaponDamage : 12

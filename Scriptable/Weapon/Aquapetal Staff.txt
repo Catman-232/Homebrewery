@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Mind_Ranged_1H
-_weaponHoldClipIndex : 0
+weaponType : Scepter
 _combatElement : Water - ID: 2
 _weaponProjectileSet : weaponProjectileSet_scepter(ele_water)_01 (ScriptableWeaponProjectileSet)
 _weaponDamage : 18

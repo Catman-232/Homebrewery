@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-26) WEAPON_Ryzer Greataxe (Great Weapon, Strength)
+name : (lv-26) WEAPON_Ryzer Greataxe (Greatblade, Strength)
 _itemName : Ryzer Greataxe
 _itemDescription : Foes are on the chopping block!
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 1
+weaponType : Greatblade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 48

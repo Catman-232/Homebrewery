@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Mind_Ranged_2H
-_weaponHoldClipIndex : 0
+weaponType : Bell
 _combatElement : None
 _weaponProjectileSet : weaponProjectileSet_bell_normal (ScriptableWeaponProjectileSet)
 _weaponDamage : 13

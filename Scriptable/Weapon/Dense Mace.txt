@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-6) WEAPON_Dense Mace (Sword, Strength)
+name : (lv-6) WEAPON_Dense Mace (Mace, Strength)
 _itemName : Dense Mace
 _itemDescription : A dense, heavy mace. That's a lot of damage!
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_1H
-_weaponHoldClipIndex : 1
+weaponType : Mace
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 8

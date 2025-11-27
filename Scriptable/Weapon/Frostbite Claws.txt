@@ -1,5 +1,5 @@
 - ScriptableItem -
-name : (lv-16) WEAPON_Frostbite Claws (Fist Weapons, Dexterity)
+name : (lv-16) WEAPON_Frostbite Claws (Katars, Dexterity)
 _itemName : Frostbite Claws
 _itemDescription : Cold to the touch...
 _destroyOnDrop : False
@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Dexterity_Melee_2H
-_weaponHoldClipIndex : 0
+weaponType : Katars
 _combatElement : Water - ID: 2
 _weaponProjectileSet : 
 _weaponDamage : 13

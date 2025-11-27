@@ -37,8 +37,7 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Strength_Melee_2H
-_weaponHoldClipIndex : 2
+weaponType : Polearm
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 13
