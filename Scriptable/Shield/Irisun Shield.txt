@@ -17,13 +17,13 @@ _statArray : {
     _maxStamina : 0
     _experience : 0
     _attackPower : 0
-    _magicPower : 8
+    _magicPower : 0
     _dexPower : 0
     _criticalRate : 0
     _magicCriticalRate : 0
     _evasion : 0
-    _defense : 13
-    _magicDefense : 15
+    _defense : 10
+    _magicDefense : 14
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0

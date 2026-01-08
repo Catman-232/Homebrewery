@@ -32,8 +32,8 @@ _statArray : {
     _shadowResist : 0
 }
 _statModifierCost : {
-    _scriptItem : TRADEITEM_Windtail Fish (ScriptableTradeItem)
-    _scriptItemQuantity : 5
+    _scriptItem : 
+    _scriptItemQuantity : 0
 }
 
 - ScriptableArmor -

@@ -43,12 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_bell_coldgeist (ScriptableWeaponProje
 _weaponDamage : 19
 _damageBonus : 3
 _readonlyDamageRange : (19, 25)
-_weaponConditionSlot : {
-    _scriptableCondition : Cold - ID: 8
-    _chance : 0.1
-    _bonusPower : 5
-    _bonusDuration : 0
-}
 weaponTexture : bell03Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _bell_03 (UnityEngine.Mesh)
 trailColors : #45A7FFFF & #2455F5FF

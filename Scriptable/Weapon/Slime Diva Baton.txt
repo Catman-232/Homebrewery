@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_slmDivaBaton (ScriptableWeaponProject
 _weaponDamage : 13
 _damageBonus : 2
 _readonlyDamageRange : (13, 18)
-_weaponConditionSlot : None
 weaponTexture : slimeDivaStaffTex_01 (UnityEngine.Texture2D)
 weaponMesh : _scepter03 (UnityEngine.Mesh)
 trailColors : #3AFF00FF & #00AD3DFF

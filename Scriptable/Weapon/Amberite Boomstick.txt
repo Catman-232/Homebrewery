@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_gun_00 (ScriptableWeaponProjectileSet
 _weaponDamage : 15
 _damageBonus : 7
 _readonlyDamageRange : (15, 25)
-_weaponConditionSlot : None
 weaponTexture : gun02Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_02 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

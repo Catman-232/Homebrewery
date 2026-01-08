@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 24
 _damageBonus : 16
 _readonlyDamageRange : (24, 43)
-_weaponConditionSlot : {
-    _scriptableCondition : Burn - ID: 7
-    _chance : 0.2
-    _bonusPower : 0
-    _bonusDuration : -1
-}
 weaponTexture : heavyAxe02Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_axe02 (UnityEngine.Mesh)
 trailColors : #FF2E0D72 & #FF1447FF

@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-10) STATUSCONSUMABLE_Regen Potion
 _itemName : Regen Potion
-_itemDescription : Rejuvinating.
+_itemDescription : Rejuvinating. Each pulse of healing feels like a gentle breeze.
 _destroyOnDrop : False
 _vendorCost : 280
 _maxStackAmount : 99

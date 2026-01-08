@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 30
 _damageBonus : 15
 _readonlyDamageRange : (30, 48)
-_weaponConditionSlot : {
-    _scriptableCondition : Gash - ID: 0
-    _chance : 0.12
-    _bonusPower : 0
-    _bonusDuration : 0
-}
 weaponTexture : katar08Tex_00 (UnityEngine.Texture2D)
 weaponMesh : katar_08 (UnityEngine.Mesh)
 trailColors : #FFB925FF & #FF4200FF

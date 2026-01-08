@@ -19,7 +19,7 @@ _statArray : {
     _attackPower : 0
     _magicPower : 0
     _dexPower : 3
-    _criticalRate : 0.028
+    _criticalRate : 0.012
     _magicCriticalRate : 0
     _evasion : 0.0023
     _defense : 4

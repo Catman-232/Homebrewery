@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(sapphite) (ScriptableWeaponPr
 _weaponDamage : 23
 _damageBonus : 12
 _readonlyDamageRange : (23, 38)
-_weaponConditionSlot : None
 weaponTexture : _scepter09Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter09 (UnityEngine.Mesh)
 trailColors : #00D1FFFF & #104565FF

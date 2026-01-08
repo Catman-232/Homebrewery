@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_arrow (ScriptableWeaponProjectileSet)
 _weaponDamage : 23
 _damageBonus : 2
 _readonlyDamageRange : (23, 28)
-_weaponConditionSlot : None
 weaponTexture : bow02Tex_01 (UnityEngine.Texture2D)
 weaponMesh : bow_02_alt00 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

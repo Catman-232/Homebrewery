@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 20
 _damageBonus : 12
 _readonlyDamageRange : (20, 35)
-_weaponConditionSlot : None
 weaponTexture : _heavyWeapon01Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_01 (UnityEngine.Mesh)
 trailColors : #BEBEBE72 & #A6A6A6FF

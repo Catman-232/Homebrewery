@@ -16,6 +16,7 @@ _unperishable : True
 (Dyes are not actually unperishable in vanilla, HB sets them to be!)
 
 - ScriptableArmorDye -
+_particleColoration : 181A1FFF
 _dyeParams : {
     _hue : 84
     _saturation : 0.15

@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 12
 _damageBonus : 3
 _readonlyDamageRange : (12, 18)
-_weaponConditionSlot : None
 weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_04 (UnityEngine.Mesh)
 trailColors : #FF9C34A5 & #E26700FF

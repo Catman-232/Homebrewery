@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_follycannon (ScriptableWeaponProjecti
 _weaponDamage : 56
 _damageBonus : 16
 _readonlyDamageRange : (56, 75)
-_weaponConditionSlot : None
 weaponTexture : gun01Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_01 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

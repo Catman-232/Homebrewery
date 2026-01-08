@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 14
 _damageBonus : 0
 _readonlyDamageRange : (14, 17)
-_weaponConditionSlot : None
 weaponTexture : axeHammer03Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_03 (UnityEngine.Mesh)
 trailColors : #BEBEBE72 & #A6A6A6FF

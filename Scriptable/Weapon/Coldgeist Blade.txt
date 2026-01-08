@@ -37,18 +37,12 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Sword
+weaponType : Blade
 _combatElement : Water - ID: 2
 _weaponProjectileSet : 
 _weaponDamage : 19
 _damageBonus : 3
 _readonlyDamageRange : (19, 25)
-_weaponConditionSlot : {
-    _scriptableCondition : Cold - ID: 8
-    _chance : 0.1
-    _bonusPower : 5
-    _bonusDuration : 1
-}
 weaponTexture : blade06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade06 (UnityEngine.Mesh)
 trailColors : #3BCFFFFF & #266BB9FF

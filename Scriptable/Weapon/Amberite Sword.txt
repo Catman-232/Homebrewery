@@ -37,13 +37,12 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Sword
+weaponType : Blade
 _combatElement : Normal - ID: 0
 _weaponProjectileSet : 
 _weaponDamage : 16
 _damageBonus : 3
 _readonlyDamageRange : (16, 22)
-_weaponConditionSlot : None
 weaponTexture : blade10Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade10 (UnityEngine.Mesh)
 trailColors : #FFC75FFF & #FAE0C0FF

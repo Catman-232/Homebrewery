@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(wizscepter) (ScriptableWeapon
 _weaponDamage : 15
 _damageBonus : 2
 _readonlyDamageRange : (15, 20)
-_weaponConditionSlot : None
 weaponTexture : scepter07Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter07 (UnityEngine.Mesh)
 trailColors : #0006FFFF & #0A60ECFF

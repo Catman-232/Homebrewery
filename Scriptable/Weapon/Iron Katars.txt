@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 7
 _damageBonus : 3
 _readonlyDamageRange : (7, 13)
-_weaponConditionSlot : None
 weaponTexture : katar01Tex_01 (UnityEngine.Texture2D)
 weaponMesh : katar_01 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #959595FF

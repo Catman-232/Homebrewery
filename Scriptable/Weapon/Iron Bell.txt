@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_bell_normal (ScriptableWeaponProjecti
 _weaponDamage : 9
 _damageBonus : 3
 _readonlyDamageRange : (9, 15)
-_weaponConditionSlot : None
 weaponTexture : bell01Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _bell_01 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

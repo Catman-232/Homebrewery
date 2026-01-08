@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 21
 _damageBonus : 8
 _readonlyDamageRange : (21, 32)
-_weaponConditionSlot : None
 weaponTexture : mace02Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _weapon_mace02 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #A4A4A4FF

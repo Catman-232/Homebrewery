@@ -43,12 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_bell_colossusTone (ScriptableWeaponPr
 _weaponDamage : 26
 _damageBonus : 3
 _readonlyDamageRange : (26, 32)
-_weaponConditionSlot : {
-    _scriptableCondition : Gash - ID: 0
-    _chance : 0.1
-    _bonusPower : 0
-    _bonusDuration : 0
-}
 weaponTexture : bell05Tex_01 (UnityEngine.Texture2D)
 weaponMesh : _bell_05 (UnityEngine.Mesh)
 trailColors : #FF5617FF & #F56624FF

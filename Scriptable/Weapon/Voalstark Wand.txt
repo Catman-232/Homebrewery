@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(voalstark) (ScriptableWeaponP
 _weaponDamage : 25
 _damageBonus : 14
 _readonlyDamageRange : (25, 42)
-_weaponConditionSlot : None
 weaponTexture : scepter08Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter08 (UnityEngine.Mesh)
 trailColors : #22E73DFF & #56DD4AFF

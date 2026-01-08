@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_arrow_pierce (ScriptableWeaponProject
 _weaponDamage : 19
 _damageBonus : 5
 _readonlyDamageRange : (19, 27)
-_weaponConditionSlot : None
 weaponTexture : bow06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_06 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

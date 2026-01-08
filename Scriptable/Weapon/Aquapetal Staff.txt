@@ -43,12 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(ele_water)_01 (ScriptableWeap
 _weaponDamage : 18
 _damageBonus : 3
 _readonlyDamageRange : (18, 24)
-_weaponConditionSlot : {
-    _scriptableCondition : Cold - ID: 8
-    _chance : 0.2
-    _bonusPower : 0
-    _bonusDuration : 0
-}
 weaponTexture : scepter06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter06 (UnityEngine.Mesh)
 trailColors : #00D1FFFF & #104565FF

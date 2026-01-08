@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_bell_sapphite (ScriptableWeaponProjec
 _weaponDamage : 20
 _damageBonus : 12
 _readonlyDamageRange : (20, 35)
-_weaponConditionSlot : None
 weaponTexture : bell06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _bell_06 (UnityEngine.Mesh)
 trailColors : #45A7FFFF & #2455F5FF

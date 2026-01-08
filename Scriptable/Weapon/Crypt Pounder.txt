@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 23
 _damageBonus : 10
 _readonlyDamageRange : (23, 36)
-_weaponConditionSlot : {
-    _scriptableCondition : Hex - ID: 5
-    _chance : 0.12
-    _bonusPower : 0
-    _bonusDuration : 5
-}
 weaponTexture : hammer02Tex (UnityEngine.Texture2D)
 weaponMesh : _axeHammer_02 (UnityEngine.Mesh)
 trailColors : #3E00B0FF & #4528FFFF

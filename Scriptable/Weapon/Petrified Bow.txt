@@ -43,12 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_arrow_shadow (ScriptableWeaponProject
 _weaponDamage : 16
 _damageBonus : 4
 _readonlyDamageRange : (16, 23)
-_weaponConditionSlot : {
-    _scriptableCondition : Hex - ID: 5
-    _chance : 0.062
-    _bonusPower : 0
-    _bonusDuration : 5
-}
 weaponTexture : bow05Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_05 (UnityEngine.Mesh)
 trailColors : #8914C8FF & #FF0000FF

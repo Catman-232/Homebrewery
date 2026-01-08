@@ -43,12 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(ele_fire)_01 (ScriptableWeapo
 _weaponDamage : 20
 _damageBonus : 9
 _readonlyDamageRange : (20, 32)
-_weaponConditionSlot : {
-    _scriptableCondition : Burn - ID: 7
-    _chance : 0.2
-    _bonusPower : 3
-    _bonusDuration : 0
-}
 weaponTexture : scepter06Tex_00 (UnityEngine.Texture2D)
 weaponMesh : _scepter06 (UnityEngine.Mesh)
 trailColors : #FF8400FF & #651010FF

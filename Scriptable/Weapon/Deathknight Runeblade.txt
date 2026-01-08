@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 40
 _damageBonus : 9
 _readonlyDamageRange : (40, 52)
-_weaponConditionSlot : None
 weaponTexture : _deathKnightSwordTex (UnityEngine.Texture2D)
 weaponMesh : _playerDeathKnightSword (UnityEngine.Mesh)
 trailColors : #5D0589C9 & #8C149CFF

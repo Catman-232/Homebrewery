@@ -23,7 +23,7 @@ _statArray : {
     _magicCriticalRate : 0
     _evasion : 0
     _defense : 30
-    _magicDefense : 6
+    _magicDefense : 0
     _fireResist : 0
     _waterResist : 0
     _natureResist : 0

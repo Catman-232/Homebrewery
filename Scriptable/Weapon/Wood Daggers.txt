@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 1
 _damageBonus : 0
 _readonlyDamageRange : (1, 4)
-_weaponConditionSlot : None
 weaponTexture : _dagger01Tex_wood (UnityEngine.Texture2D)
 weaponMesh : _lightMelee_dagger01 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #959595FF

@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_arrow_torrentius (ScriptableWeaponPro
 _weaponDamage : 30
 _damageBonus : 14
 _readonlyDamageRange : (30, 47)
-_weaponConditionSlot : None
 weaponTexture : bow07Tex_00 (UnityEngine.Texture2D)
 weaponMesh : bow_07 (UnityEngine.Mesh)
 trailColors : #4CFF45FF & #167D33FF

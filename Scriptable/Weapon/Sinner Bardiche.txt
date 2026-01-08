@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 12
 _damageBonus : 17
 _readonlyDamageRange : (12, 32)
-_weaponConditionSlot : {
-    _scriptableCondition : Gash - ID: 0
-    _chance : 0.026
-    _bonusPower : 0
-    _bonusDuration : -3
-}
 weaponTexture : bardiche_texure (UnityEngine.Texture2D)
 weaponMesh : polearm_bardiche (UnityEngine.Mesh)
 trailColors : #FF4C4CA3 & #84000084

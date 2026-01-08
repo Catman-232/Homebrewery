@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 25
 _damageBonus : 9
 _readonlyDamageRange : (25, 37)
-_weaponConditionSlot : {
-    _scriptableCondition : Gash - ID: 0
-    _chance : 0.08
-    _bonusPower : 0
-    _bonusDuration : 0
-}
 weaponTexture : polearm04Tex_01 (UnityEngine.Texture2D)
 weaponMesh : polearm_04_alt00 (UnityEngine.Mesh)
 trailColors : #FF5858A3 & #E2000084

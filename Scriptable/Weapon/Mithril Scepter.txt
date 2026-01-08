@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_scepter(ele_normal) (ScriptableWeapon
 _weaponDamage : 17
 _damageBonus : 0
 _readonlyDamageRange : (17, 20)
-_weaponConditionSlot : None
 weaponTexture : scepter02Tex_03 (UnityEngine.Texture2D)
 weaponMesh : _scepter02_alt00 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #ABAAAAFF

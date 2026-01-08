@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 28
 _damageBonus : 9
 _readonlyDamageRange : (28, 40)
-_weaponConditionSlot : None
 weaponTexture : miniGeist_tex01 (UnityEngine.Texture2D)
 weaponMesh : _geistScythe_big (UnityEngine.Mesh)
 trailColors : #34FF63A5 & #E26700FF

@@ -43,12 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 28
 _damageBonus : 13
 _readonlyDamageRange : (28, 44)
-_weaponConditionSlot : {
-    _scriptableCondition : Burn - ID: 7
-    _chance : 0.08
-    _bonusPower : 3
-    _bonusDuration : 2
-}
 weaponTexture : polearm05_tex (UnityEngine.Texture2D)
 weaponMesh : polearm_05 (UnityEngine.Mesh)
 trailColors : #FF4242A3 & #FF864284

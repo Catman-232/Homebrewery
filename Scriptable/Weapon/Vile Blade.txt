@@ -37,18 +37,12 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Sword
+weaponType : Blade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 14
 _damageBonus : 3
 _readonlyDamageRange : (14, 20)
-_weaponConditionSlot : {
-    _scriptableCondition : Poison - ID: 9
-    _chance : 0.12
-    _bonusPower : 5
-    _bonusDuration : 2
-}
 weaponTexture : blade04Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _lightWeapon_blade04 (UnityEngine.Mesh)
 trailColors : #FF45DDFF & #6D018E59

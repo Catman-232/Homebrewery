@@ -43,7 +43,6 @@ _weaponProjectileSet : weaponProjectileSet_magitekBurstGun (ScriptableWeaponProj
 _weaponDamage : 23
 _damageBonus : 4
 _readonlyDamageRange : (23, 30)
-_weaponConditionSlot : None
 weaponTexture : gun00Tex_00 (UnityEngine.Texture2D)
 weaponMesh : gun_00 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #FF0000FF

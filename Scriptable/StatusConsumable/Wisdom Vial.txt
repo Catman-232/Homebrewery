@@ -1,7 +1,7 @@
 - ScriptableItem -
 name : (lv-0) STATUSCONSUMABLE_Wisdom Vial
 _itemName : Wisdom Vial
-_itemDescription : A small drop to slightly comprehend the powers of magic.
+_itemDescription : Slightly boosts tolerance for defending against magical attacks.
 _destroyOnDrop : False
 _vendorCost : 78
 _maxStackAmount : 99

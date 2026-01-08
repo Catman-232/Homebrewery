@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 15
 _damageBonus : 13
 _readonlyDamageRange : (15, 31)
-_weaponConditionSlot : None
 weaponTexture : polearm08Tex_00 (UnityEngine.Texture2D)
 weaponMesh : polearm_08 (UnityEngine.Mesh)
 trailColors : #FFC75FFF & #FAE0C0FF

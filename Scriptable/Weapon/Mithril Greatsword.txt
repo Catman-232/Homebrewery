@@ -43,7 +43,6 @@ _weaponProjectileSet :
 _weaponDamage : 28
 _damageBonus : 3
 _readonlyDamageRange : (28, 34)
-_weaponConditionSlot : None
 weaponTexture : greatsword01Tex_02 (UnityEngine.Texture2D)
 weaponMesh : _heavyWeapon_greatsword01_alt00 (UnityEngine.Mesh)
 trailColors : #4E84A651 & #A6A6A6FF

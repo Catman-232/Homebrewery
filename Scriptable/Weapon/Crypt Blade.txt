@@ -37,13 +37,12 @@ _statModifierCost : {
 }
 
 - ScriptableWeapon -
-weaponType : Sword
+weaponType : Blade
 _combatElement : None
 _weaponProjectileSet : 
 _weaponDamage : 4
 _damageBonus : 4
 _readonlyDamageRange : (4, 11)
-_weaponConditionSlot : None
 weaponTexture : meleeWepTex_blade05 (UnityEngine.Texture2D)
 weaponMesh : _weapon_blade05 (UnityEngine.Mesh)
 trailColors : #FFFFFFFF & #A8A8A8FF
